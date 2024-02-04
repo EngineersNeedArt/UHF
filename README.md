@@ -29,3 +29,7 @@ Note: OMXPlayer itself is already installed on Buster but has been deprecated si
 For displaying static images **UHF** uses `feh`. Here is the Terminal command to install `feh`:
 
 `sudo apt-get install feh`
+
+## Basics
+
+The primary file is `uhf.py`. Near the top of the file is a hard-coded path (`CHANNEL_FILE_PATH`) for where the schedule file and/or playlist files live. You should set this path to point to your own "channel" directory.
