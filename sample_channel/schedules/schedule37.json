@@ -1,0 +1,124 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "1B4980B3" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 167 Beaver's English Test.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 167 Beaver's English Test"
+    },
+    "LWAC2" : {
+      "series_id" : "LWAC",
+      "order" : 2,
+      "title" : "Baby Cart at the River Styx",
+      "duration" : 4891,
+      "year" : 1972,
+      "path" : "..\/Samurai\/Lone Wolf and Cub 2 - Baby Cart at the River Styx (1972).m4v",
+      "description" : "Lone Wolf and Cub"
+    },
+    "ACBB2400" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 170 Ward's Golf Clubs.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 170 Ward's Golf Clubs"
+    },
+    "199908" : {
+      "series_id" : "1999",
+      "order" : 8,
+      "title" : "Dragon's Domain",
+      "duration" : 3138,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 08 Dragon's Domain.mp4",
+      "description" : ""
+    },
+    "2370D873" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 166 Weekend Invitation.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 166 Weekend Invitation"
+    },
+    "C89A789E" : {
+      "path" : "..\/U.F.O.\/UFO - 08 Sub-Smash.m4v",
+      "title" : "Sub-Smash",
+      "series_id" : "UFOT",
+      "order" : 8,
+      "year" : 1970,
+      "duration" : 2975
+    },
+    "2FD86F78" : {
+      "path" : "..\/1940's Classics\/Monsieur Verdoux (1947).mp4",
+      "duration" : 7440,
+      "title" : "Monsieur Verdoux (1947)"
+    },
+    "FVSB1965" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Frankenstein vs. Baragon (Conquers The World, 1965).mp4",
+      "title" : "Frankenstein vs. Baragon",
+      "description" : "Frankenstein Conquers the World",
+      "year" : 1965,
+      "duration" : 5585
+    },
+    "5A160CA5" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 168 Wally's Chauffeur.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 168 Wally's Chauffeur"
+    },
+    "D708A8EB" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 169 Beaver's First Date.m4v",
+      "duration" : 1537,
+      "title" : "Leave it to Beaver - 169 Beaver's First Date"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "LWAC2"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "2370D873"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:55",
+        "resource_id" : "2FD86F78"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "1B4980B3"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "5A160CA5"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "D708A8EB"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199908"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "ACBB2400"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "C89A789E"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "FVSB1965"
+      }
+    ]
+  ]
+}

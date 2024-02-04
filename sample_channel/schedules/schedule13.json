@@ -1,0 +1,520 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "RBBT12" : {
+      "series_id" : "RBBT",
+      "order" : 12,
+      "title" : "The Small Assassin",
+      "duration" : 1513,
+      "year" : 1988,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 12 The Small Assassin.m4v",
+      "description" : "A terrified new mother is convinced that her infant son is somehow trying to kill her but naturally nobody believes her."
+    },
+    "LISP48" : {
+      "series_id" : "LISP",
+      "order" : 48,
+      "title" : "Mutiny in Space",
+      "duration" : 3083,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 48 Mutiny in Space.m4v",
+      "description" : "A space pirate looking for his crew that mutinied finds Will and Dr. Smith trying to repair his empty ship."
+    },
+    "MSTK0110" : {
+      "series_id" : "MSTK",
+      "order" : 32,
+      "title" : "Robot Holocaust",
+      "duration" : 5843,
+      "year" : 1990,
+      "path" : "..\/MST3K\/MST3K 110 - Robot Holocaust.mp4",
+      "description" : "When the ninth chapter of Radar Men from the Moon (1952) encounters technical difficulties, it gives the Mads an earlier opportunity to bring the Satellite of Love and its crew to their knees via Robot Holocaust (1987)."
+    },
+    "SPRA19" : {
+      "series_id" : "SPRA",
+      "order" : 19,
+      "title" : "Girl Daredevil (part 2)",
+      "duration" : 1461,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 19 Girl Daredevil (part 2).mp4",
+      "description" : "Brotch and his cronies imprison Speed and Twinke in a cave and head off to their Mt Rushmore lair. But it doesn't take long before the two escape and a major fight breaks out."
+    },
+    "LISP47" : {
+      "series_id" : "LISP",
+      "order" : 47,
+      "title" : "The Toymaker",
+      "duration" : 3082,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 47 The Toymaker.m4v",
+      "description" : "Smith and Will find a toymaker's world inside an alien merchandise-ordering machine."
+    },
+    "DRHI10" : {
+      "series_id" : "DRHI",
+      "order" : 10,
+      "title" : "New York City",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 10 New York City.m4v",
+      "description" : "The U.S. reluctantly accepts the Statue of Liberty, Sybil Ludington goes on an epic ride to warn of a British attack, and journalist Nellie Bly infiltrates a corrupt mental institution."
+    },
+    "SPRA20" : {
+      "series_id" : "SPRA",
+      "order" : 20,
+      "title" : "The Fastest Car on Earth (part 1)",
+      "duration" : 1447,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 20 The Fastest Car on Earth (part 1).mp4",
+      "description" : "Pops is horrified at the return of the GRX, a supernaturally powerful engine that has ended up killing or harming every one of its drivers."
+    },
+    "LITB049" : {
+      "series_id" : "LITB",
+      "order" : 49,
+      "title" : "Wally's New Suit",
+      "duration" : 1555,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 049 Wally's New Suit.mp4",
+      "description" : "June cleverly rescues Wally from bad taste after he is goaded by Eddie Haskell into buying a new suit for an upcoming school dance without his parents' help."
+    },
+    "RT66019" : {
+      "series_id" : "RT66",
+      "order" : 19,
+      "title" : "An Absence of Tears",
+      "duration" : 2348,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 019 An Absence of Tears (DAMAGED, SHORT.m4v",
+      "description" : "DAMAGED, SHORT. Still in the Los Angeles area with Tod struggling over his computer class at UCLA and Buz enjoying the \"sights\", a beautiful blond woman enters their lives. She was recently married and almost immediately widowed. The lady will stop at nothing to find the men who killed her husband-despite being blind."
+    },
+    "TREK20" : {
+      "series_id" : "TREK",
+      "order" : 20,
+      "title" : "Court Martial",
+      "duration" : 3031,
+      "year" : 1967,
+      "path" : "..\/Star Trek TOS\/Star Trek - 20 Court Martial.mp4",
+      "description" : "Kirk draws a court martial in the negligent death of a crewman."
+    },
+    "LISP46" : {
+      "series_id" : "LISP",
+      "order" : 46,
+      "title" : "The Questing Beast",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 46 The Questing Beast.m4v",
+      "description" : "A space knight is following the questing beast who Penny becomes friends with."
+    },
+    "OFUK10" : {
+      "series_id" : "OFUK",
+      "order" : 10,
+      "title" : "Motivation",
+      "duration" : 1758,
+      "year" : 2002,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 10.mp4",
+      "description" : "David's attempt at being cool includes sporting an earring. His session as a trainer arrives but his unique approach doesn't work very well."
+    },
+    "PTFD1951" : {
+      "path" : "..\/1950's Classics\/Pandora and the Flying Dutchman (1951).m4v",
+      "title" : "Pandora and the Flying Dutchman",
+      "year" : 1951,
+      "duration" : 7445
+    },
+    "ACGS10" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 10 We Can But Hope.m4v",
+      "title" : "We Can But Hope",
+      "series_id" : "ACGS",
+      "order" : 10,
+      "duration" : 3136
+    },
+    "LITB048" : {
+      "series_id" : "LITB",
+      "order" : 48,
+      "title" : "The Pipe",
+      "duration" : 1557,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 048 The Pipe.mp4",
+      "description" : "Wally gets blamed after Beaver takes pal Larry Mondello's dare to smoke the new Meerschaum pipe that Fred Rutherford sent as a gift to Ward from Germany."
+    },
+    "PATV09" : {
+      "series_id" : "PATV",
+      "order" : 9,
+      "title" : "The Horse Race",
+      "duration" : 2945,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 09.mp4",
+      "description" : "Virdon agrees to race a chimpanzee Prefect's horse against Urkos best horse, in exchange for a condemned boy's freedom. Urko has never lost a race, but of course, as Virdon finds out, Urko doesn't play fair. Despite Urko's treachery and cheating, Virdon prevails in the end."
+    },
+    "CADF11" : {
+      "series_id" : "CADF",
+      "order" : 11,
+      "title" : "The Holy Thief",
+      "duration" : 4541,
+      "year" : 1998,
+      "path" : "..\/Cadfael\/Cadfael - The Holy Thief.m4v",
+      "description" : "Ramsey Abbey in Cambridgeshire puts in a claim for the remains of St. Winifred, whose reliquary is the object of prayer and lucrative donations to Shrewsbury Abbey."
+    },
+    "MWAM1929" : {
+      "path" : "..\/Birth of Cinema\/Man With a Movie Camera (1929).mp4",
+      "title" : "Man with a Movie Camera",
+      "description" : "Experimental Ukrainian Soviet documentary famous for the range of cinematic techniques Vertov (director) invented or employed, such as multiple exposure, fast & slow motion, freeze frames, match cuts, jump cuts, split screens, etc. From dawn to dusk Soviet citizens are shown at work and at play, and interacting with the machinery of modern life. Silent.",
+      "year" : 1929,
+      "duration" : 4001
+    },
+    "BSG110" : {
+      "series_id" : "BSG1",
+      "order" : 10,
+      "title" : "The Living Legend (part 2)",
+      "duration" : 2925,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 11 - The Living Legend (part 2).m4v",
+      "description" : "After Baltar's attack is repulsed, the crews of the Galactica and Pegasus carry out an attack on the planet Gamoray to acquire fuel supplies."
+    },
+    "AQWF1930" : {
+      "path" : "..\/AFI 100\/All Quiet on the Western Front (1930).m4v",
+      "title" : "All Quiet on the Western Front",
+      "description" : "A landmark for its vivid depiction of the tragedy of World War I from a German soldier’s point of view, for its technically inventive, spectacular battle scenes (at the dawn of sound in film), and for its prescient denunciation of fanatic nationalism and militarism.",
+      "year" : 1930,
+      "duration" : 8023
+    },
+    "LRSS10" : {
+      "series_id" : "LRSS",
+      "order" : 10,
+      "title" : "Party",
+      "duration" : 1366,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 10 The Party.m4v",
+      "description" : "An innocent invitation to Arthur and his wife for dinner turns into a full-blown staff party"
+    },
+    "SOKO10" : {
+      "series_id" : "SOKO",
+      "order" : 10,
+      "title" : "The Transformed Humans",
+      "duration" : 1464,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 10.m4v",
+      "description" : "Dr. Over makes Ligon swallow a train near Lake Biwa to kidnap Suzuki, one of the passengers and head of the Kyoto Branch of Unicorn Organization."
+    },
+    "RASC1969" : {
+      "path" : "..\/Drive-In Night\/Racing Scene, The (1969).mp4",
+      "title" : "The Racing Scene",
+      "description" : "",
+      "year" : 1969,
+      "duration" : 5551
+    },
+    "LITB047" : {
+      "series_id" : "LITB",
+      "order" : 47,
+      "title" : "The Shave",
+      "duration" : 1550,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 047 The Shave.mp4",
+      "description" : "Wally decides to start shaving."
+    },
+    "TPOD12" : {
+      "series_id" : "TPOD",
+      "order" : 12,
+      "title" : "France: October, 2089 AD",
+      "duration" : 1461,
+      "year" : 1984,
+      "path" : "..\/Tripods, The (TV Series)\/Tripods, The - 12.mp4",
+      "description" : "Escaping many dangers since the vineyard, the boys finally come within sight of The White Mountains."
+    },
+    "MAMB1942" : {
+      "path" : "..\/1940's Classics\/Magnificent Ambersons, The (1942).m4v",
+      "title" : "The Magnificent Ambersons",
+      "description" : "",
+      "year" : 1942,
+      "duration" : 5303
+    },
+    "CON110" : {
+      "series_id" : "CON1",
+      "order" : 10,
+      "title" : "Yesterday, Tomorrow and You",
+      "duration" : 2962,
+      "year" : 1978,
+      "path" : "..\/Connections 1\/Connections 10 Yesterday, Tomorrow and You.mp4",
+      "description" : "Burke ties together the modern inventions in which previous episodes had culminated: telecommunications, the computer, the jet engine, plastics, rockets, television, the production line, and the atomic bomb."
+    },
+    "ICLD10" : {
+      "series_id" : "ICLD",
+      "order" : 10,
+      "title" : "Hail Who?",
+      "duration" : 3124,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 10.m4v",
+      "description" : "Caligula has not only made his horse a senator but has turned the palace into a brothel, selling off senators and their wives for sex."
+    },
+    "LITB046" : {
+      "series_id" : "LITB",
+      "order" : 46,
+      "title" : "Beaver's Ring",
+      "duration" : 1548,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 046 Beaver's Ring.mp4",
+      "description" : "A letter from Beaver's godmother, June's Aunt Martha, brings the young man an heirloom ring once belonging to Beaver's namesake, his great-uncle Theodore. But his parents forbid him to wear it to school because losing it would terribly upset his great-aunt and Beaver's troubles begin after his clever plan to show the ring to his school pals without actually \"wearing\" it there is derailed by creepy Judy Hensler."
+    },
+    "FWLT10" : {
+      "series_id" : "FWLT",
+      "order" : 10,
+      "title" : "The Kipper and the Corpse",
+      "duration" : 1894,
+      "year" : 1979,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 10 The Kipper and the Corpse.mp4",
+      "description" : "One of the guests has died in his sleep, but Basil thinks it's due to serving him spoiled food."
+    },
+    "LITB050" : {
+      "series_id" : "LITB",
+      "order" : 50,
+      "title" : "School Play",
+      "duration" : 1548,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 050 School Play.mp4",
+      "description" : "Beaver is excited to be cast as the canary, the lead character in his school play, until Ward's \"pep\" talk gives him stage fright."
+    },
+    "ULTR09J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 09 Lightning Operation.mp4",
+      "title" : "Lightning Operation",
+      "series_id" : "ULTR",
+      "order" : 9,
+      "duration" : 1520
+    },
+    "RT66020" : {
+      "series_id" : "RT66",
+      "order" : 20,
+      "title" : "Like a Motherless Child",
+      "duration" : 3092,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 020 Like a Motherless Child.m4v",
+      "description" : "Tod and Buz, driving through Nevada, pick up an orphan hitchhiking. Tod insists he be returned to the orphanage. Buz, both unhappy and angry, separates from Tod. On his own now, Buz looks to fill his loneliness and meets a motherly lady. He finds her sad life includes alcoholism over regret for a long lost son."
+    },
+    "SMRI3" : {
+      "series_id" : "SMRI",
+      "order" : 3,
+      "title" : "Duel at Ganryu Island",
+      "duration" : 6309,
+      "year" : 1956,
+      "path" : "..\/Samurai\/Samurai III - Duel at Ganryu Island (1956).m4v",
+      "description" : "Samurai III"
+    },
+    "7787AD9B" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Gamera vs. Monster X (Gamera vs. Jiger, 1970, dubbed).m4v",
+      "duration" : 4461,
+      "title" : "Gamera vs. Monster X (Gamera vs. Jiger, 1970, dubbed)"
+    },
+    "FETM09" : {
+      "series_id" : "FETM",
+      "order" : 9,
+      "title" : "For Miles and Miles",
+      "duration" : 2986,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 9 For Miles And Miles.m4v",
+      "description" : "Ten years after becoming the first American in space Alan Shepard battles back from health problems to command the Apollo 14 mission."
+    },
+    "BITR1930" : {
+      "path" : "..\/Westerns\/Big Trail, The (1930).mp4",
+      "title" : "The Big Trail",
+      "description" : "",
+      "year" : 1930,
+      "duration" : 7305
+    },
+    "ULTR19" : {
+      "series_id" : "ULTR",
+      "order" : 19,
+      "title" : "Demons Rise Again",
+      "duration" : 1517,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 19.mp4",
+      "description" : "An object that is unearthed at a construction site is initially believed to be a time capsule. Further investigation reveals that it is a prison for two dangerous monsters."
+    },
+    "ULTR20" : {
+      "series_id" : "ULTR",
+      "order" : 20,
+      "title" : "Terror on Route 87",
+      "duration" : 1517,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 20.mp4",
+      "description" : "A dragon statue that was designed by a boy comes to life when the boy is killed by a car. The dragon's mission is to protect children from the dangers of automobiles."
+    },
+    "STAN10" : {
+      "series_id" : "STAN",
+      "order" : 10,
+      "title" : "Mudd's Passion",
+      "duration" : 1449,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 10 Mudd's Passion.m4v",
+      "description" : "The Enterprise crew once again runs afoul of the incorrigible Harry Mudd, this time hawking a love potion that greatly influences Spock and the crew."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR09J"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "TPOD12"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV09"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "SMRI3"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM09"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66019"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "MWAM1929"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB046"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA19"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP46"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "FWLT10"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CADF11"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "MAMB1942"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB047"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR19"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP47"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS10"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON110"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "AQWF1930"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT12"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "PTFD1951"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB048"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO10"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP48"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK10"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "BITR1930"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66020"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB049"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA20"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "TREK20"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS10"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB050"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR20"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG110"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI10"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD10"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN10"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "7787AD9B"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0110"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "RASC1969"
+      }
+    ]
+  ]
+}

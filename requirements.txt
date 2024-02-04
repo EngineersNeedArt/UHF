@@ -1,0 +1,6 @@
+dateutil
+pillow
+schedule
+omxplayer-wrapper
+python-vlc
+

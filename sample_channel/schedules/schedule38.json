@@ -1,0 +1,127 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ZATO15" : {
+      "series_id" : "ZATO",
+      "order" : 15,
+      "title" : "Zatoichi's Cane Sword",
+      "duration" : 5590,
+      "year" : 1967,
+      "path" : "..\/Samurai\/Zatoichi 15 - Zatoichi's Cane Sword (1967).m4v",
+      "description" : ""
+    },
+    "F966B2C8" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 171 Farewell to Penny.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 171 Farewell to Penny"
+    },
+    "199909" : {
+      "series_id" : "1999",
+      "order" : 9,
+      "title" : "The Mission of the Darians",
+      "duration" : 3134,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 09 The Mission of the Darians.mp4",
+      "description" : ""
+    },
+    "88A7D0C8" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 172 Beaver, the Bunny.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 172 Beaver, the Bunny"
+    },
+    "DOGO1964" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Dogora (1964, dubbed).mp4",
+      "title" : "Dogora",
+      "description" : "",
+      "year" : 1964,
+      "duration" : 4982
+    },
+    "TLFS1947" : {
+      "path" : "..\/1940's Classics\/Lady From Shanghai, The (1947).mp4",
+      "title" : "The Lady from Shanghai",
+      "description" : "",
+      "year" : 1947,
+      "duration" : 5250
+    },
+    "B51E5A4F" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 173 Beaver's Electric Trains.m4v",
+      "duration" : 1536,
+      "title" : "Leave it to Beaver - 173 Beaver's Electric Trains"
+    },
+    "DA076664" : {
+      "series_id" : "UFOT",
+      "order" : 9,
+      "title" : "Destruction",
+      "duration" : 2974,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 09 Destruction.m4v",
+      "description" : ""
+    },
+    "9D662124" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 175 Beaver's Jacket.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 175 Beaver's Jacket"
+    },
+    "E4D3E93B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 174 Beaver's Long Night.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 174 Beaver's Long Night"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO15"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "F966B2C8"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TLFS1947"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "88A7D0C8"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "B51E5A4F"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "E4D3E93B"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199909"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "9D662124"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "DA076664"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DOGO1964"
+      }
+    ]
+  ]
+}

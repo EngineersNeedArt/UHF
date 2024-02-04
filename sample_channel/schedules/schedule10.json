@@ -1,0 +1,531 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ORPH1950" : {
+      "path" : "..\/1950's Classics\/Orpheus (Orphée, 1950).mp4",
+      "title" : "Orpheus",
+      "description" : "Orphée",
+      "year" : 1950,
+      "duration" : 5762
+    },
+    "ZATO02" : {
+      "series_id" : "ZATO",
+      "order" : 2,
+      "title" : "The Tale of Zatoichi Continues",
+      "duration" : 4352,
+      "year" : 1962,
+      "path" : "..\/Samurai\/Zatoichi 02 - The Tale of Zatoichi Continues (1962).m4v",
+      "description" : ""
+    },
+    "LISP34" : {
+      "series_id" : "LISP",
+      "order" : 34,
+      "title" : "Space Circus",
+      "duration" : 3080,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 34 Space Circus.m4v",
+      "description" : "A space circus comes to town and the owner wants Will to run away with it."
+    },
+    "STAN07" : {
+      "series_id" : "STAN",
+      "order" : 7,
+      "title" : "The Infinite Vulcan",
+      "duration" : 1448,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 07 The Infinite Vulcan.m4v",
+      "description" : "On a planet of intelligent plantlike creatures, the clone of a human scientist clones Mr. Spock for use in a galactic peace mission."
+    },
+    "LITB034" : {
+      "series_id" : "LITB",
+      "order" : 34,
+      "title" : "Beaver's Bad Day",
+      "duration" : 1569,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 034 Beaver's Bad Day.mp4",
+      "description" : "The whole Cleaver family learns a lesson in truthfulness after Eddie Haskell intimidates Beaver into lying about how his good suit pants were torn."
+    },
+    "RT66014" : {
+      "series_id" : "RT66",
+      "order" : 14,
+      "title" : "Play it Glissando",
+      "duration" : 3084,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 014 Play it Glissando.m4v",
+      "description" : "Tod and Buz, vacationing in Malibu, California, are drawn into the world of a paranoid Progressive Jazz trumpeter and his wife. Told largely in flashback by Buz, beginning innocently enough with Buz having made a connection with lounge songstress Kitty Parker."
+    },
+    "MSTK0107" : {
+      "series_id" : "MSTK",
+      "order" : 29,
+      "title" : "Robot Monster",
+      "duration" : 5858,
+      "year" : 1989,
+      "path" : "..\/MST3K\/MST3K 107 - Robot Monster.mp4",
+      "description" : "The guys watch a post-apocalyptic film about aliens and robots, riff on two more installments of \"Radar Men from the Moon\", and try to understand surrealism."
+    },
+    "RBBT10" : {
+      "series_id" : "RBBT",
+      "order" : 10,
+      "title" : "Gotcha!",
+      "duration" : 1503,
+      "year" : 1988,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 10 Gotcha!.m4v",
+      "description" : "At a masquerade party, a lonely man dressed as comedian Oliver Hardy is about to leave, when he meets a woman costumed as Hardy's comic partner Stan Laurel. Captivated with each other, they run off into the night. They stay in love and in their fantasy, until the man muses if this dream can last? The woman suggests they see, by playing a game she calls Gotcha."
+    },
+    "FETM06" : {
+      "series_id" : "FETM",
+      "order" : 6,
+      "title" : "Mare Tranquilitatis",
+      "duration" : 3364,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 6 Mare Tranquilitatis.m4v",
+      "description" : "Buzz Aldrin, Neil Armstrong, and Michael Collins prepare for the Apollo 11 mission to the moon."
+    },
+    "LISP32" : {
+      "series_id" : "LISP",
+      "order" : 32,
+      "title" : "The Ghost Planet",
+      "duration" : 3085,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 32 The Ghost Planet.m4v",
+      "description" : "Smith makes the Jupiter 2 land on a planet occupied by cyborgs."
+    },
+    "RT66013" : {
+      "series_id" : "RT66",
+      "order" : 13,
+      "title" : "The Quick and the Dead",
+      "duration" : 3072,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 013 The Quick and the Dead.m4v",
+      "description" : "Tod and Buz are in California for the Riverside Grand Prix auto races which Tod decides to enter in the Stock-Class.Doing well in practice,he is asked to drive in the main event.After being drawn into the conflict between a veteran driver,his daughter and second wife, Tod nearly is \"rerouted\" in more ways than one."
+    },
+    "DRHI07" : {
+      "series_id" : "DRHI",
+      "order" : 7,
+      "title" : "Nashville",
+      "duration" : 1283,
+      "year" : 2013,
+      "path" : "..\/Drunk History\/Drunk History - 07 Nashville.m4v",
+      "description" : "Lewis and Clark explore the dangerous west, evolution is questioned in the controversial \"trial of the century,\" and Dolly Parton has to leave the man who made her famous. Guest starring Tony Hale, Aubrey Plaza, Jack McBrayer and more."
+    },
+    "OFUK07" : {
+      "series_id" : "OFUK",
+      "order" : 7,
+      "title" : "Merger",
+      "duration" : 1758,
+      "year" : 2001,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 07.mp4",
+      "description" : "It's the day of the big merger. The Swindon branch has closed and several of the staff, including the new manager of the combined Slough Branch, Neil Godwin, arrive."
+    },
+    "LITB033" : {
+      "series_id" : "LITB",
+      "order" : 33,
+      "title" : "Wally's Job",
+      "duration" : 1568,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 033 Wally's Job.mp4",
+      "description" : "Wally hedges after making a deal with his dad to paint the trashcans for fifty cents each, convinced by Eddie Haskell to hold out for more money. But when Beaver takes the job at the original price, causing hard feelings between the brothers, Ward looks for a compromise to satisfy everyone and finds, in the end, that boys will be boys and moms are full of surprises."
+    },
+    "LISP31" : {
+      "series_id" : "LISP",
+      "order" : 31,
+      "title" : "Wild Adventure",
+      "duration" : 3084,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 31 Wild Adventure.m4v",
+      "description" : "Smith finds the course back to earth, but a space female lures Smith out of the ship. Saving him would again leave the crew of the Jupiter 2 lost in space."
+    },
+    "ULTR14" : {
+      "series_id" : "ULTR",
+      "order" : 14,
+      "title" : "The Pearl Defense Directive",
+      "duration" : 1518,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 14.mp4",
+      "description" : "A pearl-eating monster wreaks havoc on world pearl prices, much to Fuji's consternation."
+    },
+    "NASP1953" : {
+      "path" : "..\/Westerns\/Naked Spur, The (1953).m4v",
+      "title" : "The Naked Spur",
+      "description" : "",
+      "year" : 1953,
+      "duration" : 5498
+    },
+    "DUEL1971" : {
+      "path" : "..\/Drive-In Night\/Duel (1971).mp4",
+      "title" : "Duel",
+      "description" : "",
+      "year" : 1971,
+      "duration" : 5355
+    },
+    "ACGS07" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 07 The Night Before Christmas.m4v",
+      "title" : "The Night Before Christmas",
+      "series_id" : "ACGS",
+      "order" : 7,
+      "description" : "",
+      "duration" : 3682
+    },
+    "ULTR13" : {
+      "series_id" : "ULTR",
+      "order" : 13,
+      "title" : "Oil S.O.S.",
+      "duration" : 1518,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 13.mp4",
+      "description" : "A giant bat-like monster travels the planet eating the world's oil."
+    },
+    "LITB032" : {
+      "series_id" : "LITB",
+      "order" : 32,
+      "title" : "Beaver's Old Friend",
+      "duration" : 1567,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 032 Beaver's Old Friend.mp4",
+      "description" : "Memories of companionship and comfort prevent Beaver from letting go of his well-worn teddy bear, Billy, and prompt the little boy to rescue his furry friend from the garbage truck even though Ward and Wally tease that he's \"too old\" to play with dolls."
+    },
+    "CADF08" : {
+      "series_id" : "CADF",
+      "order" : 8,
+      "title" : "The Rose Rent",
+      "duration" : 4530,
+      "year" : 1997,
+      "path" : "..\/Cadfael\/Cadfael - The Rose Rent.m4v",
+      "description" : "A beautiful, wealthy widow turns her back on the world to find solace with the church and gives her house over to the abbey for the rent of a single white rose each year."
+    },
+    "SPRA14" : {
+      "series_id" : "SPRA",
+      "order" : 14,
+      "title" : "The Desperate Desert Race (part 1)",
+      "duration" : 1467,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 14 The Desperate Desert Race (part 1).mp4",
+      "description" : "Speed is forced into a duel-race in the desert with Prince Kim Jugger, the wildest driver in the world."
+    },
+    "SOKO07" : {
+      "series_id" : "SOKO",
+      "order" : 7,
+      "title" : "Our Enemy: Scalion",
+      "duration" : 1509,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 07.m4v",
+      "description" : "There is the decoding office of the Japanese Branch of Unicorn Organization in the basement of a lighthouse on the coast of the Pacific Ocean."
+    },
+    "BSG107" : {
+      "series_id" : "BSG1",
+      "order" : 7,
+      "title" : "The Magnificent Warriors",
+      "duration" : 2926,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 08 - The Magnificent Warriors.m4v",
+      "description" : "After the Cylons destroy two of the fleet's Agro ships and cripple the last remaining one, Adama hopes to swap an old energizer for seed on the the planet Sectar in Quadrant Zeta. Unfortunately, Siress Belloby won't give up the energizer unless the commander courts her."
+    },
+    "MSGW1939" : {
+      "path" : "..\/AFI 100\/Mr. Smith Goes to Washington (1939).m4v",
+      "title" : "Mr. Smith Goes to Washington",
+      "description" : "",
+      "year" : 1939,
+      "duration" : 7802
+    },
+    "PATV06" : {
+      "series_id" : "PATV",
+      "order" : 6,
+      "title" : "Tomorrow's Tide",
+      "duration" : 2986,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 06.mp4",
+      "description" : "While walking on an ocean beach with Galen, Virdon and Burke see a condemned man lashed to a raft in the water."
+    },
+    "SPRA13" : {
+      "series_id" : "SPRA",
+      "order" : 13,
+      "title" : "Race for Revenge (part 2)",
+      "duration" : 1483,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 13 Race for Revenge (part 2).mp4",
+      "description" : "Speed and Trixie try to stop Flash Jr from carrying out his vengeance, but he swears to eliminate them for interfering."
+    },
+    "YORK1941" : {
+      "path" : "..\/1940's Classics\/Sergeant York (1941).m4v",
+      "title" : "Sergeant York",
+      "description" : "",
+      "year" : 1941,
+      "duration" : 8045
+    },
+    "LRSS07" : {
+      "series_id" : "LRSS",
+      "order" : 7,
+      "title" : "Hank's Contract",
+      "duration" : 1699,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 07 Hank's Contract.m4v",
+      "description" : "Hank threatens to leave the show without a better contract."
+    },
+    "TREK13" : {
+      "series_id" : "TREK",
+      "order" : 13,
+      "title" : "The Conscience of the King",
+      "duration" : 3031,
+      "year" : 1966,
+      "path" : "..\/Star Trek TOS\/Star Trek - 13 The Conscience of the King.mp4",
+      "description" : "While Captain Kirk investigates whether an actor is actually a presumed dead mass murderer, a mysterious assailant is killing the people who could identify the fugitive."
+    },
+    "LITB031" : {
+      "series_id" : "LITB",
+      "order" : 31,
+      "title" : "New Doctor",
+      "duration" : 1563,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 031 New Doctor.mp4",
+      "description" : "Impressed by all the attention Wally receives while in bed with a sore throat, Beaver decides to get some for himself by pretending to be sick."
+    },
+    "CON107" : {
+      "series_id" : "CON1",
+      "order" : 7,
+      "title" : "The Long Chain",
+      "duration" : 2972,
+      "year" : 1978,
+      "path" : "..\/Connections 1\/Connections 07 The Long Chain.mp4",
+      "description" : "Coal tar, ammonia, quinine, synthetic dyes are among a few of the connected discoveries in history that lead to the present."
+    },
+    "ICLD07" : {
+      "series_id" : "ICLD",
+      "order" : 7,
+      "title" : "Queen of Heaven",
+      "duration" : 3130,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 07.m4v",
+      "description" : "Tiberius embarks on a series of acts of debauchery, having sex with anybody he pleases, with Caligula a willing participant."
+    },
+    "8D44B2C8" : {
+      "path" : "..\/Drive-In Night\/Cars that Ate Paris, The (1974).mkv",
+      "duration" : 5259,
+      "title" : "Cars that Ate Paris, The (1974)"
+    },
+    "POTO1925" : {
+      "path" : "..\/Birth of Cinema\/Phantom of the Opera (1925).mp4",
+      "title" : "Phantom of the Opera (1925)",
+      "description" : "Lon Chaney in the title role of the deformed Phantom who haunts the Paris Opera House, causing murder and mayhem in an attempt to make the woman he loves a star. Silent.",
+      "year" : 1925,
+      "duration" : 5478
+    },
+    "TPOD07" : {
+      "series_id" : "TPOD",
+      "order" : 7,
+      "title" : "Chateau Ricordeau, France: August, 2089 AD",
+      "duration" : 1545,
+      "year" : 1984,
+      "path" : "..\/Tripods, The (TV Series)\/Tripods, The - 07.mp4",
+      "description" : "Henry and Beanpole continue on their trip, wondering if Will will catch up with them later. Meanwhile, Will is dealt a shocking blow by his rival for the love of Eloise."
+    },
+    "FWLT07" : {
+      "series_id" : "FWLT",
+      "order" : 7,
+      "title" : "Communications Problem",
+      "duration" : 1884,
+      "year" : 1979,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 07 Communications Problem.mp4",
+      "description" : "When Mrs. Richards, a demanding woman who is hard of hearing, checks into the hotel, Basil, Sybil and Polly find themselves with a very difficult customer. Meanwhile, Basil bets on a horse that is sure to win, however he must not let Sybil find out."
+    },
+    "EF100CEE" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Mothra vs. Godzilla (Godzilla #4, Godzilla vs. the Thing, 1964, dubbed).m4v",
+      "duration" : 5248,
+      "title" : "Mothra vs. Godzilla (Godzilla #4, Godzilla vs. the Thing, 1964, dubbed)"
+    },
+    "ULTR06J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 06 The Coast Guard Command.mp4",
+      "title" : "The Coast Guard Command",
+      "series_id" : "ULTR",
+      "order" : 6,
+      "duration" : 1520
+    },
+    "LITB035" : {
+      "series_id" : "LITB",
+      "order" : 35,
+      "title" : "Boarding School",
+      "duration" : 1570,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 035 Boarding School.mp4",
+      "description" : "Initially impressed by Johnny Franklin's military academy uniform and good manners when Wally's former schoolmate comes to visit, June becomes alarmed when, as a result, Wally wants to attend the academy instead of Mayfield High with the rest of his friends."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR06J"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "TPOD07"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV06"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO02"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM06"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66013"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "POTO1925"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB031"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA13"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP31"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "FWLT07"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CADF08"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "YORK1941"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB032"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR13"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP32"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS07"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON107"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "MSGW1939"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT10"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "ORPH1950"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB033"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO07"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "TREK13"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK07"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "NASP1953"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66014"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB034"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA14"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP34"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS07"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB035"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR14"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG107"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI07"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD07"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN07"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "EF100CEE"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0107"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "DUEL1971"
+      },
+      {
+        "start_time" : "20:30",
+        "resource_id" : "8D44B2C8"
+      }
+    ]
+  ]
+}

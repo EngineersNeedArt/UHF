@@ -1,0 +1,442 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ACGS13" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 13 Home Truths.m4v",
+      "title" : "Home Truths",
+      "series_id" : "ACGS",
+      "order" : 13,
+      "duration" : 3136
+    },
+    "SOFD1943" : {
+      "path" : "..\/1940's Classics\/Shadow of a Doubt (1943).mp4",
+      "title" : "Shadow of a Doubt",
+      "description" : "",
+      "year" : 1943,
+      "duration" : 6470
+    },
+    "BTLR2000" : {
+      "path" : "..\/Drive-In Night\/Battle Royale (2000, HD).mp4",
+      "title" : "Battle Royale",
+      "year" : 2000,
+      "duration" : 7317
+    },
+    "CSMS03" : {
+      "series_id" : "CSMS",
+      "order" : 3,
+      "title" : "Harmony of the Worlds",
+      "duration" : 3519,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 03 Harmony of the Worlds.m4v",
+      "description" : "After briefly looking at the pseudoscience of astrology, Carl Sagan examines the history of astronomy from ancient times through Ptolemy to Johannes Kepler."
+    },
+    "LITB063" : {
+      "series_id" : "LITB",
+      "order" : 63,
+      "title" : "The Bus Ride",
+      "duration" : 1557,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 063 The Bus Ride.mp4",
+      "description" : "A mix-up during a stop at the Elmhurst bus station while on a trip to visit his friend, Billy, in Crystal Falls puts Beaver and his brother, Wally, on separate buses...going in different directions."
+    },
+    "GODZ07" : {
+      "series_id" : "GODZ",
+      "order" : 7,
+      "title" : "Ebirah, Horror of the Deep (Godzilla #7, 1966, dubbed)",
+      "duration" : 5233,
+      "year" : 1966,
+      "path" : "..\/Kaiju (Giant Monsters)\/Ebirah, Horror of the Deep (Godzilla #7, 1966, dubbed).mp4",
+      "description" : ""
+    },
+    "DDC82A2B" : {
+      "path" : "..\/Drive-In Night\/Big Man Japan (2007).m4v",
+      "duration" : 6528,
+      "title" : "Big Man Japan (2007)"
+    },
+    "SOKO13" : {
+      "series_id" : "SOKO",
+      "order" : 13,
+      "title" : "Opticorn Must Be Destroyed",
+      "duration" : 1503,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 13.m4v",
+      "description" : "There is a small quiet Allah Republic at the foot of the Alps. The only product of this beautiful country is gold. Her peace is broken when a vein of new ores is found in a gold mine."
+    },
+    "BSG113" : {
+      "series_id" : "BSG1",
+      "order" : 13,
+      "title" : "War of the Gods (part 2)",
+      "duration" : 2925,
+      "year" : 1979,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 14 - War of the Gods (part 2).m4v",
+      "description" : "Count Iblis has delivered the Colonials' enemy, Baltar before the Council of Twelve. As the Colonials celebrate, Adama and Apollo come to the conclusion that the secret to Iblis' identity can only be found within the wreckage of the ship where he was first encountered."
+    },
+    "LRSS13" : {
+      "series_id" : "LRSS",
+      "order" : 13,
+      "title" : "Hey Now",
+      "duration" : 1304,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 13 Hey Now.m4v",
+      "description" : "Larry becomes angry at Hank for taking so many outside jobs and retaliates by ordering him not to use his catchphrase on the show."
+    },
+    "PATV12" : {
+      "series_id" : "PATV",
+      "order" : 12,
+      "title" : "The Cure",
+      "duration" : 2982,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 12.mp4",
+      "description" : "With the help of an ape doctor, Virdon and Burke race to concoct a cure for a malaria outbreak. They must succeed before Urko implements his own version of a cure: burning down the village with everyone in it."
+    },
+    "LILC1931" : {
+      "path" : "..\/1930's Classics\/Little Caesar (1931).mp4",
+      "title" : "Little Caesar",
+      "description" : "A hoodlum ascends the ranks of organized crime until he reaches its upper echelons. Stars Edward G. Robinson, Douglas Fairbanks Jr., Glenda Farrell.",
+      "year" : 1931,
+      "duration" : 4711
+    },
+    "LITB062" : {
+      "series_id" : "LITB",
+      "order" : 62,
+      "title" : "The Haunted House",
+      "duration" : 1554,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 062 The Haunted House.mp4",
+      "description" : "June lines up a dog-walking job for Beaver unaware that he and his friends believe that the owner of the dog is a witch who lives in a haunted house."
+    },
+    "ICLD13" : {
+      "series_id" : "ICLD",
+      "order" : 13,
+      "title" : "Old King Log",
+      "duration" : 3133,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 13.m4v",
+      "description" : "AD 54: Claudius feels that Rome should return to be a Republic but nonetheless marries his niece Agripinilla and makes her son Nero co-heir with his own, teen-aged son Britannicus."
+    },
+    "GRIT2010" : {
+      "path" : "..\/Westerns\/True Grit (2010).m4v",
+      "title" : "True Grit",
+      "description" : "",
+      "year" : 2010,
+      "duration" : 6620
+    },
+    "ULTR26" : {
+      "series_id" : "ULTR",
+      "order" : 26,
+      "title" : "The Monster Highness: Part 1",
+      "duration" : 1517,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 26.mp4",
+      "description" : "Scientists capture a monster in order to put in on display at the World's Fair. Their attempt fails and the monster is on the loose. After the monster begins tunneling underground, the Science Patrol must track its location so they can prevent it from harming nearby populated areas."
+    },
+    "POIR01" : {
+      "series_id" : "POIR",
+      "order" : 1,
+      "title" : "The Adventure of the Clapham Cook",
+      "duration" : 3153,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 01 The Adventure of the Clapham Cook.mp4",
+      "description" : "Poirot probes the disappearance of a wealthy woman's cook, and soon uncovers an elaborate plot to hide an ever darker crime."
+    },
+    "LITB061" : {
+      "series_id" : "LITB",
+      "order" : 61,
+      "title" : "Beaver Gets Adopted",
+      "duration" : 1552,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 061 Beaver Gets Adopted.mp4",
+      "description" : "Beaver believes he's been unfairly reprimanded for accidentally breaking Wally's track trophy, takes his Dad's offhand comment to find new parents literally, and with pal Larry Mondello's encouragement, heads for an adoption agency to see if he can do better."
+    },
+    "ULTR25" : {
+      "series_id" : "ULTR",
+      "order" : 25,
+      "title" : "The Mysterious Comet Tsuifon",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 25.mp4",
+      "description" : "The shock wave from an approaching comet is expected to detonate a missing nuclear bomb. Unfortunately for the Science Patrol, the bomb is located inside one of three different monsters. The Science Patrol must dispatch the three monsters without allowing the nuclear bomb to detonate."
+    },
+    "SPRA26" : {
+      "series_id" : "SPRA",
+      "order" : 26,
+      "title" : "The Car Hater",
+      "duration" : 1425,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 26 The Car Hater.mp4",
+      "description" : "Mr. Trotter, a man who hates cars ever since his son perished in an auto accident, sets out to rid the world of cars."
+    },
+    "RT66026" : {
+      "series_id" : "RT66",
+      "order" : 26,
+      "title" : "A Skill for Hunting",
+      "duration" : 3095,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 026 A Skill for Hunting.m4v",
+      "description" : "Tod and Buz, camping out near Sante Fe, New Mexico, have a run-in with a madman who is illegally hunting. Their car damaged, Tod and Buz seek the man out in Santa Fe. Buz gets satisfaction by giving him a severe beating. Later they are blamed for poaching and again seek the man out. This time the interchange becomes deadly."
+    },
+    "ULTR12J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 12 Cry of the Mummy.mp4",
+      "title" : "Cry of the Mummy",
+      "series_id" : "ULTR",
+      "order" : 12,
+      "duration" : 1520
+    },
+    "RBBT15" : {
+      "series_id" : "RBBT",
+      "order" : 15,
+      "title" : "The Coffin",
+      "duration" : 1162,
+      "year" : 1988,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 15 The Coffin.m4v",
+      "description" : "Greedy Richard Braling tries to find his deceased brother Charles' money, but discovers that his brother has set a trap for him."
+    },
+    "STAN13" : {
+      "series_id" : "STAN",
+      "order" : 13,
+      "title" : "The Ambergris Element",
+      "duration" : 1450,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 13 The Ambergris Element.m4v",
+      "description" : "While the Enterprise investigates a water-world, Captain Kirk and Commander Spock go missing. They've been abducted by the world's inhabitants and altered into water-breathers as well."
+    },
+    "FETM12" : {
+      "series_id" : "FETM",
+      "order" : 12,
+      "title" : "Le Voyage Dans La Lune",
+      "duration" : 3542,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 12 Le Voyage Dans La Lune.m4v",
+      "description" : "The last manned Apollo mission to the moon is juxtaposed with Georges Méliès' filming of A Trip to the Moon (1902)."
+    },
+    "SPRA25" : {
+      "series_id" : "SPRA",
+      "order" : 25,
+      "title" : "The Royal Racer (part 2)",
+      "duration" : 1432,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 25 The Royal Racer (part 2).mp4",
+      "description" : "Spritle and Prince Jam team up to save the Racer family and the kingdom of Saccharin."
+    },
+    "LITB065" : {
+      "series_id" : "LITB",
+      "order" : 65,
+      "title" : "Price of Fame",
+      "duration" : 1556,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 065 Price of Fame.mp4",
+      "description" : "Beaver gets in trouble twice. Once by looking for the principal's \"spanking machine\", then by getting his head stuck in an iron fence."
+    },
+    "RT66025" : {
+      "series_id" : "RT66",
+      "order" : 25,
+      "title" : "The Newborn",
+      "duration" : 3055,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 025 The Newborn.m4v",
+      "description" : "Tod and Buz, working as ranch hands in New Mexico, become disgusted with the actions of their employer. The man wants possession of his dead son's baby whether the mother approves of it or not. The rancher will stop at nothing to get his way and neither will his men-including murder."
+    },
+    "DRHI13" : {
+      "series_id" : "DRHI",
+      "order" : 13,
+      "title" : "Charleston",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 13 Charleston.m4v",
+      "description" : "Charles Sumner gets caned on the Senate floor, Judge J. Waties Waring helps to end segregation, and a slave named Robert Smalls commandeers a Confederate warship. Featuring Patton Oswalt, Johnny Knoxville, Busy Philipps and Brandon T. Jackson."
+    },
+    "AITH1951" : {
+      "path" : "..\/1950's Classics\/Big Carnival, The (Ace in the Hole, 1951).m4v",
+      "title" : "The Big Carnival",
+      "description" : "Ace in the Hole",
+      "year" : 1951,
+      "duration" : 6675
+    },
+    "ZATO04" : {
+      "series_id" : "ZATO",
+      "order" : 4,
+      "title" : "Zatoichi the Fugitive",
+      "duration" : 5176,
+      "year" : 1963,
+      "path" : "..\/Samurai\/Zatoichi 04 - Zatoichi the Fugitive (1963).m4v",
+      "description" : ""
+    },
+    "OFUK13" : {
+      "series_id" : "OFUK",
+      "order" : 13,
+      "title" : "Christmas Special: Part 1",
+      "duration" : 2623,
+      "year" : 2003,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 13 (Christmas Special Part 1).mp4",
+      "description" : "It's been three years since the BBC documentary crew first arrived at the office. Back for one last visit, they find Gareth Keenan now in charge and is running the office with a military precision."
+    },
+    "PHIL1940" : {
+      "path" : "..\/AFI 100\/Philadelphia Story, The (1940).m4v",
+      "title" : "The Philadelphia Story",
+      "description" : "",
+      "year" : 1940,
+      "duration" : 6735
+    },
+    "LITB064" : {
+      "series_id" : "LITB",
+      "order" : 64,
+      "title" : "Beaver and Gilbert",
+      "duration" : 1556,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 064 Beaver and Gilbert.mp4",
+      "description" : "Beaver meets the new kid in town, Gilbert Gates, who likes to tell tall tales."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR12J"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV12"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO04"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM12"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66025"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "LILC1931"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB061"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA25"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR01"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SOFD1943"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB062"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR25"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS13"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CSMS03"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "PHIL1940"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT15"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "AITH1951"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB063"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO13"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK13"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "GRIT2010"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66026"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB064"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA26"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS13"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB065"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR26"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG113"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI13"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD13"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN13"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ07"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "BTLR2000"
+      },
+      {
+        "start_time" : "21:05",
+        "resource_id" : "DDC82A2B"
+      }
+    ]
+  ]
+}

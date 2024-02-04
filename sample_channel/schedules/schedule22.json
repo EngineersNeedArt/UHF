@@ -1,0 +1,348 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "LIBM1970" : {
+      "path" : "..\/Westerns\/Little Big Man (1970).m4v",
+      "title" : "Little Big Man",
+      "description" : "",
+      "year" : 1970,
+      "duration" : 8368
+    },
+    "THIN1934" : {
+      "path" : "..\/1930's Classics\/Thin Man, The (1934).mp4",
+      "title" : "The Thin Man",
+      "description" : "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it. Stars William Powell and Myrna Loy.",
+      "year" : 1934,
+      "duration" : 5451
+    },
+    "SOKO19" : {
+      "series_id" : "SOKO",
+      "order" : 19,
+      "title" : "Metron, the Mysterious Space Man",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 19.m4v",
+      "description" : "The mysterious space man Metron lands in his flying saucer and befriends the Unicorn crew. And yet, it should come as no surprise that he's actually working for Gargoyle. Torozon makes an encore appearance, but Giant Robot literally tears him apart."
+    },
+    "ZATO07" : {
+      "path" : "..\/Samurai\/Zatoichi 07 - Zatoichi's Flashing Sword (1964).m4v",
+      "title" : "Zatoichi's Flashing Sword",
+      "series_id" : "ZATO",
+      "order" : 7,
+      "year" : 1964,
+      "duration" : 4936
+    },
+    "LISP09" : {
+      "series_id" : "LISP",
+      "order" : 9,
+      "title" : "The Oasis",
+      "duration" : 3089,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 09 The Oasis.m4v",
+      "description" : "Smith eats some fruit that turns him into a paranoid giant."
+    },
+    "UFOT19" : {
+      "series_id" : "UFOT",
+      "order" : 19,
+      "title" : "Ordeal",
+      "duration" : 2970,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 19 Ordeal.m4v",
+      "description" : ""
+    },
+    "LISP10" : {
+      "series_id" : "LISP",
+      "order" : 10,
+      "title" : "The Sky Is Falling",
+      "duration" : 3087,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 10 The Sky is Falling.mp4",
+      "description" : "A small, crab-like robot heralds the arrival of a family of colonists from an alien race called the Taurons. John believes that they are peaceful settlers, but Smith insists that they are the vanguard of an invading army."
+    },
+    "LITB091" : {
+      "series_id" : "LITB",
+      "order" : 91,
+      "title" : "June's Birthday",
+      "duration" : 1560,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 091 June's Birthday.m4v",
+      "description" : "Not wanting to hurt Beaver's feelings when he gives her a tacky blouse for her birthday, loving mother June promises Beaver that she will wear the blouse to a mother's club tea. But June wears another outfit instead, unaware that Beaver's grammar school class will also be at the tea to sing a special song."
+    },
+    "SPRA37" : {
+      "series_id" : "SPRA",
+      "order" : 37,
+      "title" : "Crash in the Jungle (part 2)",
+      "duration" : 1431,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 37 Crash In The Jungle (part 2).mp4",
+      "description" : "Speed, Trixie, Sprytle and Chim-Chim are captured by a ruthless dictator's jungle army who plans to take over the world."
+    },
+    "BSG120" : {
+      "series_id" : "BSG1",
+      "order" : 20,
+      "title" : "Take the Celestra",
+      "duration" : 2930,
+      "year" : 1979,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 21 - Take the Celestra.m4v",
+      "description" : "During a celebration honoring Commander Kronus, Starbuck recognizes an old flame of his, Aurora and breaks off a date with Cassiopeia to follow his lost love to the Celestra. On their arrival, Starbuck and Apollo find themselves in the midst of a mutiny."
+    },
+    "POIR07" : {
+      "series_id" : "POIR",
+      "order" : 7,
+      "title" : "Problem at Sea",
+      "duration" : 3189,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 07 Problem at Sea.mp4",
+      "description" : "Poirot's Mediterranean cruise is disrupted when an unlikeable passenger is found murdered in her stateroom."
+    },
+    "CSMS09" : {
+      "series_id" : "CSMS",
+      "order" : 9,
+      "title" : "The Lives of the Stars",
+      "duration" : 3582,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 09 The Lives of the Stars.m4v",
+      "description" : "Carl Sagan examines the life cycle of stars from their creation to their deaths."
+    },
+    "LITB092" : {
+      "series_id" : "LITB",
+      "order" : 92,
+      "title" : "Tire Trouble",
+      "duration" : 1498,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 092 Tire Trouble.m4v",
+      "description" : "Ward learns the power of his hastily spoken words when his boys' best efforts to quickly clean the garage result in a flat tire on the family car."
+    },
+    "LISP08" : {
+      "series_id" : "LISP",
+      "order" : 8,
+      "title" : "Invaders From the Fifth Dimension",
+      "duration" : 3090,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 08 Invaders From the Fifth Dimension.m4v",
+      "description" : "Macabre aliens — quite literally talking heads — need a humanoid brain to replace a worn out computer in their spaceship. They capture Smith, but quickly realize that his brain is unsatisfactory. The aliens release Smith so that he can bring them somebody more suitable: a small Robinson."
+    },
+    "ULTR38" : {
+      "series_id" : "ULTR",
+      "order" : 38,
+      "title" : "Spaceship Rescue Command",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 38.mp4",
+      "description" : "Members of a space station are blinded by a mysterious force on another planet. The Science Patrol is called in to investigate."
+    },
+    "IVAN1944" : {
+      "path" : "..\/1940's Classics\/Ivan The Terrible (part I, 1944).mp4",
+      "title" : "Ivan the Terrible, Part I",
+      "description" : "",
+      "year" : 1944,
+      "duration" : 5717
+    },
+    "LITB093" : {
+      "series_id" : "LITB",
+      "order" : 93,
+      "title" : "Larry Hides Out",
+      "duration" : 1552,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 093 Larry Hides Out.m4v",
+      "description" : "Larry hides in Wally and Beaver's bathroom after his mother embarrasses him in front of Beaver."
+    },
+    "STAN19" : {
+      "series_id" : "STAN",
+      "order" : 19,
+      "title" : "The Practical Joker",
+      "duration" : 1412,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 19 The Practical Joker.m4v",
+      "description" : "The computer of the Enterprise gains partial sentience and a taste for playing practical jokes on the crew."
+    },
+    "LITB094" : {
+      "series_id" : "LITB",
+      "order" : 94,
+      "title" : "Pet Fair",
+      "duration" : 1557,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 094 Pet Fair.m4v",
+      "description" : "To impress his teacher and friends, Beaver fabricates owning a pet parrot to bring to the school pet fair but finds out that he can't afford to buy one when he goes to the pet store to make good on his claim."
+    },
+    "GODZ09" : {
+      "series_id" : "GODZ",
+      "order" : 10,
+      "title" : "All Monsters Attack",
+      "duration" : 4150,
+      "year" : 1969,
+      "path" : "..\/Kaiju (Giant Monsters)\/All Monsters Attack (Godzilla's Revenge, Godzilla #10, 1969, dubbed).mp4",
+      "description" : "\"Godzilla's Revenge\" Dubbed."
+    },
+    "ULTR37" : {
+      "series_id" : "ULTR",
+      "order" : 37,
+      "title" : "A Little Hero",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 37.mp4",
+      "description" : "The small monster Pygmon returns with a warning that a monster who can control other monsters is preparing an all-out attack against Earth."
+    },
+    "BYOL1946" : {
+      "path" : "..\/AFI 100\/Best Years of Our Lives, The (1946).mp4",
+      "title" : "The Best Years of Our Lives",
+      "description" : "",
+      "year" : 1946,
+      "duration" : 10188
+    },
+    "LISP11" : {
+      "series_id" : "LISP",
+      "order" : 11,
+      "title" : "Wish Upon A Star",
+      "duration" : 3095,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 11 Wish Upon a Star.m4v",
+      "description" : "Will and Dr. Smith come upon an alien machine that grants wishes, which tests the values of the Robinson group."
+    },
+    "LITB095" : {
+      "series_id" : "LITB",
+      "order" : 95,
+      "title" : "Wally's Test",
+      "duration" : 1562,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 095 Wally's Test.m4v",
+      "description" : "When their plans to cheat on the history exam are foiled, sneaks Eddie Haskell and Lumpy Rutherford try to make it look like high-scoring Wally was the real cheater."
+    },
+    "SPRA38" : {
+      "series_id" : "SPRA",
+      "order" : 38,
+      "title" : "The Secret Invaders (part 1)",
+      "duration" : 1348,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 38 The Secret Invaders (part 1).mp4",
+      "description" : "The Mach 5 team come across yet another band of assassins seeking to take over the kingdoms of Ambrocia and Abalonia."
+    },
+    "ULTR19J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 19 Demons Rise Again.mp4",
+      "title" : "Demons Rise Again",
+      "series_id" : "ULTR",
+      "order" : 19,
+      "duration" : 1520
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR19J"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO07"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "THIN1934"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB091"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA37"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP08"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR07"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "IVAN1944"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB092"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR37"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP09"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CSMS09"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "BYOL1946"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB093"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO19"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP10"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "LIBM1970"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB094"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA38"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP11"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT19"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB095"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR38"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG120"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN19"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ09"
+      }
+    ]
+  ]
+}

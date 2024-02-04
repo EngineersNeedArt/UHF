@@ -1,0 +1,331 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "POIR08" : {
+      "series_id" : "POIR",
+      "order" : 8,
+      "title" : "The Incredible Theft",
+      "duration" : 3110,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 08 The Incredible Theft.mp4",
+      "description" : "A wealthy industrialist's plan to snare a Nazi sympathizer goes awry when the secret plans for a new fighter plane inexplicably go missing."
+    },
+    "ULTR39" : {
+      "series_id" : "ULTR",
+      "order" : 39,
+      "title" : "Farewell, Ultraman",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 39.mp4",
+      "description" : "An alien invasion fleet arrives at Earth. While the Science Patrol deals with an infiltrator, Ultraman must confront the alien leader."
+    },
+    "LITB096" : {
+      "series_id" : "LITB",
+      "order" : 96,
+      "title" : "Beaver's Library Book",
+      "duration" : 1555,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 096 Beaver's Library Book.m4v",
+      "description" : "Eddie Haskell convinces Beaver that the \"library police\" will soon come to arrest Ward after Beaver ignores the late notices for a lost library book he checked out with his father's library card."
+    },
+    "TOTW1934" : {
+      "path" : "..\/1930's Classics\/Triumph Of The Will (Triumph Des Willens, 1934).mp4",
+      "title" : "Triumph of the Will",
+      "description" : "\"Triumph des Willens\" is a Nazi propaganda film directed, produced, edited and co-written by Leni Riefenstahl. It chronicles the 1934 Nazi Party Congress in Nuremberg, which was attended by more than 700,000 Nazi supporters.",
+      "year" : 1934,
+      "duration" : 6656
+    },
+    "LISP13" : {
+      "series_id" : "LISP",
+      "order" : 13,
+      "title" : "One of Our Dogs is Missing",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 13 One of Our Dogs Is Missing.m4v",
+      "description" : "With the men off on a mission, the Robinson women must deal with an alien intruder."
+    },
+    "ULTR20J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 20 Terror on Route 87.mp4",
+      "title" : "Terror on Route 87",
+      "series_id" : "ULTR",
+      "order" : 20,
+      "duration" : 1519
+    },
+    "LITB097" : {
+      "series_id" : "LITB",
+      "order" : 97,
+      "title" : "Wally's Election",
+      "duration" : 1562,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 097 Wally's Election.m4v",
+      "description" : "After Eddie Haskell nominates a reluctant Wally to run for sophomore class president against Lumpy Rutherford, fathers Ward and Fred try to fulfill their own ambitions through their teenage sons."
+    },
+    "SOKO20" : {
+      "series_id" : "SOKO",
+      "order" : 20,
+      "title" : "Beware the Radion Globe",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 20.m4v",
+      "description" : "The Radion, close relative of the Nucleon, captures Giant Robot and Fangor is going to replace the robot's electronic brain."
+    },
+    "LISP15" : {
+      "series_id" : "LISP",
+      "order" : 15,
+      "title" : "Return from Outer Space",
+      "duration" : 3087,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 15 Return from Outer Space.m4v",
+      "description" : "Using a matter transfer device left behind by the Taurons, Will beams himself back to Earth. He arrives safely in the small town of Hatfield Four Corners, Vermont, but his pleas for help are considered the fantasies of a runaway boy."
+    },
+    "SOTB1965" : {
+      "path" : "..\/Samurai\/Sword of the Beast (1965).m4v",
+      "title" : "Sword of the Beast",
+      "description" : "",
+      "year" : 1965,
+      "duration" : 5114
+    },
+    "UFOT20" : {
+      "series_id" : "UFOT",
+      "order" : 20,
+      "title" : "Court Martial",
+      "duration" : 2977,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 20 Court Martial.m4v",
+      "description" : ""
+    },
+    "LITB098" : {
+      "series_id" : "LITB",
+      "order" : 98,
+      "title" : "Beaver and Andy",
+      "duration" : 1559,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 098 Beaver and Andy.m4v",
+      "description" : "A middle-aged man named Andy stops by the Cleavers seeking work as a handyman. Ward agrees to hire his friend, despite June's concerns that Andy is an alcoholic and may influence Wally and Beaver."
+    },
+    "THRD1949" : {
+      "path" : "..\/AFI 100\/Third Man, The (1949).mp4",
+      "title" : "The Third Man",
+      "year" : 1949,
+      "duration" : 6314
+    },
+    "LITB100" : {
+      "series_id" : "LITB",
+      "order" : 100,
+      "title" : "Larry's Club",
+      "duration" : 1499,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 100 Larry's Club.m4v",
+      "description" : "Beaver regrets joining the secret \"Bloody Fives\" club without his friend Larry when he finds out that Larry has joined an even more secret club, \"The Fiends\"."
+    },
+    "LITB099" : {
+      "series_id" : "LITB",
+      "order" : 99,
+      "title" : "Beaver's Dance",
+      "duration" : 1554,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 099 Beaver's Dance.m4v",
+      "description" : "Beaver and Larry are forced to attend a series of high-class dances. After the first one, they decide to ditch them. Then they meet a young cowgirl and ride a horse."
+    },
+    "SPRA39" : {
+      "series_id" : "SPRA",
+      "order" : 39,
+      "title" : "The Secret Invaders (part 2)",
+      "duration" : 1394,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 39 The Secret Invaders (part 2).mp4",
+      "description" : "Speed Racer fakes his death to draw out Elegantor and his assassins."
+    },
+    "IVAN1948" : {
+      "path" : "..\/1940's Classics\/Ivan The Terrible (part II, 1958).mp4",
+      "title" : "Ivan the Terrible, Part 2",
+      "description" : "",
+      "year" : 1948,
+      "duration" : 4912
+    },
+    "LISP14" : {
+      "series_id" : "LISP",
+      "order" : 14,
+      "title" : "Attack of the Monster Plants",
+      "duration" : 3090,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 14 Attack of the Monster Plants.m4v",
+      "description" : "Banished from camp for his latest endangering behavior, Dr. Smith discovers alien plants that can duplicate things (including people), which he uses to his advantage."
+    },
+    "CSMS10" : {
+      "series_id" : "CSMS",
+      "order" : 10,
+      "title" : "The Edge of Forever",
+      "duration" : 3792,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 10 The Edge of Forever.m4v",
+      "description" : "Carl Sagan focuses on the origin of the universe by discussing the Big Bang, Galaxies, Dimensions, and the expansion of the universe."
+    },
+    "SPRA40" : {
+      "series_id" : "SPRA",
+      "order" : 40,
+      "title" : "The Man Behind the Mask",
+      "duration" : 1436,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 40 The Man Behind the Mask.mp4",
+      "description" : "A masked maniac takes the Mach 5 team hostage and forces Speed to carry out art gallery robberies."
+    },
+    "LISP16" : {
+      "series_id" : "LISP",
+      "order" : 16,
+      "title" : "The Keeper (Part 1)",
+      "duration" : 3092,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 16 The Keeper (Part 1).m4v",
+      "description" : "The Keeper is an alien who travels the galaxy collecting living pairs of interesting or rare animals. His courtly overtures towards the Robinsons belie his true intention — to add a pair of humans to his incredible menagerie."
+    },
+    "3GOD1948" : {
+      "path" : "..\/Westerns\/3 Godfathers (1948).m4v",
+      "title" : "3 Godfathers",
+      "description" : "",
+      "year" : 1948,
+      "duration" : 6376
+    },
+    "ATRA1963" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Atragon (1963, dubbed).mp4",
+      "title" : "Atragon",
+      "description" : "Dubbed.",
+      "year" : 1963,
+      "duration" : 5736
+    },
+    "STAN20" : {
+      "series_id" : "STAN",
+      "order" : 20,
+      "title" : "Albatross",
+      "duration" : 1413,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 20 Albatross.m4v",
+      "description" : "Dr. McCoy is arrested and charged with causing an alien plague."
+    },
+    "BSG121" : {
+      "series_id" : "BSG1",
+      "order" : 21,
+      "title" : "The Hand of God",
+      "duration" : 2925,
+      "year" : 1979,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 22 - The Hand of God.m4v",
+      "description" : "When the Galactica crew detects that a Cylon Basestar has swung around to attempt to intercept the refugee fleet, Commander Adama decides to attack."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR20J"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "SOTB1965"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TOTW1934"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB096"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA39"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP13"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR08"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "IVAN1948"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB097"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR39"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP14"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS10"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "THRD1949"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB098"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO20"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP15"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "3GOD1948"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB099"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA40"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP16"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT20"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB100"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG121"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN20"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "ATRA1963"
+      }
+    ]
+  ]
+}

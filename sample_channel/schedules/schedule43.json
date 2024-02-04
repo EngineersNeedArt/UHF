@@ -1,0 +1,115 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "87CC351B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 197 Beaver's Football Award.m4v",
+      "duration" : 1545,
+      "title" : "Leave it to Beaver - 197 Beaver's Football Award"
+    },
+    "6A7910FA" : {
+      "series_id" : "UFOT",
+      "order" : 14,
+      "title" : "Mindbender",
+      "duration" : 2961,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 14 Mindbender.m4v",
+      "description" : ""
+    },
+    "199914" : {
+      "series_id" : "1999",
+      "order" : 14,
+      "title" : "Earthbound",
+      "duration" : 3133,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 14 Earthbound.m4v",
+      "description" : ""
+    },
+    "AA21F25C" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 196 Wally's Dinner Date.m4v",
+      "duration" : 1545,
+      "title" : "Leave it to Beaver - 196 Wally's Dinner Date"
+    },
+    "8FC62A34" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 198 Wally's License.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 198 Wally's License"
+    },
+    "ROPE1948" : {
+      "path" : "..\/1940's Classics\/Rope (1948).m4v",
+      "title" : "Rope",
+      "description" : "",
+      "year" : 1948,
+      "duration" : 4849
+    },
+    "002EE4B8" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 200 Double Date.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 200 Double Date"
+    },
+    "2206AE03" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 199 The Late Edition.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 199 The Late Edition"
+    },
+    "TWSA2002" : {
+      "path" : "..\/Samurai\/Twilight Samurai, The (2002).m4v",
+      "title" : "The Twilight Samurai",
+      "description" : "",
+      "year" : 2002,
+      "duration" : 7743
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "TWSA2002"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "AA21F25C"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "ROPE1948"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "87CC351B"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "8FC62A34"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "2206AE03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199914"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "002EE4B8"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "6A7910FA"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

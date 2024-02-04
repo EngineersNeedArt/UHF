@@ -1,0 +1,516 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "OFUK12" : {
+      "series_id" : "OFUK",
+      "order" : 12,
+      "title" : "Interview",
+      "duration" : 1748,
+      "year" : 2002,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 12.mp4",
+      "description" : "It's David's last day and he is outwardly very calm about it all. The company has sent a writer to interview him for an article on leadership and his idea is to dictate the contents rather than answer any of her questions."
+    },
+    "RT66024" : {
+      "series_id" : "RT66",
+      "order" : 24,
+      "title" : "Don't Count Stars",
+      "duration" : 3094,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 024 Don't Count Stars.m4v",
+      "description" : "Tod and Buz, in San Diego and employed in aerospace jobs, save a drunken man from drowning while they are enjoying a day off. The man's underage niece uses her influence to get Tod and Buz to help her. The objective is to sober him up so he can remain her guardian. The man is not cooperative and is hiding a secret."
+    },
+    "LITB059" : {
+      "series_id" : "LITB",
+      "order" : 59,
+      "title" : "Beaver's Pigeons",
+      "duration" : 1532,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 059 Beaver's Pigeons.mp4",
+      "description" : "When Beaver gets sick with the chicken pox, Wally takes care of his new pigeons. Then he ends up having to take care of Larry's, too."
+    },
+    "ACGS12" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 12 The Last Man In.m4v",
+      "title" : "The Last Man In",
+      "series_id" : "ACGS",
+      "order" : 12,
+      "duration" : 3136
+    },
+    "CASA1942" : {
+      "path" : "..\/AFI 100\/Casablanca (1942).m4v",
+      "title" : "Casablanca",
+      "description" : "",
+      "year" : 1942,
+      "duration" : 6157
+    },
+    "CSMS02" : {
+      "series_id" : "CSMS",
+      "order" : 2,
+      "title" : "One Voice in the Cosmic Fugue",
+      "duration" : 3609,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 02 One Voice in the Cosmic Fugue.m4v",
+      "description" : "Carl Sagan examines the origin, development, and complexity of life on Earth and speculates on the possibility of life developing elsewhere in the universe."
+    },
+    "RT66023" : {
+      "series_id" : "RT66",
+      "order" : 23,
+      "title" : "Most Vanquished, Most Victoriousm4v",
+      "duration" : 3091,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 023. Most Vanquished, Most Victoriousm4v.m4v",
+      "description" : "Tod and Buz travel to Los Angeles in response to a letter Tod received from an Aunt who has not been heard of for 20 yrs and thought to be dead. From her deathbed she makes a final request of Tod-find her daughter. Tod and Buz embark on a search that leads them to many people and places and eventually to the answer."
+    },
+    "CADF13" : {
+      "series_id" : "CADF",
+      "order" : 13,
+      "title" : "The Pilgrim of Hate",
+      "duration" : 4536,
+      "year" : 1998,
+      "path" : "..\/Cadfael\/Cadfael - The Pilgrim Of Hate.m4v",
+      "description" : "Cripples Day draws many to Shrewsbury, including a few con artists, and a dead old man hidden in a sack."
+    },
+    "LISP59" : {
+      "series_id" : "LISP",
+      "order" : 59,
+      "title" : "The Galaxy Gift",
+      "duration" : 2994,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 59 The Galaxy Gift.m4v",
+      "description" : "Penny will not give up the belt entrusted to her by an alien even if it means their deaths."
+    },
+    "QUMA1952" : {
+      "path" : "..\/Westerns\/Quiet Man, The (1952).m4v",
+      "title" : "The Quiet Man",
+      "description" : "",
+      "year" : 1952,
+      "duration" : 7786
+    },
+    "BSG112" : {
+      "series_id" : "BSG1",
+      "order" : 12,
+      "title" : "War of the Gods (part 1) ",
+      "duration" : 2924,
+      "year" : 1979,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 13 - War of the Gods (part 1) .m4v",
+      "description" : "Silver Spar Squadron is overtaken by a Ship of Lights and subsequently disappears. Investigating a red planet, Apollo, Starbuck and Sheba find a crashed starship and a lone survivor, the mysterious Count Iblis."
+    },
+    "RBBT07" : {
+      "series_id" : "RBBT",
+      "order" : 7,
+      "title" : "The Fruit at the Bottom of the Bowl",
+      "duration" : 1505,
+      "year" : 1988,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 07 The Fruit at the Bottom of the Bowl.m4v",
+      "description" : "A guest murders his host after an argument, then becomes increasingly worried about removing all his fingerprints from the crime scene."
+    },
+    "LITB058" : {
+      "series_id" : "LITB",
+      "order" : 58,
+      "title" : "Wally's Pug Nose",
+      "duration" : 1553,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 058 Wally's Pug Nose.mp4",
+      "description" : "Self-conscious Wally resorts to a mail-order remedy to change his appearance, after his dream-girl Gloria tells him he has a \"pug\" nose."
+    },
+    "LRSS12" : {
+      "series_id" : "LRSS",
+      "order" : 12,
+      "title" : "A Brush with the Elbow of Greatness",
+      "duration" : 1325,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 12 A Brush with the Elbow of Greatness.m4v",
+      "description" : "After embarrassing CCTV footage of Larry emerges, he allows himself to be persuaded that all publicity is good publicity, a decision he grows to regret."
+    },
+    "PATV11" : {
+      "series_id" : "PATV",
+      "order" : 11,
+      "title" : "The Tyrant",
+      "duration" : 2984,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 11.mp4",
+      "description" : "To foil the plans of a tyrannical gorilla who is trying to overthrow the chimpanzee prefect and gain control over a human farming district, Galen, Virdon and Burke risk an encounter with Urko. Urko and Burke are forced to work together again."
+    },
+    "MSTK0112" : {
+      "series_id" : "MSTK",
+      "order" : 34,
+      "title" : "Untamed Youth",
+      "duration" : 5799,
+      "year" : 1990,
+      "path" : "..\/MST3K\/MST3K 112 - Untamed Youth.mp4",
+      "description" : "Joel invents a pipe with a smoke detector and a sprinkler system built in for the invention exchange. The guys watch a 1950s teen flick about youths sentenced to manual labor at a cotton farm."
+    },
+    "LISP58" : {
+      "series_id" : "LISP",
+      "order" : 58,
+      "title" : "The Astral Traveller",
+      "duration" : 3082,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 58 The Astral Traveller.m4v",
+      "description" : "Will and Dr. Smith find a cave that transports them to Earth, 19th-century Scotland."
+    },
+    "SOKO12" : {
+      "series_id" : "SOKO",
+      "order" : 12,
+      "title" : "Amberon: The Synthetic Monster",
+      "duration" : 1509,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 12.m4v",
+      "description" : "Unicorn members locate the secret headquarters of the Japanese Branch of BF Syndicate. They attack the house and arrest Dr. Over by taking his blue star-shaped metal on his chest, the source of his magical power."
+    },
+    "RASH1950" : {
+      "path" : "..\/Samurai\/Rashomon (1950).m4v",
+      "title" : "Rashomon",
+      "description" : "",
+      "year" : 1950,
+      "duration" : 5290
+    },
+    "LISP57" : {
+      "series_id" : "LISP",
+      "order" : 57,
+      "title" : "The Mechanical Men",
+      "duration" : 3079,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 57 The Mechanical Men.m4v",
+      "description" : "The planet is invaded by an army of tiny robots who closely resemble the Robinsons' Robot and proclaim him as their long-predicted king. The Robot agrees to become their king, but when he is not the ruthless ruler they expected, they decide that he needs some \"Dr. Smith\" in him."
+    },
+    "HVYM1981" : {
+      "path" : "..\/Drive-In Night\/Heavy Metal (1981).m4v",
+      "title" : "Heavy Metal",
+      "description" : "",
+      "year" : 1981,
+      "duration" : 5422
+    },
+    "TABU1931" : {
+      "path" : "..\/1930's Classics\/Tabu - A Story of the South Seas (1931).mp4",
+      "title" : "Tabu - A Story of the South Seas",
+      "description" : "An erotic love story involving a young woman who becomes sexually taboo when she is selected by an elder to replace a sacred maiden who has just died.",
+      "year" : 1931,
+      "duration" : 5143
+    },
+    "ICLD12" : {
+      "series_id" : "ICLD",
+      "order" : 12,
+      "title" : "A God in Colchester",
+      "duration" : 3108,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 12.m4v",
+      "description" : "Whilst Claudius is invading Britain, Messalina is challenging the prostitute Scylla to see who can take the most partners, Messalina easily winning."
+    },
+    "SKRP2011" : {
+      "path" : "..\/Drive-In Night\/Sucker Punch (2011).m4v",
+      "title" : "Sucker Punch",
+      "description" : "",
+      "year" : 2011,
+      "duration" : 6585
+    },
+    "LISP56" : {
+      "series_id" : "LISP",
+      "order" : 56,
+      "title" : "The Phantom Family",
+      "duration" : 3083,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 56 The Phantom Family.m4v",
+      "description" : "While John and Maureen are away observing volcanic activity, the alien scientist Lemnoc captures Don, Judy, Penny, and Dr. Smith and replaces them with android duplicates. Lemnoc then forces Will and the Robot to train the duplicates in survival skills, hoping that they will be an inspiration to his own people, who are losing the will to live."
+    },
+    "LITB057" : {
+      "series_id" : "LITB",
+      "order" : 57,
+      "title" : "The Garage Painters",
+      "duration" : 1555,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 057 The Garage Painters.mp4",
+      "description" : "When the television breaks down over a week-end, Ward encourages Wally and Beaver to read Mark Twain's classic book, \"Tom Sawyer\". But things don't turn out quite as they planned after the boys try to use fictional Tom's technique to paint the Cleaver garage doors."
+    },
+    "TOBE1942" : {
+      "path" : "..\/1940's Classics\/To Be or Not to Be (1942).mp4",
+      "title" : "To Be or Not to Be",
+      "description" : "",
+      "year" : 1942,
+      "duration" : 5943
+    },
+    "FWLT12" : {
+      "series_id" : "FWLT",
+      "order" : 12,
+      "title" : "Basil the Rat",
+      "duration" : 2024,
+      "year" : 1979,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 12 Basil the Rat.mp4",
+      "description" : "Basil and the rest of the staff are in deep trouble when the health inspector turns up and delivers an enormous list of problems with the hotel. Things become even worse when Manuel's rat gets loose in the hotel."
+    },
+    "EURO1951" : {
+      "path" : "..\/1950's Classics\/Europa '51.mp4",
+      "title" : "Europa '51",
+      "year" : 1951,
+      "duration" : 7102
+    },
+    "ULTR24" : {
+      "series_id" : "ULTR",
+      "order" : 24,
+      "title" : "The Undersea Science Center",
+      "duration" : 1519,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 24.mp4",
+      "description" : "The Science Patrol inaugurates a new undersea base, but run into trouble when a monster disrupts the ceremony."
+    },
+    "LITB056" : {
+      "series_id" : "LITB",
+      "order" : 56,
+      "title" : "Beaver Plays Hooky",
+      "duration" : 1544,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 056 Beaver Plays Hooky.mp4",
+      "description" : "Distracted by a construction company digging holes, Beaver and buddy Larry Mondello are late for school and decide to skip classes altogether to avoid getting yelled at by the principal. But when the hungry boys head for the nearest supermarket for lunch they find themselves on a live, promotional television program, unaware that Wally and June are watching them from the television in Wally's bedroom."
+    },
+    "LITB060" : {
+      "series_id" : "LITB",
+      "order" : 60,
+      "title" : "The Tooth",
+      "duration" : 1557,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 060 The Tooth.mp4",
+      "description" : "While Beaver and his small toothache wait for the results of a dental X-ray, he's convinced that he will soon have a painful experience after mean-spirited Lumpy Rutherford tells him that, to make more money, the dentist will drill a deep hole no matter how tiny the cavity may be."
+    },
+    "ULTR23" : {
+      "series_id" : "ULTR",
+      "order" : 23,
+      "title" : "My Home Is the Earth",
+      "duration" : 1517,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 23.mp4",
+      "description" : "An astronaut returns to Earth after being transformed into a monster. His goal is to exact revenge on the people of Earth."
+    },
+    "ULTR11J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 11 The Rascal from Outer Space.mp4",
+      "title" : "The Rascal from Outer Space",
+      "series_id" : "ULTR",
+      "order" : 11,
+      "duration" : 1520
+    },
+    "SPRA24" : {
+      "series_id" : "SPRA",
+      "order" : 24,
+      "title" : "The Royal Racer (part 1)",
+      "duration" : 1422,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 24 The Royal Racer (part 1).mp4",
+      "description" : "While the Racers enjoy a trip to the Eastern Kingdom of Saccharin, Spritle is mistaken for Prince Jam, heir to the throne, and the two end up swapping lives."
+    },
+    "FETM11" : {
+      "series_id" : "FETM",
+      "order" : 11,
+      "title" : "The Original Wives",
+      "duration" : 3424,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 11 The Original Wives.m4v",
+      "description" : "The lives of the astronaut wives during their NASA years and beyond - through speaking engagements and fashion shows, alcoholism and divorce."
+    },
+    "STAN12" : {
+      "series_id" : "STAN",
+      "order" : 12,
+      "title" : "The Time Trap",
+      "duration" : 1450,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 12 The Time Trap.m4v",
+      "description" : "The Enterprise and a Klingon ship are trapped in space-time warp where only their cooperation will allow them to escape."
+    },
+    "8A76B7A3" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/King Kong Escapes (1967).mp4",
+      "duration" : 5765,
+      "title" : "King Kong Escapes (1967)"
+    },
+    "SPRA23" : {
+      "series_id" : "SPRA",
+      "order" : 23,
+      "title" : "Mach Five vs  Mach Five (part 2)",
+      "duration" : 1480,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 23 Mach Five vs  Mach Five (part 2).mp4",
+      "description" : "Cumulus attempts to take over the world, setting the stage for a showdown between the two Mach 5 automobiles."
+    },
+    "DRHI12" : {
+      "series_id" : "DRHI",
+      "order" : 12,
+      "title" : "Baltimore",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 12 Baltimore.m4v",
+      "description" : "Abraham Lincoln tries to avoid assassination on the way to his inauguration, Francis Scott Key writes \"The Star-Spangled Banner,\" and Edgar Allan Poe feuds with Rufus Griswold. Featuring Charlie Day, Adrianne Palicki, Jesse Plemons and Jason Ritter."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR11J"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV11"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "RASH1950"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM11"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66023"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TABU1931"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB056"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA23"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP56"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "FWLT12"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CADF13"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TOBE1942"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB057"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR23"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP57"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS12"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS02"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "CASA1942"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT07"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "EURO1951"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB058"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO12"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP58"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK12"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "QUMA1952"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66024"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB059"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA24"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP59"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS12"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB060"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR24"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG112"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI12"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD12"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN12"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "8A76B7A3"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0112"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "SKRP2011"
+      },
+      {
+        "start_time" : "21:00",
+        "resource_id" : "HVYM1981"
+      }
+    ]
+  ]
+}

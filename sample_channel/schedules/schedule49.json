@@ -1,0 +1,104 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199920" : {
+      "path" : "..\/Space 1999\/Space 1999 - 20 Missing Link.mp4",
+      "title" : "Missing Link",
+      "series_id" : "1999",
+      "order" : 20,
+      "year" : 1976,
+      "duration" : 3138
+    },
+    "F15EA8E3" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 229 Beaver's Graduation.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 229 Beaver's Graduation"
+    },
+    "10F78456" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 226 The Poor Loser.m4v",
+      "duration" : 1535,
+      "title" : "Leave it to Beaver - 226 The Poor Loser"
+    },
+    "2EAD6016" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 228 Summer in Alaska.m4v",
+      "duration" : 1534,
+      "title" : "Leave it to Beaver - 228 Summer in Alaska"
+    },
+    "12FEEF46" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 227 Don Juan Beaver.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 227 Don Juan Beaver"
+    },
+    "RCKM1949" : {
+      "path" : "..\/1940's Classics\/Reckless Moment, The (1949).mp4",
+      "title" : "The Reckless Moment",
+      "description" : "",
+      "year" : 1949,
+      "duration" : 4924
+    },
+    "541114FC" : {
+      "series_id" : "UFOT",
+      "order" : 20,
+      "title" : "Court Martial",
+      "duration" : 2977,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 20 Court Martial.m4v",
+      "description" : ""
+    },
+    "655ACBBA" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 230 Wally's Practical Joke.m4v",
+      "duration" : 1536,
+      "title" : "Leave it to Beaver - 230 Wally's Practical Joke"
+    }
+  },
+  "days" : [
+    [
+
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "10F78456"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "RCKM1949"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "12FEEF46"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "2EAD6016"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "F15EA8E3"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199920"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "655ACBBA"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "541114FC"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

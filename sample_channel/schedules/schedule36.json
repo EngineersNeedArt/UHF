@@ -1,0 +1,126 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199907" : {
+      "series_id" : "1999",
+      "order" : 7,
+      "title" : "Alpha Child",
+      "duration" : 3133,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 07 Alpha Child.mp4",
+      "description" : ""
+    },
+    "B05A8CDD" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 164 Wally's Big Date.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 164 Wally's Big Date"
+    },
+    "AMOE1970" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Space Amoeba (1970).mp4",
+      "title" : "Space Amoeba",
+      "description" : "",
+      "year" : 1970,
+      "duration" : 5016
+    },
+    "ZATO14" : {
+      "series_id" : "ZATO",
+      "order" : 14,
+      "title" : "Zatoichi's Pilgrimage",
+      "duration" : 4953,
+      "year" : 1966,
+      "path" : "..\/Samurai\/Zatoichi 14 - Zatoichi's Pilgrimage (1966).m4v",
+      "description" : ""
+    },
+    "NMAL1947" : {
+      "path" : "..\/1940's Classics\/Nightmare Alley (1947).mp4",
+      "title" : "Nightmare Alley",
+      "description" : "",
+      "year" : 1947,
+      "duration" : 6686
+    },
+    "889E1012" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 161 Beaver's Cat Problem.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 161 Beaver's Cat Problem"
+    },
+    "1B1BABBF" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 162 Wally's Weekend Job.m4v",
+      "duration" : 1545,
+      "title" : "Leave it to Beaver - 162 Wally's Weekend Job"
+    },
+    "70C91759" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 163 Beaver Takes a Drive.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 163 Beaver Takes a Drive"
+    },
+    "7C29AF8A" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 165 Beaver's Ice Skates.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 165 Beaver's Ice Skates"
+    },
+    "5AA65210" : {
+      "path" : "..\/U.F.O.\/UFO - 07 Kill Straker!.m4v",
+      "title" : "Kill Straker!",
+      "series_id" : "UFOT",
+      "order" : 7,
+      "year" : 1970,
+      "duration" : 2976
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO14"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "889E1012"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "NMAL1947"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "1B1BABBF"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "70C91759"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "B05A8CDD"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199907"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7C29AF8A"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "5AA65210"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AMOE1970"
+      }
+    ]
+  ]
+}

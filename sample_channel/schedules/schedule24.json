@@ -1,0 +1,319 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "LITB104" : {
+      "series_id" : "LITB",
+      "order" : 104,
+      "title" : "Beaver's Bike",
+      "duration" : 1538,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 104 Beaver's Bike.m4v",
+      "description" : "Beaver loses his new bicycle to a clever thief after convincing his parents to let him ride it to school with his friends, Whitey and Larry."
+    },
+    "SOKO21" : {
+      "series_id" : "SOKO",
+      "order" : 21,
+      "title" : "The Terrifying Space Mummy",
+      "duration" : 1507,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 21.m4v",
+      "description" : "The Space Mummy has poisoned the water supply so anyone who drinks it is turned into a mummy."
+    },
+    "LITB105" : {
+      "series_id" : "LITB",
+      "order" : 105,
+      "title" : "Wally's Orchid",
+      "duration" : 1560,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 105 Wally's Orchid.m4v",
+      "description" : "Wally worries that popular Myra won't go with him to the sophomore spring dance if he can't afford to buy her an expensive orchid corsage."
+    },
+    "CSMS11" : {
+      "series_id" : "CSMS",
+      "order" : 11,
+      "title" : "The Persistence of Memory",
+      "duration" : 3520,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 11 The Persistence of Memory.m4v",
+      "description" : "Carl Sagan examines life on earth discussing genes, DNA, the brain, and human social development."
+    },
+    "STGC1939" : {
+      "path" : "..\/AFI 100\/Stagecoach (1939).m4v",
+      "title" : "Stagecoach",
+      "description" : "",
+      "year" : 1939,
+      "duration" : 5771
+    },
+    "LISP21" : {
+      "series_id" : "LISP",
+      "order" : 21,
+      "title" : "The Magic Mirror",
+      "duration" : 3090,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 21 The Magic Mirror.m4v",
+      "description" : "Penny stumbles into an alien mirror and finds a universe occupied by one very lonely boy."
+    },
+    "SPRA41" : {
+      "series_id" : "SPRA",
+      "order" : 41,
+      "title" : "The Car Destroyer",
+      "duration" : 1376,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 41 The Car Destroyer.mp4",
+      "description" : "Dr J.D. Crepit, a mad scientist who hates cars because his son was crippled in an auto accident, plots to destroy all the cars in the world."
+    },
+    "STAN21" : {
+      "series_id" : "STAN",
+      "order" : 21,
+      "title" : "How Sharper than a Serpent's Tooth",
+      "duration" : 1411,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 21 How Sharper than a Serpent's Tooth.m4v",
+      "description" : "The Enterprise runs into a being which once visited Earth and influenced the Mayan culture."
+    },
+    "LISP19" : {
+      "series_id" : "LISP",
+      "order" : 19,
+      "title" : "Ghost in Space",
+      "duration" : 3090,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 19 Ghost in Space.m4v",
+      "description" : "Trying to contact his Uncle Thaddeus during a séance, Doctor Smith summons a ghostly monster native to the planet."
+    },
+    "LITB101" : {
+      "series_id" : "LITB",
+      "order" : 101,
+      "title" : "School Sweater",
+      "duration" : 1522,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 101 School Sweater.m4v",
+      "description" : "When a pretty co-ed borrows his letterman sweater, hapless Wally soon learns the hard way that she didn't want it just because she was cold."
+    },
+    "GODZ11" : {
+      "series_id" : "GODZ",
+      "order" : 11,
+      "title" : "Godzilla vs. Hedorah",
+      "duration" : 5145,
+      "year" : 1971,
+      "path" : "..\/Kaiju (Giant Monsters)\/Godzilla vs. Hedorah (Godzilla vs. the Smog Monster, Godzilla #11, 1971, dubbed).mp4",
+      "description" : "\"Godzilla vs. the Smog Monster\" Dubbed."
+    },
+    "POIR09" : {
+      "series_id" : "POIR",
+      "order" : 9,
+      "title" : "The King of Clubs",
+      "duration" : 2909,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 09 The King of Clubs.mp4",
+      "description" : "A deck with a missing card provides Poirot with the clue he needs to solve the murder of the tyrannical head of a movie studio."
+    },
+    "ZATO08" : {
+      "series_id" : "ZATO",
+      "order" : 8,
+      "title" : "Fight, Zatoichi, Fight",
+      "duration" : 5262,
+      "year" : 1964,
+      "path" : "..\/Samurai\/Zatoichi 08 - Fight, Zatoichi, Fight (1964).m4v",
+      "description" : ""
+    },
+    "MSLV1962" : {
+      "path" : "..\/Westerns\/Man Who Shot Liberty Valance, The (1962).m4v",
+      "title" : "The Man Who Shot Liberty Valance",
+      "year" : 1962,
+      "duration" : 7401
+    },
+    "LISP20" : {
+      "series_id" : "LISP",
+      "order" : 20,
+      "title" : "War of the Robots",
+      "duration" : 3088,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 20 War of the Robots.m4v",
+      "description" : "After the Robinsons repair a damaged robot, it first helps them and then plots to capture them."
+    },
+    "LITB102" : {
+      "series_id" : "LITB",
+      "order" : 102,
+      "title" : "The Hypnotist",
+      "duration" : 1509,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 102 The Hypnotist.m4v",
+      "description" : "Rascally Eddie Haskell pretends to be Beaver's hypnotized slave."
+    },
+    "ULTR21J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 21 Breach the Wall of Smoke.mp4",
+      "title" : "Breach the Wall of Smoke",
+      "series_id" : "ULTR",
+      "order" : 21,
+      "duration" : 1520
+    },
+    "MMIS1944" : {
+      "path" : "..\/1940's Classics\/Meet Me in St. Louis (1944).mp4",
+      "title" : "Meet Me in St. Louis",
+      "year" : 1944,
+      "duration" : 6779
+    },
+    "LITB103" : {
+      "series_id" : "LITB",
+      "order" : 103,
+      "title" : "Wally and Alma",
+      "duration" : 1561,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 103 Wally and Alma.m4v",
+      "description" : "Ward and June start to worry when it looks like the matchmaker mother of Wally's school picnic date, Alma Hanson, is arranging for young Wally and her pretty daughter to spend too much time together."
+    },
+    "SPRA42" : {
+      "series_id" : "SPRA",
+      "order" : 42,
+      "title" : "The Desperate Racer",
+      "duration" : 1346,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 42 The Desperate Racer.mp4",
+      "description" : "Trixie wants Speed to lose a race, so that her friend's brother will win and use the prize money to heal her. Meanwhile, a royal jewel is hidden inside a pineapple - one of many given to the competing racers."
+    },
+    "GDSS1934" : {
+      "path" : "..\/1930's Classics\/Goddess, The (Shen-nu, 神女, 1934).mp4",
+      "title" : "The Goddess",
+      "description" : "神女 tells the story of an unnamed woman, who lives as a streetwalker by night and devoted mother by day in order to get her young son an education amid social injustice in the streets of Shanghai, China.",
+      "year" : 1934,
+      "duration" : 4706
+    },
+    "UFOT21" : {
+      "series_id" : "UFOT",
+      "order" : 21,
+      "title" : "Computer Affair",
+      "duration" : 2954,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 21 Computer Affair.m4v",
+      "description" : ""
+    },
+    "LISP18" : {
+      "series_id" : "LISP",
+      "order" : 18,
+      "title" : "The Sky Pirate",
+      "duration" : 3093,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 18 The Sky Pirate.m4v",
+      "description" : "Will becomes fast friends with Captain Alonzo P. Tucker, an Earthling who escaped his alien captors to become a wandering space buccaneer. But Tucker's roguish charm hides a secret that could destroy them all."
+    },
+    "MNBS1" : {
+      "path" : "..\/Moonbase 3 (TV series)\/Moonbase 3 - 01 Departure and Arrival.mp4",
+      "title" : "Departure and Arrival",
+      "series_id" : "MNBS",
+      "order" : 1,
+      "duration" : 3111
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR21J"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO08"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "GDSS1934"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB101"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA41"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP18"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR09"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "MMIS1944"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB102"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP19"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CSMS11"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "STGC1939"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB103"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO21"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP20"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "MSLV1962"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB104"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA42"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP21"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT21"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB105"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "MNBS1"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN21"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ11"
+      }
+    ]
+  ]
+}

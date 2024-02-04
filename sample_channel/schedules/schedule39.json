@@ -1,0 +1,126 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199910" : {
+      "path" : "..\/Space 1999\/Space 1999 - 10 Black Sun.m4v",
+      "title" : "Black Sun",
+      "series_id" : "1999",
+      "order" : 10,
+      "year" : 1975,
+      "duration" : 3138
+    },
+    "CC1D74C0" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 177 Beaver's Fear.m4v",
+      "duration" : 1536,
+      "title" : "Leave it to Beaver - 177 Beaver's Fear"
+    },
+    "GODZ00" : {
+      "series_id" : "GODZ",
+      "order" : 0,
+      "title" : "Gojira",
+      "duration" : 5749,
+      "year" : 1954,
+      "path" : "..\/Kaiju (Giant Monsters)\/Gojira (Godzilla #1, 1954).mp4",
+      "description" : ""
+    },
+    "04427F27" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 178 Three Boys and a Burro.m4v",
+      "duration" : 1537,
+      "title" : "Leave it to Beaver - 178 Three Boys and a Burro"
+    },
+    "45F7C445" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 179 Eddie Quits School.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 179 Eddie Quits School"
+    },
+    "68A128B7" : {
+      "series_id" : "UFOT",
+      "order" : 10,
+      "title" : "The Square Triangle",
+      "duration" : 2976,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 10 The Square Triangle.m4v",
+      "description" : ""
+    },
+    "AF42F4D2" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 180 Wally Stays at Lumpy's.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 180 Wally Stays at Lumpy's"
+    },
+    "D2CFC6EC" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 176 Nobody Loves Me.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 176 Nobody Loves Me"
+    },
+    "IH5A1947" : {
+      "path" : "..\/1940's Classics\/It Happened on 5th Avenue (1947).m4v",
+      "title" : "It Happened on 5th Avenue",
+      "description" : "",
+      "year" : 1947,
+      "duration" : 6892
+    },
+    "WLSD2002" : {
+      "path" : "..\/Samurai\/When the Last Sword is Drawn (missing subtitles, 2002).mp4",
+      "title" : "When the Last Sword is Drawn",
+      "description" : "missing subtitles!",
+      "year" : 2002,
+      "duration" : 8245
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "WLSD2002"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "D2CFC6EC"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "IH5A1947"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "CC1D74C0"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "04427F27"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "45F7C445"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199910"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "AF42F4D2"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "68A128B7"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ00"
+      }
+    ]
+  ]
+}

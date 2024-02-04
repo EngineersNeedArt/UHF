@@ -1,0 +1,456 @@
+{
+  "schedules" : [
+    {
+      "schedule_path" : "schedule0.json",
+      "start_date" : "2022-08-28"
+    },
+    {
+      "schedule_path" : "schedule1.json",
+      "start_date" : "2022-09-04"
+    },
+    {
+      "schedule_path" : "schedule2.json",
+      "start_date" : "2022-09-11"
+    },
+    {
+      "schedule_path" : "schedule3.json",
+      "start_date" : "2022-09-18"
+    },
+    {
+      "schedule_path" : "schedule4.json",
+      "start_date" : "2022-09-25"
+    },
+    {
+      "schedule_path" : "schedule5.json",
+      "start_date" : "2022-10-02"
+    },
+    {
+      "schedule_path" : "schedule6.json",
+      "start_date" : "2022-10-09"
+    },
+    {
+      "schedule_path" : "schedule7.json",
+      "start_date" : "2022-10-16"
+    },
+    {
+      "schedule_path" : "schedule8.json",
+      "start_date" : "2022-10-23"
+    },
+    {
+      "schedule_path" : "schedule9.json",
+      "start_date" : "2022-10-30"
+    },
+    {
+      "schedule_path" : "schedule10.json",
+      "start_date" : "2022-11-06"
+    },
+    {
+      "schedule_path" : "schedule11.json",
+      "start_date" : "2022-11-13"
+    },
+    {
+      "schedule_path" : "schedule12.json",
+      "start_date" : "2022-11-20"
+    },
+    {
+      "schedule_path" : "schedule13.json",
+      "start_date" : "2022-11-27"
+    },
+    {
+      "schedule_path" : "schedule14.json",
+      "start_date" : "2022-12-04"
+    },
+    {
+      "schedule_path" : "schedule15.json",
+      "start_date" : "2022-12-11"
+    },
+    {
+      "schedule_path" : "schedule16.json",
+      "start_date" : "2022-12-18"
+    },
+    {
+      "schedule_path" : "schedule17.json",
+      "start_date" : "2022-12-25"
+    },
+    {
+      "schedule_path" : "schedule18.json",
+      "start_date" : "2023-01-01"
+    },
+    {
+      "schedule_path" : "schedule19.json",
+      "start_date" : "2023-01-08"
+    },
+    {
+      "schedule_path" : "schedule20.json",
+      "start_date" : "2023-01-15"
+    },
+    {
+      "schedule_path" : "schedule21.json",
+      "start_date" : "2023-01-22"
+    },
+    {
+      "schedule_path" : "schedule22.json",
+      "start_date" : "2023-01-29"
+    },
+    {
+      "schedule_path" : "schedule23.json",
+      "start_date" : "2023-02-05"
+    },
+    {
+      "schedule_path" : "schedule24.json",
+      "start_date" : "2023-02-12"
+    },
+    {
+      "schedule_path" : "schedule25.json",
+      "start_date" : "2023-02-19"
+    },
+    {
+      "schedule_path" : "schedule26.json",
+      "start_date" : "2023-02-26"
+    },
+    {
+      "schedule_path" : "schedule27.json",
+      "start_date" : "2023-03-05"
+    },
+    {
+      "schedule_path" : "schedule28.json",
+      "start_date" : "2023-03-12"
+    },
+    {
+      "schedule_path" : "schedule29.json",
+      "start_date" : "2023-03-19"
+    },
+    {
+      "schedule_path" : "schedule30.json",
+      "start_date" : "2023-03-26"
+    },
+    {
+      "schedule_path" : "schedule31.json",
+      "start_date" : "2023-04-02"
+    },
+    {
+      "schedule_path" : "schedule32.json",
+      "start_date" : "2023-04-09"
+    },
+    {
+      "schedule_path" : "schedule33.json",
+      "start_date" : "2023-04-16"
+    },
+    {
+      "schedule_path" : "schedule34.json",
+      "start_date" : "2023-04-23"
+    },
+    {
+      "schedule_path" : "schedule35.json",
+      "start_date" : "2023-04-30"
+    },
+    {
+      "schedule_path" : "schedule36.json",
+      "start_date" : "2023-05-07"
+    },
+    {
+      "schedule_path" : "schedule37.json",
+      "start_date" : "2023-05-14"
+    },
+    {
+      "schedule_path" : "schedule38.json",
+      "start_date" : "2023-05-21"
+    },
+    {
+      "schedule_path" : "schedule39.json",
+      "start_date" : "2023-05-28"
+    },
+    {
+      "schedule_path" : "schedule40.json",
+      "start_date" : "2023-06-04"
+    },
+    {
+      "schedule_path" : "schedule41.json",
+      "start_date" : "2023-06-11"
+    },
+    {
+      "schedule_path" : "schedule42.json",
+      "start_date" : "2023-06-18"
+    },
+    {
+      "schedule_path" : "schedule43.json",
+      "start_date" : "2023-06-25"
+    },
+    {
+      "schedule_path" : "schedule44.json",
+      "start_date" : "2023-07-02"
+    },
+    {
+      "schedule_path" : "schedule45.json",
+      "start_date" : "2023-07-09"
+    },
+    {
+      "schedule_path" : "schedule46.json",
+      "start_date" : "2023-07-16"
+    },
+    {
+      "schedule_path" : "schedule47.json",
+      "start_date" : "2023-07-23"
+    },
+    {
+      "schedule_path" : "schedule48.json",
+      "start_date" : "2023-07-30"
+    },
+    {
+      "schedule_path" : "schedule49.json",
+      "start_date" : "2023-08-06"
+    },
+    {
+      "schedule_path" : "schedule50.json",
+      "start_date" : "2023-08-13"
+    },
+    {
+      "schedule_path" : "schedule51.json",
+      "start_date" : "2023-08-20"
+    }
+  ],
+  "series" : {
+    "CSMS" : {
+      "title" : "Cosmos: A Personal Journey"
+    },
+    "MNBS" : {
+      "title" : "Moonbase 3"
+    },
+    "ICLD" : {
+      "title" : "I, Claudius"
+    },
+    "FETM" : {
+      "title" : "From the Earth to the Moon"
+    },
+    "HONW" : {
+      "title" : "Honey West",
+      "logo_path" : "..\/_logos\/honey_west_logo.jpg"
+    },
+    "TREK" : {
+      "title" : "Star Trek",
+      "logo_path" : "..\/_logos\/star_trek_logo.jpg"
+    },
+    "LRSS" : {
+      "title" : "The Larry Sanders Show",
+      "logo_path" : "..\/_logos\/larry_sanders_show_logo.jpeg"
+    },
+    "CADF" : {
+      "title" : "Cadfael",
+      "logo_path" : "..\/_logos\/cadfael_logo.jpeg"
+    },
+    "UFOT" : {
+      "title" : "U.F.O."
+    },
+    "DNMN" : {
+      "title" : "Secret Agent",
+      "logo_path" : "..\/_logos\/secret_agent_logo.jpg"
+    },
+    "CHMP" : {
+      "title" : "The Champions",
+      "logo_path" : "..\/_logos\/the_champions_logo.jpg"
+    },
+    "OFUK" : {
+      "title" : "The Office (U.K. version)",
+      "logo_path" : "..\/_logos\/the_office_uk_logo.jpg"
+    },
+    "CON1" : {
+      "title" : "Connections I"
+    },
+    "KNFU" : {
+      "title" : "Kung Fu",
+      "logo_path" : "..\/_logos\/kung_fu_logo.jpg"
+    },
+    "LOTL" : {
+      "title" : "Land of the Lost",
+      "logo_path" : "..\/_logos\/land_of_the_lost_logo.jpg"
+    },
+    "FWLT" : {
+      "title" : "Fawlty Towers",
+      "logo_path" : "..\/_logos\/fawlty_towers_logo.jpg"
+    },
+    "CSCR" : {
+      "title" : "Captain Scarlet and the Mysterons",
+      "logo_path" : "..\/_logos\/captain_scarlet_logo.jpg"
+    },
+    "SPRA" : {
+      "title" : "Speed Racer",
+      "logo_path" : "..\/_logos\/speed_racer_logo.jpg"
+    },
+    "ZATV" : {
+      "title" : "The Tales of Zatoichi"
+    },
+    "BSG1" : {
+      "title" : "Battlestar Galactica",
+      "logo_path" : "..\/_logos\/battlestar_galactica_logo.jpg"
+    },
+    "SOKO" : {
+      "title" : "Johnny Sokko and his Flying Robot",
+      "logo_path" : "..\/_logos\/johnny_sokko_logo.jpg"
+    },
+    "7UP" : {
+      "title" : "Seven Up! Series"
+    },
+    "MSTK" : {
+      "title" : "Mystery Science Theater 3000"
+    },
+    "LISP" : {
+      "title" : "Lost in Space",
+      "logo_path" : "..\/_logos\/lost_in_space_logo.png"
+    },
+    "RBBT" : {
+      "title" : "Ray Bradbury Theater"
+    },
+    "AHCP" : {
+      "title" : "Alfred Hitchcock Presents",
+      "logo_path" : "..\/_logos\/alfred_hitchcock_presents_logo.jpg"
+    },
+    "DRHI" : {
+      "title" : "Drunk History"
+    },
+    "PUFO" : {
+      "title" : "Project U.F.O."
+    },
+    "JOQU" : {
+      "title" : "Jonny Quest",
+      "logo_path" : "..\/_logos\/jonny_quest_logo.png"
+    },
+    "POIR" : {
+      "title" : "Poirot"
+    },
+    "STAN" : {
+      "title" : "Star Trek: The Animated Series"
+    },
+    "ACGS" : {
+      "title" : "All Creatures Great and Small"
+    },
+    "HOLM" : {
+      "title" : "Sherlock Holmes"
+    },
+    "PRSN" : {
+      "title" : "The Prisoner",
+      "logo_path" : "..\/_logos\/the_prisoner_logo.jpg"
+    },
+    "ULTR" : {
+      "title" : "Ultraman",
+      "logo_path" : "..\/_logos\/ultraman_logo.png"
+    },
+    "TPOD" : {
+      "title" : "The Tripods"
+    },
+    "SRVR" : {
+      "title" : "Survivors",
+      "logo_path" : "..\/_logos\/survivors_logo.jpg"
+    },
+    "SIVA" : {
+      "title" : "Silicon Valley"
+    },
+    "LITB" : {
+      "title" : "Leave it to Beaver",
+      "logo_path" : "..\/_logos\/leave_it_to_beaver_logo.jpg"
+    },
+    "PATV" : {
+      "title" : "Planet of the Apes",
+      "logo_path" : "..\/_logos\/planet_of_the_apes_logo.jpg"
+    },
+    "DWHO" : {
+      "title" : "Doctor Who",
+      "logo_path" : "..\/_logos\/doctor_who_logo.jpg"
+    },
+    "1999" : {
+      "title" : "Space 1999"
+    },
+    "RT66" : {
+      "title" : "Route 66"
+    },
+    "NIGA" : {
+      "title" : "Night Gallery",
+      "logo_path" : "..\/_logos\/night_gallery_logo.jpg"
+    },
+    "TWZN" : {
+      "title" : "The Twilight Zone",
+      "logo_path" : "..\/_logos\/twilight-zone-logo.png"
+    }
+  },
+  "info" : {
+    "title" : "Channel 41",
+    "description" : "Enjoy an old-school,  independent UHF channel."
+  },
+  "dotw_list_schedule" : [
+    {
+      "schedule" : [
+        {
+          "start_time" : "00:00",
+          "list_ids" : [
+            "ISHI"
+          ]
+        }
+      ]
+    },
+    {
+      "schedule" : [
+        {
+          "start_time" : "00:00",
+          "list_ids" : [
+            "ISHI"
+          ]
+        }
+      ]
+    },
+    {
+      "schedule" : [
+        {
+          "start_time" : "00:00",
+          "list_ids" : [
+            "ISHI"
+          ]
+        }
+      ]
+    },
+    {
+      "schedule" : [
+        {
+          "start_time" : "00:00",
+          "list_ids" : [
+            "ISHI"
+          ]
+        }
+      ]
+    },
+    {
+      "schedule" : [
+        {
+          "start_time" : "00:00",
+          "list_ids" : [
+            "ISHI"
+          ]
+        }
+      ]
+    },
+    {
+      "schedule" : [
+        {
+          "start_time" : "00:00",
+          "list_ids" : [
+            "ISHI"
+          ]
+        }
+      ]
+    },
+    {
+      "schedule" : [
+        {
+          "start_time" : "00:00",
+          "list_ids" : [
+            "ISHI"
+          ]
+        }
+      ]
+    }
+  ],
+  "lists" : {
+    "ISHI" : {
+      "list_path" : "list_ishitani.json"
+    }
+  },
+  "version" : "UHF Channel - v1"
+}

@@ -1,0 +1,714 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "CHMP04" : {
+      "path" : "..\/Champions, The\/The Champions 04 - The Experiment.mp4",
+      "title" : "The Experiment",
+      "series_id" : "CHMP",
+      "description" : "Sharron is met at an airport whilst on holiday by Major Cranmore who invites her to a large house apparently to pit her super-human skills against a like-minded - literally - group of people in a series of tests.",
+      "year" : 1968,
+      "duration" : 2932
+    },
+    "FWLT01" : {
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 01 A Touch of Class.mp4",
+      "title" : "A Touch of Class",
+      "series_id" : "FWLT",
+      "description" : "Basil is delighted when a member of the aristocracy chooses to stay at the Fawlty Towers, snubbing the normal guests who frequent the hotel.",
+      "year" : 1975,
+      "duration" : 1822
+    },
+    "SPRA01" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 01 The Great Plan (part 1).mp4",
+      "title" : "The Great Plan - Part 1",
+      "series_id" : "SPRA",
+      "description" : "Speed Racer enters his first race to win money for his family. Meanwhile, a gang of robbers are after Pops's secret plans... which he hid in the windshield of Speed's car.",
+      "year" : 1967,
+      "duration" : 1430
+    },
+    "SPRA03" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 03 Challenge of the Masked Racer (part 1, SD).m4v",
+      "title" : "Challenge of the Masked Racer - Part 1",
+      "series_id" : "SPRA",
+      "description" : "Speed's first encounter with Racer X, a mysterious masked driver who is rumored to cause car crashes whenever he races.",
+      "year" : 1967,
+      "duration" : 1469
+    },
+    "SPRA05" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 05 The Secret Engine (part 1).mp4",
+      "title" : "The Secret Engine - Part 1",
+      "series_id" : "SPRA",
+      "description" : "Spee tries to help an old man find his stolen car. It turns out the car has a map to a treasure, which a criminal mastermind is prepared to get at any cost.",
+      "year" : 1967,
+      "duration" : 1481
+    },
+    "HONW02" : {
+      "series_id" : "HONW",
+      "order" : 2,
+      "title" : "The Owl and the Eye",
+      "duration" : 1491,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 02 - The Owl and the Eye.mp4",
+      "description" : "Honey and Sam are hired by a art museum's insurance company to prove how easy it is to bypass its security measures. After proving the insurance company's point, the private investigators agree to furnish an elaborate new system - which is promptly evaded by art thieves."
+    },
+    "HONW04" : {
+      "series_id" : "HONW",
+      "order" : 4,
+      "title" : "A Matter of Wife and Death",
+      "duration" : 1528,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 04 - A Matter of Wife and Death.mp4",
+      "description" : "Honey tries to protect a woman executive who has received numerous death threats."
+    },
+    "ZATV01" : {
+      "path" : "..\/Zatoichi TV Series\/Tales Of Zatoichi 01.m4v",
+      "title" : "A Challenge of Chance",
+      "series_id" : "ZATV",
+      "description" : "Two Bosses fight for control of a mine. Will Zatoichi takes sides? A man with a musket wants to end that threat.",
+      "year" : 1974,
+      "duration" : 2785
+    },
+    "LISP01" : {
+      "series_id" : "LISP",
+      "order" : 1,
+      "title" : "The Reluctant Stowaway",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 01 The Reluctant Stowaway.m4v",
+      "description" : "The Jupiter 2 is to launch, but a saboteur wants to destroy it. Unfortunately he is part of the Jupiter 2 crew now Lost In Space."
+    },
+    "LISP03" : {
+      "series_id" : "LISP",
+      "order" : 3,
+      "title" : "Island in the Sky",
+      "duration" : 3086,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 03 Island in the Sky.m4v",
+      "description" : "While spacewalking Doctor Robinson is pulled down onto a planet. Major West lands the ship to search for him."
+    },
+    "7834CD28" : {
+      "path" : "..\/U.F.O.\/UFO - 23 The Sound Of Silence.m4v",
+      "title" : "The Sound of Silence",
+      "series_id" : "UFOT",
+      "order" : 23,
+      "year" : 1971,
+      "duration" : 2974
+    },
+    "LOTL01" : {
+      "path" : "..\/Land of the Lost\/Land of the Lost - 01 Cha Ka.mp4",
+      "title" : "Cha-Ka",
+      "series_id" : "LOTL",
+      "description" : "Will and Holly save a Pakuni ape-boy named Cha-Ka from Grumpy the Tyrannosaurus Rex.",
+      "year" : 1974,
+      "duration" : 1389
+    },
+    "48833173" : {
+      "series_id" : "TWZN",
+      "order" : 1,
+      "title" : "Where is Everybody?",
+      "start_offset" : 458,
+      "duration" : 2102,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 001 Where is Everybody.mp4",
+      "description" : "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul. The tension increases and Mike has a breakdown."
+    },
+    "SOKO01" : {
+      "series_id" : "SOKO",
+      "order" : 1,
+      "title" : "Dracolon: The Great Sea Monster",
+      "duration" : 1459,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko - 01 Dracolon, The Great Sea Monster.m4v",
+      "description" : "Shipwrecked, Daisaku (Johnny Sokko) and Juro Minami (an agent for Unicorn) drift to an island and are captured by the BF gang. The island is in fact, a base of the B.F. gang. They happen to discover a huge robot while they are running away."
+    },
+    "DNMN01" : {
+      "path" : "..\/Danger Man\/Danger Man 01.m4v",
+      "title" : "Yesterday's Enemies",
+      "series_id" : "DNMN",
+      "description" : "Brett is known to be giving away British industrial secrets. However, when Drake confronts him, he discovers things are a lot more complicated and that Brett is not the only person being investigated.",
+      "year" : 1965,
+      "duration" : 3125
+    },
+    "SOKO03" : {
+      "series_id" : "SOKO",
+      "order" : 3,
+      "title" : "The Gargoyle Vine: A Space Plant",
+      "duration" : 1464,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 03.m4v",
+      "description" : "Under Emperor Guillotine's orders, Dr. Over, a leading member of BF Syndicate, comes to the earth with a fossil of a devilish space plant called Satan Rose."
+    },
+    "028F33BF" : {
+      "series_id" : "TWZN",
+      "order" : 2,
+      "title" : "One for the Angels",
+      "duration" : 1503,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 002 One for the Angels.mp4",
+      "description" : "A pitchman is visited by Mr. Death and is forced to get his priorities in order."
+    },
+    "ULTR02" : {
+      "path" : "..\/Ultraman\/Ultraman 02.mp4",
+      "title" : "Shoot the Invaders!",
+      "series_id" : "ULTR",
+      "description" : "The Balatans have come to Earth to make a new home, at the expense of Earth's inhabitants.",
+      "year" : 1966,
+      "duration" : 1516
+    },
+    "ULTR04" : {
+      "path" : "..\/Ultraman\/Ultraman 04.mp4",
+      "title" : "Five Seconds Before the Explosion",
+      "series_id" : "ULTR",
+      "description" : "A nuclear bomb has gone missing and winds up being stuck to a lizard-like monster. This monster is bent on ruining Fuji's vacation.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "CHMP01" : {
+      "path" : "..\/Champions, The\/The Champions 01 - The Beginning.mp4",
+      "title" : "The Beginning",
+      "series_id" : "CHMP",
+      "description" : "Sharron MacReady, Craig Stirling and Richard Barrett work as agents for international law enforcement bureau Nemesis, based in Geneva, Whilst returning from a mission in China with bacteriological material stolen from the Chinese, their plane is shot down over the Himalayas.",
+      "year" : 1968,
+      "duration" : 2861
+    },
+    "CHMP03" : {
+      "path" : "..\/Champions, The\/The Champions 03 - Reply Box No 666.mp4",
+      "title" : "Reply Box No. 666",
+      "series_id" : "CHMP",
+      "description" : "A young explosives expert called Semenkin is found murdered in his Jamaican hotel room whilst posing as a French businessman.",
+      "year" : 1968,
+      "duration" : 2922
+    },
+    "CSCR01" : {
+      "path" : "..\/Captain Scarlet\/Captain Scarlet 01 - The Mysterons.m4v",
+      "title" : "The Mysterons",
+      "series_id" : "CSCR",
+      "description" : "After a misunderstanding on the planet Mars, a war is started between humans and an alien race called The Mysterons. Thier first act of revenge is to try and assassinate The World President.",
+      "year" : 1967,
+      "duration" : 1567
+    },
+    "7UP01" : {
+      "path" : "..\/7 Up Series\/7 Up.mp4",
+      "title" : "Seven Up!",
+      "series_id" : "7UP",
+      "description" : "A group of British children aged 7 from widely ranging backgrounds are interviewed about a range of subjects.",
+      "year" : 1964,
+      "duration" : 2386
+    },
+    "CHMP05" : {
+      "path" : "..\/Champions, The\/The Champions 05 - Happening.mp4",
+      "title" : "Happening",
+      "series_id" : "CHMP",
+      "description" : "The Champions are Down Under and Richard has infiltrated a terrorist group who have planted a radioactive device in the Simpson Desert.",
+      "year" : 1968,
+      "duration" : 2914
+    },
+    "SRVR01" : {
+      "path" : "..\/Survivors\/Survivors 01 - The Fourth Horseman.m4v",
+      "title" : "The Fourth Horseman",
+      "series_id" : "SRVR",
+      "description" : "A strange disease sweeps through Britain and the world with amazing swiftness. Abby Grant searches for her son. Jenny thrust out of her city life wanders through the country around London trying to find a way to survive.",
+      "duration" : 3005
+    },
+    "AHCP002" : {
+      "series_id" : "AHCP",
+      "order" : 2,
+      "title" : "Premonition",
+      "duration" : 1568,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 002 - Premonition.m4v",
+      "description" : "A man returning to his home town finds his father has died, and suspects his friends are covering up the true details of that death."
+    },
+    "SPRA02" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 02 The Great Plan (part 2, SD).m4v",
+      "title" : "The Great Plan - Part 2",
+      "series_id" : "SPRA",
+      "description" : "Speed continues his race, and the robbers continue their attempts to capture Speed.",
+      "year" : 1967,
+      "duration" : 1455
+    },
+    "AHCP003" : {
+      "series_id" : "AHCP",
+      "order" : 3,
+      "title" : "Trigger in Leash",
+      "duration" : 1570,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 003 - Trigger In Leash.m4v",
+      "description" : "A cook tries everything she can think of to end a dispute between two gunmen who have sworn to kill each other."
+    },
+    "JOQU01" : {
+      "path" : "..\/Jonny Quest\/Jonny Quest 01.m4v",
+      "title" : "The Mystery of the Lizard Men",
+      "series_id" : "JOQU",
+      "description" : "A foreign power uses the Sargasso Sea to conduct laser experiments and employs \"lizard men\" to scare away potential interlopers.",
+      "year" : 1964,
+      "duration" : 1523
+    },
+    "SPRA04" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 04 Challenge of the Masked Racer (part 2).mp4",
+      "title" : "Challenge of the Masked Racer - Part 2",
+      "series_id" : "SPRA",
+      "description" : "Speed Racer and Racer X participate in the Trans-Country race... as well as competitors who stoop to dirty tricks to get rid of them.",
+      "year" : 1967,
+      "duration" : 1484
+    },
+    "TWZN003" : {
+      "series_id" : "TWZN",
+      "order" : 3,
+      "title" : "Mr. Denton on Doomsday",
+      "duration" : 1493,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 003 Mr. Denton on Doomsday.mp4",
+      "description" : "The town drunk in the old-west faces his past when Fate lends a hand."
+    },
+    "TWZN004" : {
+      "series_id" : "TWZN",
+      "order" : 4,
+      "title" : "The Sixteen Millimeter Shrine",
+      "duration" : 1511,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 004 The Sixteen Millimeter Shrine.mp4",
+      "description" : "Barbara Jean Trenton is a faded film star who lives in the past by constantly re-watching her old movies instead of moving on with her life, so her associates try to lure her out of her self-imposed isolation."
+    },
+    "HONW03" : {
+      "series_id" : "HONW",
+      "order" : 3,
+      "title" : "The Abominable Snowman",
+      "duration" : 1492,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 03 - The Abominable Snowman.mp4",
+      "description" : "When a dying client gives Honey a snowglobe, the private detective doesn't grasp the importance of the object until other interested parties attempt to steal it."
+    },
+    "AHCP001" : {
+      "series_id" : "AHCP",
+      "order" : 1,
+      "title" : "Revenge",
+      "duration" : 1577,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 001 - Revenge.m4v",
+      "description" : "When Carl Spann's wife Elsa is assaulted by an unknown attacker, he drives his still-incoherent wife around town, hoping she can point him out, so he can kill him."
+    },
+    "HONW01" : {
+      "path" : "..\/Honey West\/Honey West 01 - The Swingin' Mrs. Jones.mp4",
+      "title" : "The Swingin' Mrs. Jones",
+      "series_id" : "HONW",
+      "description" : "After losing her client's $50,000 and getting a knock on the head in the bargain, Honey West is more determined than ever to break up a blackmail ring that preys on wealthy middle-aged women.",
+      "year" : 1965,
+      "duration" : 1489
+    },
+    "HONW05" : {
+      "series_id" : "HONW",
+      "order" : 5,
+      "title" : "Live a Little, Kill a Little",
+      "duration" : 1530,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 05 - Live a Little, Kill a Little.mp4",
+      "description" : "When the sister of a prominent businessman breaks off a relationship with a local mobster, Honey and an assassin race to be the first to find her."
+    },
+    "AHCP005" : {
+      "series_id" : "AHCP",
+      "order" : 5,
+      "title" : "Into Thin Air",
+      "duration" : 1559,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 005 - Into Thin Air.m4v",
+      "description" : "When a young woman leaves her ill mother in a Paris hotel room and comes back later, she finds her mother is missing, and all the hotel's employees deny she and her mother were ever there."
+    },
+    "PRSN01" : {
+      "path" : "..\/Prisoner, The\/Prisoner, The 01 - The Arrival.m4v",
+      "title" : "The Arrival",
+      "series_id" : "PRSN",
+      "description" : "After resigning, a secret agent finds himself trapped in a bizarre prison known only as The Village.",
+      "duration" : 3069
+    },
+    "AHCP004" : {
+      "series_id" : "AHCP",
+      "order" : 4,
+      "title" : "Don't Come Back Alive",
+      "duration" : 1567,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 004 - Don't Come Back Alive.m4v",
+      "description" : "Frank Partridge and his wife plot to cheat their life insurance company by having her hide out for 7 years and declared legally dead, but an investigator believes Mr. Partridge has murdered her."
+    },
+    "LISP00" : {
+      "series_id" : "LISP",
+      "order" : 0,
+      "title" : "No Place to Hide (Pilot)",
+      "duration" : 3131,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 00 Pilot.m4v",
+      "description" : "The Robinsons, Earth's first family of outer space, head to colonize Alpha Centauri in their flying saucer, the Gemini 12, but crash land on an uncharted planet where they deal with its challenges and dangers."
+    },
+    "TWZN005" : {
+      "series_id" : "TWZN",
+      "order" : 5,
+      "title" : "Walking Distance",
+      "duration" : 1521,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 005 Walking Distance.m4v",
+      "description" : "A man travels back in time to his childhood, arriving just a few miles away from his native town."
+    },
+    "LISP02" : {
+      "series_id" : "LISP",
+      "order" : 2,
+      "title" : "The Derelict",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 02 The Derelict.m4v",
+      "description" : "The Jupiter 2 is pulled into a giant ship occupied by bubble-like creatures."
+    },
+    "CON101" : {
+      "path" : "..\/Connections 1\/Connections 01 The Trigger Effect.mp4",
+      "title" : "The Trigger Effect",
+      "series_id" : "CON1",
+      "description" : "One thing leads to another and our dependence on technology. A New York City Blackout serves as example.",
+      "year" : 1978,
+      "duration" : 2965
+    },
+    "199923" : {
+      "path" : "..\/Space 1999\/Space 1999 - 23 The Testament of Arkadia.mp4",
+      "title" : "The Testament of Arkadia",
+      "series_id" : "1999",
+      "year" : 1976,
+      "duration" : 3122
+    },
+    "SOKO02" : {
+      "series_id" : "SOKO",
+      "order" : 2,
+      "title" : "Nucleon: The Magic Globe",
+      "duration" : 1463,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko - 02 Nucleon, The Magic Globe.m4v",
+      "description" : "Emperor Guillotine, king of BF syndicate, plans to take back Giant Robot and to arrest Daisaku (Johhny Sokko), the only one that can give orders to the robot. He sends a huge magic metal globe called Glober to the earth."
+    },
+    "DWHO0751" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 1.m4v",
+      "title" : "Robot (part 1)",
+      "series_id" : "DWHO",
+      "description" : "Can the Doctor, now in his fourth incarnation, recover from his post-regenerative trauma to save the Earth from Think Tank and their plot for world domination?",
+      "year" : 1974,
+      "duration" : 1455
+    },
+    "SOKO04" : {
+      "series_id" : "SOKO",
+      "order" : 4,
+      "title" : "Monster Ligon-Tyrox: A Strange Monster",
+      "duration" : 1463,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 04.m4v",
+      "description" : "Emperor Guillotine sends Dr. Over and Ligon, a new weapon in the shape of a pyramid, to the earth. By operating Ligon, Over destroys oil fields in Araia one after another."
+    },
+    "DWHO0752" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 2.m4v",
+      "title" : "Robot (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and Sarah become convinced Think Tank are behind the electronic component thefts but are unable to stop them carrying out another raid.",
+      "year" : 1975,
+      "duration" : 1502
+    },
+    "ULTR01" : {
+      "path" : "..\/Ultraman\/Ultraman 01.mp4",
+      "title" : "Ultra Operation No. 1",
+      "series_id" : "ULTR",
+      "description" : "Ultraman is escorting his prisoner to its final destination. The prisoner escapes and heads toward Earth. As Ultraman follows in pursuit, he accidentally crashes into an Earth craft, injuring its pilot and altering both of their lives forever.",
+      "year" : 1966,
+      "duration" : 1519
+    },
+    "ULTR03" : {
+      "path" : "..\/Ultraman\/Ultraman 03.mp4",
+      "title" : "Science Patrol, Move Out!",
+      "series_id" : "ULTR",
+      "description" : "An invisible monster that thrives on electricity begins destroying power plants in Japan.",
+      "year" : 1966,
+      "duration" : 1519
+    },
+    "DWHO0753" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 3.m4v",
+      "title" : "Robot (part 3)",
+      "series_id" : "DWHO",
+      "description" : "Sarah and Kettlewell infiltrate an SRS meeting to try and find out what Miss Winters is up to but there is a surprise in store.",
+      "year" : 1975,
+      "duration" : 1474
+    },
+    "DWHO0761" : {
+      "path" : "..\/Doctor Who\/Dr. Who 076 - The Ark In Space 1.m4v",
+      "title" : "The Ark in Space (part 1)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor's attempt to give Harry a trip in the TARDIS sees the two of them and Sarah arriving onboard a space station in the far future, with some rather deadly security mechanisms.",
+      "year" : 1975,
+      "duration" : 1501
+    },
+    "KNFU00" : {
+      "series_id" : "KNFU",
+      "order" : 0,
+      "title" : "The Way of the Tiger, the Sign of the Dragon",
+      "duration" : 4463,
+      "year" : 1972,
+      "path" : "..\/Kung Fu\/Kung Fu 01.m4v",
+      "description" : "After avenging the death of his teacher, a Shaolin monk flees China to the American West and helps people while being pursued by bounty hunters."
+    },
+    "ULTR05" : {
+      "path" : "..\/Ultraman\/Ultraman 05.mp4",
+      "title" : "The Secret of the Miroganda",
+      "series_id" : "ULTR",
+      "description" : "A scientist finds a rare plant that is determined to destroy humanity.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "DWHO0754" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 4.m4v",
+      "title" : "Robot (part 4)",
+      "series_id" : "DWHO",
+      "description" : "UNIT attempt to get into the bunker to stop Miss Winters setting off the world's nuclear missiles but first they have to get past the K1.",
+      "year" : 1975,
+      "duration" : 1471
+    },
+    "CHMP02" : {
+      "path" : "..\/Champions, The\/The Champions 02 - The Invisible Man.mp4",
+      "title" : "The Invisible Man",
+      "series_id" : "CHMP",
+      "description" : "Surgeon John Hallam has perfected an 'invisible man', a device which is transplanted into the ear and 'tells' people to obey instructions.",
+      "year" : 1968,
+      "duration" : 2919
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "07:30",
+        "resource_id" : "KNFU00"
+      },
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DNMN01"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PRSN01"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "ZATV01"
+      }
+    ],
+    [
+      {
+        "start_time" : "08:00",
+        "resource_id" : "HONW01"
+      },
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0751"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP01"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP001"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA01"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR01"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO01"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP00"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FWLT01"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "48833173"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0752"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW02"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP02"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP002"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA02"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR02"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO02"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP01"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON101"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "028F33BF"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0753"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW03"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP03"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP003"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA03"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR03"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO03"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP02"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "7UP01"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN003"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0754"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW04"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP04"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP004"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA04"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR04"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO04"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199923"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN004"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0761"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW05"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP05"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP005"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA05"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR05"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "7834CD28"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "SRVR01"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN005"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "CSCR01"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "JOQU01"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "LOTL01"
+      }
+    ]
+  ]
+}

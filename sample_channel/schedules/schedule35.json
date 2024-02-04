@@ -1,0 +1,114 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199906" : {
+      "series_id" : "1999",
+      "order" : 6,
+      "title" : "Voyager's Return",
+      "duration" : 3126,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 06 Voyager's Return.mp4",
+      "description" : ""
+    },
+    "MESE1966" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Magic Serpent (1966, dubbed).mp4",
+      "title" : "Magic Serpent",
+      "description" : "Dubbed.",
+      "year" : 1966,
+      "duration" : 5079
+    },
+    "F28FEEDB" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 156 Substitute Father.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 156 Substitute Father"
+    },
+    "502CFA7A" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 160 Beaver's Birthday.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 160 Beaver's Birthday"
+    },
+    "444C0D20" : {
+      "series_id" : "UFOT",
+      "order" : 6,
+      "title" : "E.S.P.",
+      "duration" : 2988,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 06 E.S.P.m4v",
+      "description" : ""
+    },
+    "NOTO1947" : {
+      "path" : "..\/1940's Classics\/Notorious (1947).mp4",
+      "title" : "Notorious",
+      "year" : 1947,
+      "duration" : 6101
+    },
+    "D3785E31" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 159 Wally's Car.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 159 Wally's Car"
+    },
+    "95DA39A4" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 157 Wally Goes Steady.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 157 Wally Goes Steady"
+    },
+    "236A91F5" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 158 No Time for Babysitters.m4v",
+      "duration" : 1542,
+      "title" : "Leave it to Beaver - 158 No Time for Babysitters"
+    }
+  },
+  "days" : [
+    [
+
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "F28FEEDB"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "NOTO1947"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "95DA39A4"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "236A91F5"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "D3785E31"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199906"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "502CFA7A"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "444C0D20"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "MESE1966"
+      }
+    ]
+  ]
+}

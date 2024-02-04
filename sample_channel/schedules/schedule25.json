@@ -1,0 +1,304 @@
+{
+  "day_count" : 7,
+  "resources" : {
+    "LITB110" : {
+      "series_id" : "LITB",
+      "order" : 110,
+      "title" : "Beaver and Violet",
+      "duration" : 1522,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 110 Beaver and Violet.m4v",
+      "description" : "The Cleavers and the Rutherfords' picnic day turns into embarrassment for Beaver when a snapshot of Violet kissing him on the cheek appears on the cover of Ward's company magazine."
+    },
+    "LISP24" : {
+      "series_id" : "LISP",
+      "order" : 24,
+      "title" : "His Majesty Smith",
+      "duration" : 3094,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 24 - His Majesty Smith.m4v",
+      "description" : "Doctor Smith delights that he is made ruler of an alien species until he learns that he is also their sacrifice."
+    },
+    "STAN22" : {
+      "series_id" : "STAN",
+      "order" : 22,
+      "title" : "The Counter-Clock Incident",
+      "duration" : 1413,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 22 The Counter-Clock Incident.m4v",
+      "description" : "The Enterprise finds itself trapped in a 'negative universe' which causes the crew to begin to grow younger and younger toward infancy."
+    },
+    "SPRA44" : {
+      "series_id" : "SPRA",
+      "order" : 44,
+      "title" : "Race the Laser Tank",
+      "duration" : 1402,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 44 Race the Laser Tank.mp4",
+      "description" : "A gang of crooks have captured top-secret plans for a new weapon: a tank with a laser device. When Speed tries to interfere, they decide to test the tank on him."
+    },
+    "LISP26" : {
+      "series_id" : "LISP",
+      "order" : 26,
+      "title" : "All That Glitters",
+      "duration" : 3091,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 26 - All That Glitters.m4v",
+      "description" : "Dr. Smith and Penny obtain a ring that will turn anything to platinum"
+    },
+    "LITB106" : {
+      "series_id" : "LITB",
+      "order" : 106,
+      "title" : "Ward's Baseball",
+      "duration" : 1545,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 106 Ward's Baseball.m4v",
+      "description" : "Larry Mondello convinces Beaver to play catch using Ward's valuable autographed baseball, with disastrous results."
+    },
+    "THHN1944" : {
+      "path" : "..\/1940's Classics\/To Have and Have Not (1944).mp4",
+      "title" : "To Have and Have Not",
+      "year" : 1944,
+      "duration" : 6006
+    },
+    "MOTH1961" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Mothra (1961, dubbed).m4v",
+      "title" : "Mothra",
+      "description" : "Dubbed.",
+      "year" : 1961,
+      "duration" : 5414
+    },
+    "TSOD1966" : {
+      "path" : "..\/Samurai\/Sword of Doom, The (1966).mp4",
+      "title" : "The Sword of Doom",
+      "description" : "",
+      "year" : 1966,
+      "duration" : 7230
+    },
+    "LISP23" : {
+      "series_id" : "LISP",
+      "order" : 23,
+      "title" : "The Space Trader",
+      "duration" : 3092,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 23 - The Space Trader.m4v",
+      "description" : "After ruining the Robinson's food supply, Doctor Smith makes a deal with the space trader and gives his body for food provided he collects it in 200 years. The space trader comes to collect immediately."
+    },
+    "LITB107" : {
+      "series_id" : "LITB",
+      "order" : 107,
+      "title" : "Beaver's Monkey",
+      "duration" : 1556,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 107 Beaver's Monkey.m4v",
+      "description" : "After June objects to his having a mouse as a pet, Beaver lets the mouse go into Metzger's field and answers an ad for a free pet monkey."
+    },
+    "SPRA43" : {
+      "series_id" : "SPRA",
+      "order" : 43,
+      "title" : "The Dangerous Witness",
+      "duration" : 1425,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 43 The Dangerous Witness.mp4",
+      "description" : "Speed is asked by the Chinese Princess Pedal to be her bodyguard, as a gang of assassins have taken a job on her."
+    },
+    "SOKO22" : {
+      "series_id" : "SOKO",
+      "order" : 22,
+      "title" : "Clash of the Giant Robot",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 22.m4v",
+      "description" : "The country of Melcon wants their own giant robot, and Giant Robot's birthday is spoiled by the news. "
+    },
+    "UFOT22" : {
+      "series_id" : "UFOT",
+      "order" : 22,
+      "title" : "Confetti Check A-O.K.",
+      "duration" : 2969,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 22 Confetti Check A-O.K..m4v",
+      "description" : ""
+    },
+    "LITB108" : {
+      "series_id" : "LITB",
+      "order" : 108,
+      "title" : "Beaver Finds a Wallet",
+      "duration" : 1562,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 108 Beaver Finds a Wallet.m4v",
+      "description" : "Beaver and his friend Larry Mondello find a lost wallet stuffed with money, turn it in to the police station and hope that no one claims it so they can split the loot."
+    },
+    "LISP25" : {
+      "series_id" : "LISP",
+      "order" : 25,
+      "title" : "The Space Croppers",
+      "duration" : 3092,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 25 - The Space Croppers.m4v",
+      "description" : "The Robinsons run into a group of space hillbillies whom Zachary believes might take him back to Earth."
+    },
+    "TOPH1935" : {
+      "path" : "..\/1930's Classics\/Top Hat (1935).m4v",
+      "title" : "Top Hat",
+      "description" : "A musical screwball comedy film in which Fred Astaire plays an American tap dancer who comes to London to star in a show produced by Horace Hardwick. He meets and attempts to impress Dale Tremont (Ginger Rogers) to win her affection.",
+      "year" : 1935,
+      "duration" : 5954
+    },
+    "HIPD1973" : {
+      "path" : "..\/Westerns\/High Plains Drifter (1973).m4v",
+      "title" : "High Plains Drifter",
+      "year" : 1973,
+      "duration" : 6301
+    },
+    "LITB109" : {
+      "series_id" : "LITB",
+      "order" : 109,
+      "title" : "Mother's Day Composition",
+      "duration" : 1558,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 109 Mother's Day Composition.m4v",
+      "description" : "Beaver finds it a challenge to write a fifty word composition for a school assignment about his mother's life as a girl, especially when his classmates' mothers' lives seem much more exciting than June's."
+    },
+    "POIR10" : {
+      "series_id" : "POIR",
+      "order" : 10,
+      "title" : "The Dream",
+      "duration" : 3073,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 10 The Dream.mp4",
+      "description" : "A famous pie manufacturer tells Poirot that he has dreamt of his own suicide, then dies under the same circumstances he dreamt about the very next day."
+    },
+    "CSMS12" : {
+      "series_id" : "CSMS",
+      "order" : 12,
+      "title" : "Encyclopaedia Galactica",
+      "duration" : 3654,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 12 Encyclopaedia Galactica.m4v",
+      "description" : "Carl Sagan examines the possibility extraterrestrial life and discusses his skepticism about UFOs."
+    },
+    "MNBS2" : {
+      "path" : "..\/Moonbase 3 (TV series)\/Moonbase 3 - 02 Behemoth.mp4",
+      "title" : "Behemoth",
+      "series_id" : "MNBS",
+      "order" : 2,
+      "duration" : 3080
+    },
+    "TOSM1948" : {
+      "path" : "..\/AFI 100\/Treasure of the Sierra Madre, The (1948).mp4",
+      "title" : "The Treasure of the Sierra Madre",
+      "year" : 1948,
+      "duration" : 7562
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "TSOD1966"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TOPH1935"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB106"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA43"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP23"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR10"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "THHN1944"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB107"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP24"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS12"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "TOSM1948"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB108"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO22"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP25"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "HIPD1973"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB109"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA44"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP26"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT22"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB110"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "MNBS2"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN22"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "MOTH1961"
+      }
+    ]
+  ],
+  "version" : "UHF Schedule - v1"
+}

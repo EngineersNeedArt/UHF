@@ -1,0 +1,208 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "LISP55" : {
+      "series_id" : "LISP",
+      "order" : 55,
+      "title" : "Trip Through the Robot",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 55 - Trip Through The Robot.m4v",
+      "description" : "While in the Valley of Shadows the Robot is affected by strange forces and grows to the size of a building. Will and Dr. Smith enter the Robot to try to reverse the process and save him."
+    },
+    "OEJK1961" : {
+      "path" : "..\/Westerns\/One-Eyed Jacks (1961 - need subs for small bits).m4v",
+      "duration" : 8484,
+      "title" : "One-Eyed Jacks (1961 - need subs for small bits)"
+    },
+    "199902" : {
+      "series_id" : "1999",
+      "order" : 2,
+      "title" : "Force of Life",
+      "duration" : 3126,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 02 Force of Life.mp4",
+      "description" : ""
+    },
+    "AMLD1946" : {
+      "path" : "..\/1940's Classics\/Matter of Life and Death, A (1946).mp4",
+      "title" : "A Matter of Life and Death",
+      "year" : 1946,
+      "duration" : 6314
+    },
+    "LISP54" : {
+      "series_id" : "LISP",
+      "order" : 54,
+      "title" : "The Colonists",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 54 - The Colonists.m4v",
+      "description" : "A female alien meets the Robinsons and uses them to help erect an arch to bring her people to colonize the Robinsons' planet."
+    },
+    "4C8B6865" : {
+      "series_id" : "UFOT",
+      "order" : 2,
+      "title" : "Exposed",
+      "duration" : 2968,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 02 Exposed.m4v",
+      "description" : "Colonel Paul Foster is a test pilot whose aircraft is accidentally caught up in a battle between an Unidentified Flying Object and a SHADO rocket. "
+    },
+    "43A09985" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 138 The Big Fish Count.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 138 The Big Fish Count"
+    },
+    "457902B1" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 137 Beaver's Tonsils.m4v",
+      "duration" : 1553,
+      "title" : "Leave it to Beaver - 137 Beaver's Tonsils"
+    },
+    "LISP53" : {
+      "series_id" : "LISP",
+      "order" : 53,
+      "title" : "Revolt of the Androids",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 53 - Revolt Of The Androids.m4v",
+      "description" : "In the second of two sequels to 'The Android Machine', Verda's sheltered by the Robinsons after she's marked for destruction by the Celestial Department Store. To that end, the store dispatches a killer android: IDAK (Instant Destroyer And Killer)."
+    },
+    "253A2CEE" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 139 Beaver's Poster.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 139 Beaver's Poster"
+    },
+    "TFSR1941" : {
+      "path" : "..\/Samurai\/47 Ronin, The (1941).mp4",
+      "title" : "The 47 Ronin",
+      "description" : "",
+      "year" : 1941,
+      "duration" : 13366
+    },
+    "A00E93CE" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 136 Beaver's Old Buddy.m4v",
+      "duration" : 1556,
+      "title" : "Leave it to Beaver - 136 Beaver's Old Buddy"
+    },
+    "40AE66B3" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 140 Mother's Helper.m4v",
+      "duration" : 1553,
+      "title" : "Leave it to Beaver - 140 Mother's Helper"
+    },
+    "VARN1958" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Varan,  the Unbelievable (1958).mp4",
+      "title" : "Varan,  the Unbelievable",
+      "year" : 1958,
+      "duration" : 5195
+    },
+    "HOLM06" : {
+      "series_id" : "HOLM",
+      "order" : 6,
+      "title" : "The Speckled Band",
+      "duration" : 3317,
+      "year" : 1984,
+      "path" : "..\/Sherlock Holmes\/Sherlock Holmes - 06 The Speckled Band.m4v",
+      "description" : "A young woman asks for Holmes' help when her ill-tempered stepfather moves her into the same room where her sister died under mysterious circumstances."
+    },
+    "LISP56" : {
+      "series_id" : "LISP",
+      "order" : 56,
+      "title" : "The Phantom Family",
+      "duration" : 3083,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 56 - The Phantom Family.m4v",
+      "description" : "While John and Maureen are away observing volcanic activity, the alien scientist Lemnoc captures Don, Judy, Penny, and Dr. Smith and replaces them with android duplicates. Lemnoc then forces Will and the Robot to train the duplicates in survival skills, hoping that they will be an inspiration to his own people, who are losing the will to live."
+    },
+    "LOEZ1937" : {
+      "path" : "..\/1930's Classics\/Life of Emile Zola, The (English, 1937).m4v",
+      "title" : "The Life of Emile Zola",
+      "description" : "The biopic of the famous French muckraking writer and his involvement in fighting the injustice of the Dreyfus Affair.",
+      "year" : 1937,
+      "duration" : 6968
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "TFSR1941"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "LOEZ1937"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "A00E93CE"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP53"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "HOLM06"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "AMLD1946"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "457902B1"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP54"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "43A09985"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP55"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "OEJK1961"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "253A2CEE"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP56"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199902"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "40AE66B3"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "4C8B6865"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "VARN1958"
+      }
+    ]
+  ]
+}

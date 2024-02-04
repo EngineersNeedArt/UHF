@@ -1,0 +1,104 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199921" : {
+      "path" : "..\/Space 1999\/Space 1999 - 21 Space Brain.mp4",
+      "title" : "Space Brain",
+      "series_id" : "1999",
+      "order" : 21,
+      "year" : 1976,
+      "duration" : 3130
+    },
+    "EFAF8DFA" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 233 The Clothing Drive.m4v",
+      "duration" : 1542,
+      "title" : "Leave it to Beaver - 233 The Clothing Drive"
+    },
+    "52590DAF" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 231 The All-Night Party.m4v",
+      "duration" : 1542,
+      "title" : "Leave it to Beaver - 231 The All-Night Party"
+    },
+    "0A0B077B" : {
+      "series_id" : "UFOT",
+      "order" : 21,
+      "title" : "Computer Affair",
+      "duration" : 2954,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 21 Computer Affair.m4v",
+      "description" : ""
+    },
+    "E9D45419" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 232 Beaver Sees America.m4v",
+      "duration" : 1535,
+      "title" : "Leave it to Beaver - 232 Beaver Sees America"
+    },
+    "62F4AADF" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 234 Family Scrapbook.m4v",
+      "duration" : 1535,
+      "title" : "Leave it to Beaver - 234 Family Scrapbook"
+    },
+    "TOWN1949" : {
+      "path" : "..\/1940's Classics\/On the Town (1949).mp4",
+      "title" : "On the Town",
+      "description" : "",
+      "year" : 1949,
+      "duration" : 5866
+    },
+    "0DBB628A" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 000 It's a Small World (pilot).mp4",
+      "duration" : 1527,
+      "title" : "Leave it to Beaver - 000 It's a Small World (pilot)"
+    }
+  },
+  "days" : [
+    [
+
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "52590DAF"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TOWN1949"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "E9D45419"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "EFAF8DFA"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "62F4AADF"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199921"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "0DBB628A"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "0A0B077B"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

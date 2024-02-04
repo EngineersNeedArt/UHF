@@ -1,0 +1,516 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "STAN06" : {
+      "series_id" : "STAN",
+      "order" : 6,
+      "title" : "The Survivor",
+      "duration" : 1450,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 06 The Survivor.m4v",
+      "description" : "A famous humanitarian is found alive near the Romulan Neutral Zone after being missing for five years, but he may not be who he claims to be."
+    },
+    "FETM05" : {
+      "series_id" : "FETM",
+      "order" : 5,
+      "title" : "Spider",
+      "duration" : 3371,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 5 Spider.m4v",
+      "description" : "The evolution of the lunar module at Grumman Aircraft Engineering."
+    },
+    "LITB029" : {
+      "series_id" : "LITB",
+      "order" : 29,
+      "title" : "Tenting Tonight",
+      "duration" : 1566,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 029 Tenting Tonight.mp4",
+      "description" : "Concerned that Wally and Beaver are spending too much time at the movies on the week-ends, Ward plans a camping trip and the excited boys tell all their friends. But when Eddie Haskell's dire prediction that Ward never really intended to go camping seems to come true after unexpected office work forces the busy dad to cancel the trip, the disappointed Cleaver boys pitch a tent and spend a rainy night in their back yard to avoid giving Eddie the satisfaction of thinking he was right."
+    },
+    "CON1" : {
+      "series_id" : "CON1",
+      "order" : 6,
+      "title" : "Thunder in the Skies",
+      "duration" : 2968,
+      "year" : 1978,
+      "path" : "..\/Connections 1\/Connections 06 Thunder In The Skies.mp4",
+      "description" : "Connecting The Little Ice Age, the invention of the chimney, Newcomen's engine, marsh gas, the carburetor and more."
+    },
+    "SATC1940" : {
+      "path" : "..\/1940's Classics\/Shop Around the Corner, The (1940).m4v",
+      "title" : "The Shop Around the Corner",
+      "description" : "",
+      "year" : 1940,
+      "duration" : 5925
+    },
+    "DRHI06" : {
+      "series_id" : "DRHI",
+      "order" : 6,
+      "title" : "Detroit",
+      "duration" : 1282,
+      "year" : 2013,
+      "path" : "..\/Drunk History\/Drunk History - 06 Detroit.m4v",
+      "description" : "Ralph Nader goes to war with General Motors, Houdini and Sir Arthur Conan Doyle go from best friends to bitter rivals, and the Kellogg Brothers invent cereal but battle each other."
+    },
+    "OFUK06" : {
+      "series_id" : "OFUK",
+      "order" : 6,
+      "title" : "Judgement",
+      "duration" : 1777,
+      "year" : 2001,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 06.mp4",
+      "description" : "It's the day to announce the redundancies. Tim tells David he's leaving and is happy to do so. Dawn is actually hoping that she'll be one of the redundancies."
+    },
+    "LITB028" : {
+      "series_id" : "LITB",
+      "order" : 28,
+      "title" : "Next Door Indians",
+      "duration" : 1573,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 028 Next Door Indians.mp4",
+      "description" : "To impress the older boys, Beaver makes up a story about a real, live Indian fight that occurred across the street from the Cleaver house a hundred years ago and bets Eddie Haskell a dollar fifty that it really happened. But Beaver knows he's in trouble when Eddie and the boys show up with shovels to prove him wrong ... until they find what they think are valuable gems."
+    },
+    "RT66012" : {
+      "series_id" : "RT66",
+      "order" : 12,
+      "title" : "Sheba",
+      "duration" : 3070,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 012 Sheba.m4v",
+      "description" : "A modern version of the old \"David and Bathsheba\" story in which King David fell in love with a married woman and arranged for her husband to be killed during a battle. Rich cattleman Woody Biggs continues to be rejected by recently widowed Laura Church so he has her framed for embezzlement and sent to prison. Then he pulls some strings and gets her paroled. Buz and Tod try to protect her from Woody who is pressuring her to marry him."
+    },
+    "ACGS06" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 06 A Cure for All Ills.m4v",
+      "title" : "A Cure for All Ills",
+      "series_id" : "ACGS",
+      "order" : 6,
+      "duration" : 3117
+    },
+    "ULTR12" : {
+      "series_id" : "ULTR",
+      "order" : 12,
+      "title" : "Cry of the Mummy",
+      "duration" : 1518,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 12.mp4",
+      "description" : "Scientists uncover a 10,000 year old mummy, who is not as dead as it appears. The mummy also has an unexplained connection to a giant dragon."
+    },
+    "RBBT04" : {
+      "series_id" : "RBBT",
+      "order" : 4,
+      "title" : "The Town Where No One Got Off",
+      "duration" : 1613,
+      "year" : 1986,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 04 The Town Where No One Got Off.m4v",
+      "description" : "Provoked by the snobbish attitude of a city slicker towards the people from the countryside, a man gets off his train at a random village to confirm his positive attitude about the country folk. He's in for a surprise - but so are they."
+    },
+    "MSTK0106" : {
+      "series_id" : "MSTK",
+      "order" : 28,
+      "title" : "The Crawling Hand",
+      "duration" : 5846,
+      "year" : 1989,
+      "path" : "..\/MST3K\/MST3K 106 - The Crawling Hand.m4v",
+      "description" : "Joel and the Bots have a tough time agreeing on how to spend their free time between segments of the teen sci-fi thriller \"The Crawling Hand\"."
+    },
+    "LISP27" : {
+      "series_id" : "LISP",
+      "order" : 27,
+      "title" : "The Lost Civilization",
+      "duration" : 3090,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 27 The Lost Civilization.m4v",
+      "description" : "Will awakes a sleeping princess whom he now must marry. Her race has been awakened and now plans to conquer the universe starting with Earth."
+    },
+    "61BE7705" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Gamera vs. Gyaos (Return of the Giant Monsters, 1967, dubbed).mp4",
+      "duration" : 5049,
+      "title" : "Gamera vs. Gyaos (Return of the Giant Monsters, 1967, dubbed)"
+    },
+    "CADF07" : {
+      "series_id" : "CADF",
+      "order" : 7,
+      "title" : "A Morbid Taste for Bones",
+      "duration" : 4544,
+      "year" : 1996,
+      "path" : "..\/Cadfael\/Cadfael - A Morbid Taste For Bones.m4v",
+      "description" : "Cadfael and a deputation of monks from Shrewsbury are dispatched to Wales to recover the remains of martyred St. Winifred over the objections of the local lord and residents."
+    },
+    "ULTR11" : {
+      "series_id" : "ULTR",
+      "order" : 11,
+      "title" : "The Rascal from Outer Space",
+      "duration" : 1519,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 11.mp4",
+      "description" : "A meteorite that falls to Earth gives anyone who controls it the power to make their thoughts become reality. A man who steals the meteorite wants to create a monster in order to control the world."
+    },
+    "LISP26" : {
+      "series_id" : "LISP",
+      "order" : 26,
+      "title" : "All That Glitters",
+      "duration" : 3091,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 26 All That Glitters.m4v",
+      "description" : "Dr. Smith and Penny obtain a ring that will turn anything to platinum"
+    },
+    "BSG106" : {
+      "series_id" : "BSG1",
+      "order" : 6,
+      "title" : "Gun on Ice Planet Zero (part 2)",
+      "duration" : 2926,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 07 - Gun on Ice Planet Zero (part 2).m4v",
+      "description" : "As Apollo and the team of convicted specialists brave the snowy mountain to blow up the Ravashol Pulsar, the criminals plan their escape. Starbuck is still determined to make a detour and rescue cadet Cree, but the Theta clones object to the destruction of their creator's weapon."
+    },
+    "NOWO1950" : {
+      "path" : "..\/1950's Classics\/No Way Out (1950).mp4",
+      "title" : "No Way Out",
+      "year" : 1950,
+      "duration" : 6400
+    },
+    "SOKO06" : {
+      "series_id" : "SOKO",
+      "order" : 6,
+      "title" : "Dragon: The Ninja Monster",
+      "duration" : 1441,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 06 - Dragon, The Ninja Monster.m4v",
+      "description" : "A monster called Dorogon swallows a jet plane of the Commonwealth of Sordia when it is flying and an atomic submarine of Furenkov Republic when it is under the sea."
+    },
+    "LRSS06" : {
+      "series_id" : "LRSS",
+      "order" : 6,
+      "title" : "The Flirt Episode",
+      "duration" : 1425,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 06 The Flirt.m4v",
+      "description" : "Larry fears he might cheat on his wife after he flirts with Mimi Rogers during an interview and then invites her back for the next show."
+    },
+    "LITB027" : {
+      "series_id" : "LITB",
+      "order" : 27,
+      "title" : "My Brother's Girl",
+      "duration" : 1569,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 027 My Brother's Girl.mp4",
+      "description" : "Mary Ellen Rogers schemes to get unsuspecting Wally to ask her to the school dance, using her friendship with Beaver to get closer to his big brother."
+    },
+    "SPRA12" : {
+      "series_id" : "SPRA",
+      "order" : 12,
+      "title" : "Race for Revenge (part 1)",
+      "duration" : 1447,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 12 Race for Revenge (part 1).mp4",
+      "description" : "The son of murdered racecar driver Flash Marker seeks revenge on the rival drivers who killed him."
+    },
+    "PATV05" : {
+      "series_id" : "PATV",
+      "order" : 5,
+      "title" : "The Legacy",
+      "duration" : 2988,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 05.mp4",
+      "description" : "Burke and Virdon discover a holographic message from scientists from their own time, which might help them find out what happened to their world, while they are exploring the ruins of Oakland."
+    },
+    "TTOB1924" : {
+      "path" : "..\/Birth of Cinema\/Thief of Bagdad, The (1924).mp4",
+      "title" : "The Thief of Bagdad",
+      "description" : "Freely adapted from One Thousand and One Nights, it tells the story of a thief who falls in love with the daughter of the Caliph of Baghdad. Douglas Fairbanks stars. Silent.",
+      "year" : 1924,
+      "duration" : 8887
+    },
+    "TREK12" : {
+      "series_id" : "TREK",
+      "order" : 12,
+      "title" : "The Menagerie (Part 2)",
+      "duration" : 3021,
+      "year" : 1966,
+      "path" : "..\/Star Trek TOS\/Star Trek - 12 The Menagerie (Part 2).mp4",
+      "description" : "At Spock's court martial, he explains himself with mysterious footage about when Capt. Pike was kidnapped by powerful illusion casting aliens."
+    },
+    "RT66011" : {
+      "series_id" : "RT66",
+      "order" : 11,
+      "title" : "A Fury Slinging Flame",
+      "duration" : 2775,
+      "year" : 1960,
+      "path" : "..\/Route 66\/Route 66 - 011 A Fury Slinging Flame.m4v",
+      "description" : "Dr. Mark Christopher is a famous scientist who believes from his Russian friend's cryptic message that the USSR will initiate a New Year's Day nuclear attack on the United States. Unable to convince his associates to act on this information, Christopher, his son, and a small band of followers, he takes shelter deep inside Carlsbad Caverns Tod and Buz assist Paula Shay, a devious newspaper reporter who wants to interview Dr. Christopher."
+    },
+    "SPRA11" : {
+      "series_id" : "SPRA",
+      "order" : 11,
+      "title" : "The Most Dangerous Race (part 3)",
+      "duration" : 1392,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 11 The Most Dangerous Race (part 3).mp4",
+      "description" : "It's the final lap of the Alpine Race, but Speed Racer is blinded and Racer X's legs are broken. How can they go on?"
+    },
+    "LITB026" : {
+      "series_id" : "LITB",
+      "order" : 26,
+      "title" : "Train Trip",
+      "duration" : 1565,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 026 Train Trip.mp4",
+      "description" : "Traveling home from a visit to Aunt Martha, Wally and Beaver spend too much of their money on food in the train station and don't have enough left to buy their tickets."
+    },
+    "TREK11" : {
+      "series_id" : "TREK",
+      "order" : 11,
+      "title" : "The Menagerie (Part 1)",
+      "duration" : 2964,
+      "year" : 1966,
+      "path" : "..\/Star Trek TOS\/Star Trek - 11 The Menagerie (Part 1).mp4",
+      "description" : "Spock kidnaps the crippled Capt. Pike, hijacks the Enterprise and then surrenders for court martial."
+    },
+    "ICLD06" : {
+      "series_id" : "ICLD",
+      "order" : 6,
+      "title" : "Some Justice",
+      "duration" : 3106,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 06.m4v",
+      "description" : "Tiberius, aided by Sejanus, is proving to be a harsh ruler with only Germanicus able to keep him under control."
+    },
+    "LITB030" : {
+      "series_id" : "LITB",
+      "order" : 30,
+      "title" : "Music Lesson",
+      "duration" : 1567,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 030 Music Lesson.mp4",
+      "description" : "Cut during the first day of tryouts, Beaver tells his parents that he made it into the school band and carries his clarinet to school for weeks, thinking that he has plenty of time to tell them the truth; but time runs out when June finds a concert announcement in Beaver's pocket and the whole family plans to go."
+    },
+    "WUTH1939" : {
+      "path" : "..\/AFI 100\/Wuthering Heights (1939).m4v",
+      "title" : "Wuthering Heights",
+      "year" : 1939,
+      "duration" : 6250
+    },
+    "TPOD06" : {
+      "series_id" : "TPOD",
+      "order" : 6,
+      "title" : "Chateau Ricordeau, France: July, 2089 AD",
+      "duration" : 1435,
+      "year" : 1984,
+      "path" : "..\/Tripods, The (TV Series)\/Tripods, The - 06.mp4",
+      "description" : "Henry and Beanpole go on their own, after Will decides to marry the daughter of the people who took him in."
+    },
+    "SANJ1962" : {
+      "path" : "..\/Samurai\/Sanjuro (1962).mp4",
+      "title" : "Sanjuro",
+      "description" : "",
+      "year" : 1962,
+      "duration" : 5745
+    },
+    "OXBO1943" : {
+      "path" : "..\/Westerns\/Ox-Bow Incident, The (1943).mp4",
+      "title" : "The Ox-Bow Incident",
+      "description" : "",
+      "year" : 1943,
+      "duration" : 4529
+    },
+    "FWLT06" : {
+      "series_id" : "FWLT",
+      "order" : 6,
+      "title" : "The Germans",
+      "duration" : 1874,
+      "year" : 1975,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 06 The Germans.mp4",
+      "description" : "A moose head to be hung, a fire drill to be conducted, and German guests are all a bit much for Basil to handle while Sybil's in hospital."
+    },
+    "DR2K1975" : {
+      "path" : "..\/Drive-In Night\/Death Race 2000 (1975).m4v",
+      "title" : "Death Race 2000",
+      "year" : 1975,
+      "duration" : 4777
+    },
+    "ULTR05J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 05 Secret of the Miloganda.mp4",
+      "title" : "Secret of the Miloganda",
+      "series_id" : "ULTR",
+      "order" : 5,
+      "duration" : 1520
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR05J"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "TPOD06"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV05"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "SANJ1962"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM05"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66011"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TTOB1924"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB026"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA11"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP26"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "FWLT06"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CADF07"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SATC1940"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB027"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR11"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP27"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS06"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON1"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "WUTH1939"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT04"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "NOWO1950"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB028"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO06"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "TREK11"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK06"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "OXBO1943"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66012"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB029"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA12"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "TREK12"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS06"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB030"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR12"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG106"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI06"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD06"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN06"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "61BE7705"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0106"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "DR2K1975"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ZATO12" : {
+      "series_id" : "ZATO",
+      "order" : 12,
+      "title" : "Zatoichi and the Chess Expert",
+      "duration" : 5247,
+      "year" : 1965,
+      "path" : "..\/Samurai\/Zatoichi 12 - Zatoichi and the Chess Expert (1965).m4v",
+      "description" : ""
+    },
+    "A2155193" : {
+      "series_id" : "UFOT",
+      "order" : 3,
+      "title" : "The Cat With Ten Lives",
+      "duration" : 2964,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 03 The Cat With Ten Lives.m4v",
+      "description" : ""
+    },
+    "F7911B8D" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 142 Wally and Dudley.m4v",
+      "duration" : 1552,
+      "title" : "Leave it to Beaver - 142 Wally and Dudley"
+    },
+    "E462E2F1" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 143 Eddie Spends the Night.m4v",
+      "duration" : 1394,
+      "title" : "Leave it to Beaver - 143 Eddie Spends the Night"
+    },
+    "YONG1967" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Yongary, Monster From The Deep (1967, dubbed).m4v",
+      "title" : "Yongary, Monster From The Deep",
+      "description" : "Dubbed.",
+      "year" : 1967,
+      "duration" : 4658
+    },
+    "LISP59" : {
+      "series_id" : "LISP",
+      "order" : 59,
+      "title" : "The Galaxy Gift",
+      "duration" : 2994,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space 59 - The Galaxy Gift.m4v",
+      "description" : "Penny will not give up the belt entrusted to her by an alien even if it means their deaths."
+    },
+    "PART1946" : {
+      "path" : "..\/1940's Classics\/Postman Always Rings Twice, The (1946).mp4",
+      "title" : "The Postman Always Rings Twice",
+      "description" : "",
+      "year" : 1946,
+      "duration" : 6780
+    },
+    "BAWI1938" : {
+      "path" : "..\/1930's Classics\/Baker's Wife, The (La femme du boulanger, 1938).m4v",
+      "title" : "The Baker's Wife",
+      "description" : "(La femme du boulanger)",
+      "year" : 1938,
+      "duration" : 8049
+    },
+    "CF380D38" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 141 The Dramatic Club.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 141 The Dramatic Club"
+    },
+    "2E154DC9" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 144 Beaver's Report Card.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 144 Beaver's Report Card"
+    },
+    "AB867E2B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 145 Mistaken Identity.m4v",
+      "duration" : 1553,
+      "title" : "Leave it to Beaver - 145 Mistaken Identity"
+    },
+    "LISP58" : {
+      "series_id" : "LISP",
+      "order" : 58,
+      "title" : "The Astral Traveller",
+      "duration" : 3082,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space 58 - The Astral Traveller.m4v",
+      "description" : "Will and Dr. Smith find a cave that transports them to Earth, 19th-century Scotland."
+    },
+    "HOLM07" : {
+      "series_id" : "HOLM",
+      "order" : 7,
+      "title" : "The Blue Carbuncle",
+      "duration" : 3276,
+      "year" : 1984,
+      "path" : "..\/Sherlock Holmes\/Sherlock Holmes - 07 The Blue Carbuncle.m4v",
+      "description" : "When the Countess of Morcar's priceless blue carbuncle is stolen, a reformed thief is charged with the crime."
+    },
+    "BOLJ1993" : {
+      "path" : "..\/Westerns\/Ballad of Little Jo, The (1993).m4v",
+      "title" : "The Ballad of Little Jo",
+      "description" : "",
+      "year" : 1993,
+      "duration" : 7271
+    },
+    "199903" : {
+      "series_id" : "1999",
+      "order" : 3,
+      "title" : "Collision Course",
+      "duration" : 3136,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 03 Collision Course.mp4",
+      "description" : ""
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO12"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "BAWI1938"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "CF380D38"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP58"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "HOLM07"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "PART1946"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "F7911B8D"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP59"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "E462E2F1"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "BOLJ1993"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "2E154DC9"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199903"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "AB867E2B"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "A2155193"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "YONG1967"
+      }
+    ]
+  ]
+}

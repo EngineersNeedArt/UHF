@@ -1,0 +1,113 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "48E7791E" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 219 Lumpy's Scholarship.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 219 Lumpy's Scholarship"
+    },
+    "C8347081" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 220 The Silent Treatment.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 220 The Silent Treatment"
+    },
+    "199918" : {
+      "path" : "..\/Space 1999\/Space 1999 - 18 The Infernal machine.mp4",
+      "title" : "The Infernal Machine",
+      "series_id" : "1999",
+      "order" : 18,
+      "year" : 1976,
+      "duration" : 3130
+    },
+    "99681FBB" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 217 Beaver on TV.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 217 Beaver on TV"
+    },
+    "92BF2CBA" : {
+      "series_id" : "UFOT",
+      "order" : 18,
+      "title" : "Timelash",
+      "duration" : 2983,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 18 Timelash.m4v",
+      "description" : ""
+    },
+    "LOHO2006" : {
+      "path" : "..\/Samurai\/Love And Honor (SD, 2006).m4v",
+      "title" : "Love and Honor",
+      "description" : "",
+      "year" : 2006,
+      "duration" : 7352
+    },
+    "51F569B6" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 218 Box Office Attraction.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 218 Box Office Attraction"
+    },
+    "37219C7D" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 216 Beaver the Caddy.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 216 Beaver the Caddy"
+    },
+    "WSKG1949" : {
+      "path" : "..\/1940's Classics\/Whisky Galore! (1949).m4v",
+      "title" : "Whisky Galore!",
+      "year" : 1949,
+      "duration" : 4804
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "LOHO2006"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "37219C7D"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "WSKG1949"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "99681FBB"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "51F569B6"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "48E7791E"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199918"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "C8347081"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "92BF2CBA"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

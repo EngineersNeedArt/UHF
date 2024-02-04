@@ -1,0 +1,355 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ULTR28" : {
+      "series_id" : "ULTR",
+      "order" : 28,
+      "title" : "Human Specimens 5 & 6",
+      "duration" : 1517,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 28.mp4",
+      "description" : "Ultraman's old foe Dada arrives on Earth and is collecting human specimens for their experiments."
+    },
+    "LITB070" : {
+      "series_id" : "LITB",
+      "order" : 70,
+      "title" : "Beaver's Sweater",
+      "duration" : 1495,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 070 Beaver's Sweater.mp4",
+      "description" : "Beaver uses his own $13 to buy a wild Eskimo-style sweater, but regrets it when Judy Hensler has the same one."
+    },
+    "RT66028" : {
+      "series_id" : "RT66",
+      "order" : 28,
+      "title" : "The Opponent",
+      "duration" : 3095,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 028 The Opponent.m4v",
+      "description" : "Tod and Buz \"detour\" to Youngstown,Ohio to see a boyhood idol of Buz,a boxer who is scheduled to fight a local hero.The \"idol\" is no longer a contender,he is a punch-drunk has-been. Buz attempts both to build up the man's confidence and give him a view to the future with the help of the boxer's female admirer."
+    },
+    "SVNV1943" : {
+      "path" : "..\/1940's Classics\/Seventh Victim, The (1943).m4v",
+      "title" : "The Seventh Victim",
+      "year" : 1943,
+      "duration" : 4255
+    },
+    "SOKO14" : {
+      "series_id" : "SOKO",
+      "order" : 14,
+      "title" : "The Monstrous Flying Jawbone",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 14.m4v",
+      "description" : "The office of Unicorn Chinese Branch is attacked by tank corps led by Red Cobra. Chang, its head, asks the help of the Japanese Branch. Azuma, Daisaku and Minami fly there on Giant Robo's back."
+    },
+    "LITB066" : {
+      "series_id" : "LITB",
+      "order" : 66,
+      "title" : "A Horse Named Nick",
+      "duration" : 1551,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 066 A Horse Named Nick.mp4",
+      "description" : "The boys help out at a traveling carnival for a couple of days. Instead of getting paid the $20 they were promised, they are given a run-down old horse."
+    },
+    "ACGS14" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 14 Christmas Special.m4v",
+      "title" : "Christmas Special",
+      "series_id" : "ACGS",
+      "order" : 14,
+      "description" : "",
+      "duration" : 3295
+    },
+    "BSG114" : {
+      "series_id" : "BSG1",
+      "order" : 14,
+      "title" : "The Man With 9 Lives",
+      "duration" : 2959,
+      "year" : 1979,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 15 - The Man With 9 Lives.m4v",
+      "description" : "When an old con meets Starbuck and suggests he is the warrior's father, there proves to be more following the elder than family ties."
+    },
+    "ULTR13J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 13 Oil S.O.S.mp4",
+      "title" : "Oil S.O.S",
+      "series_id" : "ULTR",
+      "order" : 13,
+      "duration" : 1521
+    },
+    "LITB067" : {
+      "series_id" : "LITB",
+      "order" : 67,
+      "title" : "Beaver's Hero",
+      "duration" : 1554,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 067 Beaver's Hero.mp4",
+      "description" : "Beaver tells his class that Ward was a big hero in the Second World War, but the boys find out his wartime experience wasn't that exciting."
+    },
+    "PATV13" : {
+      "series_id" : "PATV",
+      "order" : 13,
+      "title" : "The Liberator",
+      "duration" : 2983,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 13.mp4",
+      "description" : "When they are captured by a human community that provides human slaves to the apes, Virdon and Burke's survival is dependent on convincing their captors to rebel against the apes."
+    },
+    "ULTR27" : {
+      "series_id" : "ULTR",
+      "order" : 27,
+      "title" : "The Monster Highness: Part 2",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 27.mp4",
+      "description" : "After the monster eludes both the Science Patrol and Ultraman, the threat to the population becomes even greater."
+    },
+    "DRHI14" : {
+      "series_id" : "DRHI",
+      "order" : 14,
+      "title" : "Hollywood",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 14 Hollywood.m4v",
+      "description" : "Orson Welles's Citizen Kane (1941) upsets William Randolph Hearst: animator Ub Iwerks helps Walt Disney create Mickey Mouse: Nancy Reagan convinces her husband Ronald Reagan to enter politics."
+    },
+    "SPRA28" : {
+      "series_id" : "SPRA",
+      "order" : 28,
+      "title" : "The Race Against Time (part 1)",
+      "duration" : 1432,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 28 The Race Against Time (part 1).mp4",
+      "description" : "Speed and Trixie scour the Sahara for an archaeologist's daughter, and come across a fantastic kingdom."
+    },
+    "LITB068" : {
+      "series_id" : "LITB",
+      "order" : 68,
+      "title" : "Beaver Says Goodbye",
+      "duration" : 1535,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 068 Beaver Says Goodbye.mp4",
+      "description" : "Excited about possibly moving to a bigger house in a new neighborhood, Beaver tells his whole third grade class. But when the house sale falls through, embarrassed Beaver doesn't know how to break the news to his friends, especially after they throw him a surprise farewell party...with presents!"
+    },
+    "CSMS04" : {
+      "series_id" : "CSMS",
+      "order" : 4,
+      "title" : "Heaven and Hell",
+      "duration" : 3671,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 04 Heaven and Hell.m4v",
+      "description" : "Carl Sagan examines the nature of comets before turning to a close look at the planet Venus."
+    },
+    "POIR02" : {
+      "series_id" : "POIR",
+      "order" : 2,
+      "title" : "Murder in the Mews",
+      "duration" : 3175,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 02 Murder in the Mews.mp4",
+      "description" : "When a woman is found shot in her flat after Bonfire Night, Poirot is enlisted to decipher whether the victim died by her own hand, or by someone else's."
+    },
+    "M1931" : {
+      "path" : "..\/1930's Classics\/M (1931).mp4",
+      "title" : "M",
+      "description" : "A German thriller film starring Peter Lorre in his breakthrough role as a serial killer of children. An early example of a procedural drama, the film centers on the manhunt for Lorre's character, conducted by both the police and the criminal underworld.",
+      "year" : 1931,
+      "duration" : 6619
+    },
+    "LITB069" : {
+      "series_id" : "LITB",
+      "order" : 69,
+      "title" : "Beaver's Newspaper",
+      "duration" : 1524,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 069 Beaver's Newspaper.mp4",
+      "description" : "Beaver rescues Wally's broken typewriter from the trash, gets reliable Gus the Fireman to fix it with his \"special oil\" and starts a newspaper with his pal Larry. But Wally soon regrets tossing the now smoothly working machine and demands the newsboys return \"his\" typewriter."
+    },
+    "HIFO1958" : {
+      "path" : "..\/Samurai\/Hidden Fortress, The (1958).m4v",
+      "title" : "The Hidden Fortress",
+      "year" : 1958,
+      "duration" : 8341
+    },
+    "FFOD1964" : {
+      "path" : "..\/Westerns\/Fistful of Dollars, A (1964).m4v",
+      "title" : "A Fistful of Dollars",
+      "year" : 1964,
+      "duration" : 6004
+    },
+    "DAIM1" : {
+      "series_id" : "DAIM",
+      "order" : 1,
+      "title" : "Daimajin",
+      "duration" : 5028,
+      "year" : 1966,
+      "path" : "..\/Kaiju (Giant Monsters)\/Daimajin (#1, 1966).mp4",
+      "description" : ""
+    },
+    "STAN14" : {
+      "series_id" : "STAN",
+      "order" : 14,
+      "title" : "The Slaver Weapon",
+      "duration" : 1449,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 14 The Slaver Weapon.m4v",
+      "description" : "Spock, Uhura and Sulu discover an ancient multi-use weapon and are captured by the Kzinti who are equally interested in it."
+    },
+    "RT66027" : {
+      "series_id" : "RT66",
+      "order" : 27,
+      "title" : "Trap at Cordova",
+      "duration" : 3096,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 027 Trap at Cordova.m4v",
+      "description" : "Tod and Buz are bamboozled into a tiny remote mountain town in New Mexico. Once there,they are convicted on a trumped up \"crime\" with the sentence being to teach school for one year. Slowly,they come to lose their resentment and actually end up empathizing with the reason for the deception."
+    },
+    "SPRA27" : {
+      "series_id" : "SPRA",
+      "order" : 27,
+      "title" : "The Terrifying Gambler",
+      "duration" : 1431,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 27 The Terrifying Gambler.mp4",
+      "description" : "The Mach 5 team crosses paths with Mr Fastbucks, a wanted criminal with a taste for gambling and who's rigged Speed's latest race with explosives."
+    },
+    "OFUK14" : {
+      "series_id" : "OFUK",
+      "order" : 14,
+      "title" : "Christmas Special: Part 2",
+      "duration" : 3120,
+      "year" : 2003,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 14 (Christmas Special Part 2).mp4",
+      "description" : "Tim's world is rocked when Dawn turns up at the office to say hello. Despite a stern warning from Gareth and wise words from Keith in Accounts, Tim can't help but get his hopes up again."
+    },
+    "YKDD1942" : {
+      "path" : "..\/AFI 100\/Yankee Doodle Dandy (1942).m4v",
+      "title" : "Yankee Doodle Dandy",
+      "year" : 1942,
+      "duration" : 7539
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR13J"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV13"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "HIFO1958"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66027"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "M1931"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB066"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA27"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR02"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SVNV1943"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB067"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR27"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS04"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "YKDD1942"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB068"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO14"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK14"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "FFOD1964"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66028"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB069"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA28"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS14"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB070"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR28"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG114"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI14"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN14"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DAIM1"
+      }
+    ]
+  ]
+}

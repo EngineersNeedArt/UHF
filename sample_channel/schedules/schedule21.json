@@ -1,0 +1,374 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "DOEN1944" : {
+      "path" : "..\/AFI 100\/Double Endemnity (1944).mp4",
+      "title" : "Double Endemnity",
+      "description" : "",
+      "year" : 1944,
+      "duration" : 6454
+    },
+    "STAN18" : {
+      "series_id" : "STAN",
+      "order" : 18,
+      "title" : "Bem",
+      "duration" : 1058,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 18 Bem.m4v",
+      "description" : "The Enterprise crew is being observed to evaluate their suitability to meet with advanced civilizations."
+    },
+    "LISP04" : {
+      "series_id" : "LISP",
+      "order" : 4,
+      "title" : "There Were Giants in the Earth",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 04 There Were Giants in the Earth.m4v",
+      "description" : "Due to the planet's orbit, the Robinsons are going to freeze to death unless they head south."
+    },
+    "SPRA35" : {
+      "series_id" : "SPRA",
+      "order" : 35,
+      "title" : "The Supersonic Car",
+      "duration" : 1433,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 35 The Supersonic Car.mp4",
+      "description" : "A supersonic car built by the Racers is sabotaged and they are framed for its bad performance. Now they must work to foil the saboteurs and save their reputation."
+    },
+    "SOTD1933" : {
+      "path" : "..\/1930's Classics\/Sons of the Desert (1933).mp4",
+      "title" : "Sons of the Desert",
+      "description" : "When Stan and Ollie (Laurel & Hardy) trick their wives into thinking that they are taking a medicinal cruise while they're actually going to a convention, the wives find out the truth the hard way.",
+      "year" : 1933,
+      "duration" : 3799
+    },
+    "BSG119" : {
+      "series_id" : "BSG1",
+      "order" : 19,
+      "title" : "Experiment in Terra",
+      "duration" : 2925,
+      "year" : 1979,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 20 - Experiment in Terra.m4v",
+      "description" : "The mysterious Ship of Lights reappears, hijacks Apollo and his viper in space and sends him on a quest to save the planet Terra during peace negotiations with the Eastern Alliance."
+    },
+    "ULTR36" : {
+      "series_id" : "ULTR",
+      "order" : 36,
+      "title" : "Don't Shoot! Arashi",
+      "duration" : 1517,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 36.mp4",
+      "description" : "A monster with the ability to blind it's victims, and the ability to become stronger after being attacked, begins wreaking havoc. Science Patrol member Arashi gets into trouble when he defies orders to leave the monster alone."
+    },
+    "LITB090" : {
+      "series_id" : "LITB",
+      "order" : 90,
+      "title" : "Beaver the Magician",
+      "duration" : 1519,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 090 Beaver the Magician.m4v",
+      "description" : "Bengie thinks Larry Mondello magically turned Beaver into a rock."
+    },
+    "LISP06" : {
+      "series_id" : "LISP",
+      "order" : 6,
+      "title" : "Welcome Stranger",
+      "duration" : 3086,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 06 Welcome Stranger.m4v",
+      "description" : "The Robinsons meet a fellow Earth explorer who is also lost in space. They help him repair his ship and ask him to take Will and Penny home."
+    },
+    "DAYW1943" : {
+      "path" : "..\/1940's Classics\/Day of Wrath (1943).mp4",
+      "title" : "Day of Wrath",
+      "description" : "",
+      "year" : 1943,
+      "duration" : 5838
+    },
+    "DAIM3" : {
+      "series_id" : "DAIM",
+      "order" : 3,
+      "title" : "Daimajin Strikes Again",
+      "duration" : 5236,
+      "year" : 1966,
+      "path" : "..\/Kaiju (Giant Monsters)\/Daimajin Strikes Again (#3, 1966).m4v",
+      "description" : ""
+    },
+    "LITB086" : {
+      "series_id" : "LITB",
+      "order" : 86,
+      "title" : "Beaver's Tree",
+      "duration" : 1500,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 086 Beaver's Tree.m4v",
+      "description" : "Inspired after teacher Miss Landers reads a poem to his class about trees, Beaver worries about the tree that Ward planted for him on his birthday in the old neighborhood and decides to bring it to the Cleavers' new yard."
+    },
+    "SOKO18" : {
+      "series_id" : "SOKO",
+      "order" : 18,
+      "title" : "X-7, a Mysterious Enemy Agent",
+      "duration" : 1507,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 18.m4v",
+      "description" : "The mysterious enemy agent X-7 is assassinating Unicorn operatives around the world with the help of a giant flying hand. As a precaution, Jerry is assigned to protect Johnny, since only U7 can control Giant Robot. That same day, new kid Kenny joins Johnny's class. Coincidence?"
+    },
+    "DRAH1967" : {
+      "path" : "..\/Westerns\/Death Rides A Horse (1967, dubbed).m4v",
+      "title" : "Death Rides a Horse",
+      "description" : "(Dubbed)",
+      "year" : 1967,
+      "duration" : 6899
+    },
+    "UFOT18" : {
+      "series_id" : "UFOT",
+      "order" : 18,
+      "title" : "Timelash",
+      "duration" : 2983,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 18 Timelash.m4v",
+      "description" : ""
+    },
+    "LISP03" : {
+      "series_id" : "LISP",
+      "order" : 3,
+      "title" : "Island in the Sky",
+      "duration" : 3086,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 03 Island in the Sky.m4v",
+      "description" : "While spacewalking Doctor Robinson is pulled down onto a planet. Major West lands the ship to search for him."
+    },
+    "LITB087" : {
+      "series_id" : "LITB",
+      "order" : 87,
+      "title" : "Teacher Comes to Dinner",
+      "duration" : 1558,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 087 Teacher Comes to Dinner.m4v",
+      "description" : "Beaver's friends Larry, Whitey and Gilbert climb a tree to secretly spy on their teacher, Miss Landers, when she has dinner at the Cleaver house."
+    },
+    "SNSH1954" : {
+      "path" : "..\/Samurai\/Sansho the Bailiff (1954).mp4",
+      "title" : "Sansho the Bailiff",
+      "description" : "",
+      "year" : 1954,
+      "duration" : 7466
+    },
+    "ULTR35" : {
+      "series_id" : "ULTR",
+      "order" : 35,
+      "title" : "The Monster Graveyard",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 35.mp4",
+      "description" : "A monster is inadvertently brought to Earth from the monster graveyard. The Science Patrol attempts to return it back to where it belongs."
+    },
+    "LISP05" : {
+      "series_id" : "LISP",
+      "order" : 5,
+      "title" : "The Hungry Sea",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 05 The Hungry Sea .m4v",
+      "description" : "After experiencing the extreme cold, the planet gets closer to the sun, roasting it. Smith sends the robot to warn the Robinsons."
+    },
+    "LITB088" : {
+      "series_id" : "LITB",
+      "order" : 88,
+      "title" : "Beaver's Fortune",
+      "duration" : 1500,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 088 Beaver's Fortune.m4v",
+      "description" : "Beaver's last penny from his allowance buys him a ticket from a sidewalk weight\/fortune telling machine that predicts good luck for him, making him think that, as a result, he can beat up the school bully."
+    },
+    "ULTR17J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 17 Passport to Infinity.mp4",
+      "title" : "Passport to Infinity",
+      "series_id" : "ULTR",
+      "order" : 17,
+      "description" : "",
+      "duration" : 1520
+    },
+    "GODZ09" : {
+      "series_id" : "GODZ",
+      "order" : 9,
+      "title" : "Destroy All Monsters",
+      "duration" : 5354,
+      "year" : 1968,
+      "path" : "..\/Kaiju (Giant Monsters)\/Destroy All Monsters (Godzilla #9, 1968, dubbed).m4v",
+      "description" : "Dubbed."
+    },
+    "DRHI18" : {
+      "series_id" : "DRHI",
+      "order" : 18,
+      "title" : "First Ladies",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 18 First Ladies.m4v",
+      "description" : "Frances Cleveland becomes the youngest first lady ever, Edith Wilson runs the country after Woodrow Wilson's stroke, and Dolley Madison saves several artifacts from destruction. Featuring Courteney Cox, Bobby Moynihan, Alia Shawkat and Casey Wilson."
+    },
+    "CSMS08" : {
+      "series_id" : "CSMS",
+      "order" : 8,
+      "title" : "Journeys in Space and Time",
+      "duration" : 3700,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 08 Journeys in Space and Time.m4v",
+      "description" : "Carl Sagan explains scientific concepts like relativity and examines the possibility of time travel."
+    },
+    "LITB089" : {
+      "series_id" : "LITB",
+      "order" : 89,
+      "title" : "Beaver Makes a Loan",
+      "duration" : 1500,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 089 Beaver Makes a Loan.m4v",
+      "description" : "Beaver is forced to break his promise to bring home the change from the dollar his dad gave him to buy a 25 cent notebook after his unreliable pal, Larry Mondello, takes the money to buy a notebook for each of them and pays off an old debt with the rest."
+    },
+    "SPRA36" : {
+      "series_id" : "SPRA",
+      "order" : 36,
+      "title" : "Crash in the Jungle (part 1)",
+      "duration" : 1431,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 36 Crash in the Jungle (part 1).mp4",
+      "description" : "Speed heads to Nairobi for the Trans-African Grand Prix. But en route he is dumped into the jungle and must fend for himself amidst giant spiders and gargantuan gorillas."
+    },
+    "POIR06" : {
+      "series_id" : "POIR",
+      "order" : 6,
+      "title" : "Triangle at Rhodes",
+      "duration" : 3195,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 06 Triangle at Rhodes.mp4",
+      "description" : "An enchanting beauty is fatally poisoned while Poirot holidays on the Greek island of Rhodes."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR17J"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ09"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "SNSH1954"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SOTD1933"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB086"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA35"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR06"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "DAYW1943"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB087"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR35"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP04"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS08"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "DOEN1944"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB088"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO18"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP05"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "DRAH1967"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB089"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA36"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP06"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT18"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB090"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR36"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG119"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI18"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN18"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DAIM3"
+      }
+    ]
+  ]
+}

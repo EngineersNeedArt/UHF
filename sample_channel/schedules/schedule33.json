@@ -1,0 +1,127 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199904" : {
+      "series_id" : "1999",
+      "order" : 4,
+      "title" : "War Games",
+      "duration" : 3130,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 04 War Games.mp4",
+      "description" : ""
+    },
+    "STRN1946" : {
+      "path" : "..\/1940's Classics\/Stranger, The (1946).mp4",
+      "title" : "The Stranger",
+      "description" : "",
+      "year" : 1946,
+      "duration" : 5644
+    },
+    "8E2B989C" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 150 Community Chest.m4v",
+      "duration" : 1550,
+      "title" : "Leave it to Beaver - 150 Community Chest"
+    },
+    "GAPA1967" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Gappa, the Triphibian Monster (Monster from a Prehistoric Planet, 1967, dubbed).mp4",
+      "title" : "Gappa, the Triphibian Monster",
+      "description" : "\"Monster from a Prehistoric Planet\" Dubbed.",
+      "year" : 1967,
+      "duration" : 5013
+    },
+    "D9934162" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 147 The School Picture.m4v",
+      "duration" : 1555,
+      "title" : "Leave it to Beaver - 147 The School Picture"
+    },
+    "26CC28EA" : {
+      "series_id" : "UFOT",
+      "order" : 4,
+      "title" : "Conflict",
+      "duration" : 2972,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 04 Conflict.m4v",
+      "description" : ""
+    },
+    "B4B37A1D" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 148 Beaver's Rat.m4v",
+      "duration" : 1553,
+      "title" : "Leave it to Beaver - 148 Beaver's Rat"
+    },
+    "LWAC1" : {
+      "series_id" : "LWAC",
+      "order" : 1,
+      "title" : "Sword of Vengeance",
+      "duration" : 5023,
+      "year" : 1972,
+      "path" : "..\/Samurai\/Lone Wolf and Cub 1 - Sword of Vengeance (1972).m4v",
+      "description" : "Lone Wolf and Cub"
+    },
+    "91269819" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 149 In the Soup.m4v",
+      "duration" : 1534,
+      "title" : "Leave it to Beaver - 149 In the Soup"
+    },
+    "A3AC305A" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 146 Wally's Dream Girl.m4v",
+      "duration" : 1553,
+      "title" : "Leave it to Beaver - 146 Wally's Dream Girl"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "LWAC1"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "A3AC305A"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "STRN1946"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "D9934162"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "B4B37A1D"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "91269819"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199904"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "8E2B989C"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "26CC28EA"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GAPA1967"
+      }
+    ]
+  ]
+}

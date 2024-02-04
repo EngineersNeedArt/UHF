@@ -1,0 +1,116 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199917" : {
+      "series_id" : "1999",
+      "order" : 17,
+      "title" : "The Last Sunset",
+      "duration" : 3133,
+      "year" : 1976,
+      "path" : "..\/Space 1999\/Space 1999 - 17 The Last Sunset.mp4",
+      "description" : ""
+    },
+    "1E3B3156" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 212 The Parking Attendants.m4v",
+      "duration" : 1516,
+      "title" : "Leave it to Beaver - 212 The Parking Attendants"
+    },
+    "ZATO19" : {
+      "series_id" : "ZATO",
+      "order" : 19,
+      "title" : "Samaritan Zatoichi",
+      "duration" : 4976,
+      "year" : 1968,
+      "path" : "..\/Samurai\/Zatoichi 19 - Samaritan Zatoichi (1968).m4v",
+      "description" : ""
+    },
+    "C7ED31A5" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 215 The Credit Card.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 215 The Credit Card"
+    },
+    "29C16050" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 213 More Blessed to Give.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 213 More Blessed to Give"
+    },
+    "AA57E26B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 211 Wally Buys a Car.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 211 Wally Buys a Car"
+    },
+    "WIHT1949" : {
+      "path" : "..\/1940's Classics\/White Heat (1949).mp4",
+      "title" : "White Heat",
+      "year" : 1949,
+      "duration" : 6806
+    },
+    "3AF3A894" : {
+      "series_id" : "UFOT",
+      "order" : 17,
+      "title" : "The Dalotek Affair",
+      "duration" : 2972,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 17 The Dalotek Affair.m4v",
+      "description" : ""
+    },
+    "5DF351A3" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 214 Beaver's Good Deed.m4v",
+      "duration" : 1535,
+      "title" : "Leave it to Beaver - 214 Beaver's Good Deed"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO19"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "AA57E26B"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "WIHT1949"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "1E3B3156"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "29C16050"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "5DF351A3"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199917"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "C7ED31A5"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "3AF3A894"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

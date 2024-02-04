@@ -1,0 +1,521 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "STAN08" : {
+      "series_id" : "STAN",
+      "order" : 8,
+      "title" : "The Magicks of Megas-Tu",
+      "duration" : 1449,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 08 The Magicks of Megas-Tu.m4v",
+      "description" : "At the centre of the galaxy, a race puts the Enterprise crew on trial for past grievances."
+    },
+    "FETM07" : {
+      "series_id" : "FETM",
+      "order" : 7,
+      "title" : "That's All There Is",
+      "duration" : 2950,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 7 That's All There Is.m4v",
+      "description" : "On the Apollo 12 mission rookie astronaut Alan Bean becomes the fourth person to walk on the moon."
+    },
+    "RBBT09" : {
+      "series_id" : "RBBT",
+      "order" : 9,
+      "title" : "The Emissary",
+      "duration" : 1551,
+      "year" : 1988,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 09 The Emissary.m4v",
+      "description" : "A pet dog brings things and people to his young master, a boy suffering from a debilitating illness, whenever it feels that he needs them. At first this proves quite useful but it takes a rather bizarre turn at the end."
+    },
+    "BAPO1925" : {
+      "path" : "..\/Birth of Cinema\/Battleship Potemkin, The (1925).mp4",
+      "title" : "The Battleship Potemkin",
+      "description" : "Russian dramatization of the mutiny that occurred in 1905 when the crew of the battleship Potemkin rebelled against its officers. Watch for one of the most celebrated scenes in film: the massacre of civilians on the Odessa Steps. Silent.",
+      "year" : 1925,
+      "duration" : 4244
+    },
+    "DRHI08" : {
+      "series_id" : "DRHI",
+      "order" : 8,
+      "title" : "Wild West",
+      "duration" : 1282,
+      "year" : 2013,
+      "path" : "..\/Drunk History\/Drunk History - 08 Wild West.m4v",
+      "description" : "Hold-outs fight to the bitter end at the Alamo, Billy the Kid goes on the run from lawman Pat Garrett, and Teddy Roosevelt rounds up the Rough Riders and goes to war. Guest starring Jake Johnson, Chris Parnell, Andy Daly and more."
+    },
+    "ULTR16" : {
+      "series_id" : "ULTR",
+      "order" : 16,
+      "title" : "Science Patrol Into Space",
+      "duration" : 1518,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 16.mp4",
+      "description" : "The Baltans abduct a spacecraft on its way to Venus in order to get revenge against Earth and Ultraman."
+    },
+    "LITB039" : {
+      "series_id" : "LITB",
+      "order" : 39,
+      "title" : "Cat Out of the Bag",
+      "duration" : 1567,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 039 Cat Out of the Bag.mp4",
+      "description" : "In spite of Ward's misgivings, all goes well when Wally and Beaver volunteer to feed the neighbor's prize-winning cat, Puff Puff, until Wally breaks a promise, Beaver leaves a gate open and Eddie Haskell's dog chases Puff Puff up a tree."
+    },
+    "OFUK08" : {
+      "series_id" : "OFUK",
+      "order" : 8,
+      "title" : "Appraisals",
+      "duration" : 1766,
+      "year" : 2002,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 08.mp4",
+      "description" : "David is doing staff appraisals which most of the staff approach with their usual level of enthusiasm. Part of the process is for them to to give feedback on David's performance and this seems to get most of his attention."
+    },
+    "ULTR15" : {
+      "series_id" : "ULTR",
+      "order" : 15,
+      "title" : "Terrifying Cosmic Rays",
+      "duration" : 1517,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 15.mp4",
+      "description" : "Mysterious space rays transform a child's two-dimensional drawing into a three-dimensional monster, who would rather sleep than fight."
+    },
+    "ACGS08" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 08 Where the Heart Is.m4v",
+      "title" : "Where the Heart Is",
+      "series_id" : "ACGS",
+      "order" : 8,
+      "duration" : 3119
+    },
+    "SOAT1951" : {
+      "path" : "..\/1950's Classics\/Strangers on a Train (1951).mp4",
+      "title" : "Strangers on a Train",
+      "description" : "",
+      "year" : 1951,
+      "duration" : 6042
+    },
+    "SPRA16" : {
+      "series_id" : "SPRA",
+      "order" : 16,
+      "title" : "The Fire Race (part 1)",
+      "duration" : 1461,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 16 The Fire Race (part 1).mp4",
+      "description" : "The Inca land of Kapetepek, noted for its secrecy and treasures, hosts a race with foreign and native drivers. To ensure their land's privacy, the Kapetepekan drivers must win, at any cost."
+    },
+    "IHON1934" : {
+      "path" : "..\/AFI 100\/It Happened One Night (1934).m4v",
+      "title" : "It Happened One Night",
+      "description" : "",
+      "year" : 1934,
+      "duration" : 6317
+    },
+    "LITB038" : {
+      "series_id" : "LITB",
+      "order" : 38,
+      "title" : "Beaver's Guest",
+      "duration" : 1559,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 038 Beaver's Guest.mp4",
+      "description" : "Typical boyish shenanigans result in an eventful stay when Larry Mondello comes to spend the night with Beaver."
+    },
+    "TREK16" : {
+      "series_id" : "TREK",
+      "order" : 16,
+      "title" : "The Galileo Seven",
+      "duration" : 3025,
+      "year" : 1967,
+      "path" : "..\/Star Trek TOS\/Star Trek - 16 The Galileo Seven.mp4",
+      "description" : "The Galileo, under Spock's command, crash-lands on a hostile planet. As the Enterprise races against time to find the shuttlecraft, Spock's strictly logical leadership clashes with the fear and resentment of his crew."
+    },
+    "CADF09" : {
+      "series_id" : "CADF",
+      "order" : 9,
+      "title" : "St. Peter's Fair",
+      "duration" : 4549,
+      "year" : 1997,
+      "path" : "..\/Cadfael\/Cadfael - St. Peter's Fair.m4v",
+      "description" : "Multiple homicides, a local tradesmen's revolt, and intrigue taint Shrewsbury's annual 3-day fair and strain Cadfael's friendship with Hugh Beringar."
+    },
+    "SPRA15" : {
+      "series_id" : "SPRA",
+      "order" : 15,
+      "title" : "The Desperate Desert Race (part 2)",
+      "duration" : 1485,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 15 The Desperate Desert Race (part 2).mp4",
+      "description" : "Speed and Kim team up together to save Kim's country of Flathill from being taken over by criminal revolutionaries."
+    },
+    "BSG108" : {
+      "series_id" : "BSG1",
+      "order" : 8,
+      "title" : "The Young Lords",
+      "duration" : 2865,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 09 - The Young Lords.m4v",
+      "description" : "Shot down by Cylons, Starbuck crash lands on Attila, a planet on the far edge of Omega Sector and finds himself rescued from a phalanx of Cylons by a family of children. Kyle, the young leader of these self proclaimed warriors, soon hatches a plan to trade Starbuck to Outpost commander Spectre for his captured father."
+    },
+    "SOKO08" : {
+      "series_id" : "SOKO",
+      "order" : 8,
+      "title" : "The Challenge of the Two-Headed Monster",
+      "duration" : 1508,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 08.m4v",
+      "description" : "Daisaku and Minami happen to help a one-eyes man BF members are chasing. According to the man's story, they are trying to kill him as a traitor because he became frightened by the inhumanity of the syndicate and quit it."
+    },
+    "LRSS08" : {
+      "series_id" : "LRSS",
+      "order" : 8,
+      "title" : "Out of the Loop",
+      "duration" : 1364,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 08 Out of the Loop.m4v",
+      "description" : "Larry decides to get involved with the personal problems of his staff."
+    },
+    "PATV07" : {
+      "series_id" : "PATV",
+      "order" : 7,
+      "title" : "The Surgeon",
+      "duration" : 2985,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 07.mp4",
+      "description" : "Galen risks his freedom, and life by contacting his old sweetheart, Kira, when Virdon is seriously injured. Kira is now a talented, and forward thinking, surgeon; and Galen shares with her a forbidden book on human anatomy, that he and Burke stole from Dr. Zaius' home, with her."
+    },
+    "LITB037" : {
+      "series_id" : "LITB",
+      "order" : 37,
+      "title" : "Beaver Runs Away",
+      "duration" : 1566,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 037 Beaver Runs Away.mp4",
+      "description" : "Beaver decides to run away from home when he thinks he is unfairly reprimanded for allowing his friend Larry to accidentally drill holes in the Cleaver garage wall with Ward's electric drill."
+    },
+    "SILO1954" : {
+      "path" : "..\/Westerns\/Silver Lode (1954).m4v",
+      "title" : "Silver Lode",
+      "description" : "",
+      "year" : 1954,
+      "duration" : 4632
+    },
+    "KCBM1972" : {
+      "path" : "..\/Drive-In Night\/Kansas City Bomber (1972).m4v",
+      "title" : "Kansas City Bomber",
+      "description" : "",
+      "year" : 1972,
+      "duration" : 5937
+    },
+    "CON108" : {
+      "series_id" : "CON1",
+      "order" : 8,
+      "title" : "Eat, Drink and Be Merry",
+      "duration" : 2998,
+      "year" : 1978,
+      "path" : "..\/Connections 1\/Connections 08 Eat, Drink and Be Merry.mp4",
+      "description" : "Food preservation began with the storage of edibles in bottles and led to such 19th-century inventions as air conditioning, refrigeration and the thermos bottle. Also discusses the first hand-held guns and traces the development of rocketry in this century."
+    },
+    "ICLD08" : {
+      "series_id" : "ICLD",
+      "order" : 8,
+      "title" : "Reign of Terror",
+      "duration" : 3076,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 08.m4v",
+      "description" : "Sejanus divorces his wife in order to marry Livilla but Tiberius refuses permission and suggests that he marries Livilla's daughter Helen instead, which enrages Livilla."
+    },
+    "TPOD10" : {
+      "series_id" : "TPOD",
+      "order" : 10,
+      "title" : "France: September, 2089 AD",
+      "duration" : 1500,
+      "year" : 1984,
+      "path" : "..\/Tripods, The (TV Series)\/Tripods, The - 10.mp4",
+      "description" : "The boys stay on to help at a vineyard until after the grape harvest. When time comes to continue their journey, they find it hard to leave their new found friends."
+    },
+    "RT66016" : {
+      "series_id" : "RT66",
+      "order" : 16,
+      "title" : "Fly Away Home (part 1)",
+      "duration" : 3011,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 016 Fly Away Home (part 1).m4v",
+      "description" : "Tod and Buz, in Phoenix, Arizona, and looking for work with a crop-dusting company, encounter a combat-scarred, world-weary pilot who is a self-described \"Jonah.\" The pilot hates himself for still being alive and causing others' deaths. Buz' interest in the pilot's chanteuse ex-wife is a side story."
+    },
+    "LISP38" : {
+      "series_id" : "LISP",
+      "order" : 38,
+      "title" : "The Thief from Outer Space",
+      "duration" : 3076,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 38 The Thief from Outer Space.m4v",
+      "description" : "Will, Penny and Dr. Smith get involved with a thief that is searching for a princess."
+    },
+    "MSTK0108" : {
+      "series_id" : "MSTK",
+      "order" : 30,
+      "title" : "The Slime People",
+      "duration" : 5816,
+      "year" : 1989,
+      "path" : "..\/MST3K\/MST3K 108 - The Slime People.mp4",
+      "description" : "The crew puts Commando Cody on trial for \"crimes against reality\" after watching the sixth episode of Radar Men while slime monsters invade Los Angeles in \"The Slime People\"."
+    },
+    "FWLT08" : {
+      "series_id" : "FWLT",
+      "order" : 8,
+      "title" : "The Psychiatrist",
+      "duration" : 2177,
+      "year" : 1979,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 08 The Psychiatrist.mp4",
+      "description" : "Confusion arises when Basil tries to catch a girl in a playboy's room after hours, all the while unnerved by a psychiatrist's presence."
+    },
+    "LITB036" : {
+      "series_id" : "LITB",
+      "order" : 36,
+      "title" : "Beaver and Henry",
+      "duration" : 1567,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 036 Beaver and Henry.mp4",
+      "description" : "Capturing a white rabbit in a home-made gopher trap is only one surprise that awaits the Cleavers when their new pet \"Henry\" turns out to be expectant-mother \"Henrietta\"."
+    },
+    "LITB040" : {
+      "series_id" : "LITB",
+      "order" : 40,
+      "title" : "Beaver's Poem",
+      "duration" : 1552,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 040 Beaver's Poem.mp4",
+      "description" : "Ward composes a simple verse for Beaver after the third grader waits until the night before it's due to write a poem for school; but the helpful dad's good intentions go awry when \"Beaver's\" poem is chosen to win a prize."
+    },
+    "LISP37" : {
+      "series_id" : "LISP",
+      "order" : 37,
+      "title" : "The Deadly Games of Gamma 6",
+      "duration" : 3077,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 37 The Deadly Games of Gamma 6.m4v",
+      "description" : "Dr. Smith ends up in a boxing match with some space gladiators. If he wins he will return to Earth, and if he loses it won't matter because Earth won't be there."
+    },
+    "ULTR07J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 07 The Blue Stone of Baradhi.mp4",
+      "title" : "The Blue Stone of Baradhi",
+      "series_id" : "ULTR",
+      "order" : 7,
+      "duration" : 1520
+    },
+    "73B35270" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Gamera vs. Guiron (Attack of the Monsters, 1969, dubbed).m4v",
+      "duration" : 4826,
+      "title" : "Gamera vs. Guiron (Attack of the Monsters, 1969, dubbed)"
+    },
+    "SMRI1" : {
+      "series_id" : "SMRI",
+      "order" : 1,
+      "title" : "Musashi Miyamoto",
+      "duration" : 5657,
+      "year" : 1954,
+      "path" : "..\/Samurai\/Samurai I - Musashi Miyamoto (DI, 1954).m4v",
+      "description" : "Samurai I"
+    },
+    "LISP36" : {
+      "series_id" : "LISP",
+      "order" : 36,
+      "title" : "The Android Machine",
+      "duration" : 3077,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 36 The Android Machine.m4v",
+      "description" : "Doctor Smith creates an android that they teach to be more human. A humanoid shows up looking for payment for the android."
+    },
+    "RT66015" : {
+      "series_id" : "RT66",
+      "order" : 15,
+      "title" : "The Clover Throne",
+      "duration" : 3105,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 015 The Clover Throne.m4v",
+      "description" : "Tod and Buz, in Indio, California for lunch, meet a flirtatious young woman. The two end up working at her guardian's date farm. The guardian wants to marry his ward despite her indifference. Complicating the situation is a disputed highway paving project and one of the road crew workers who has an interest in the girl."
+    },
+    "NGSB1941" : {
+      "path" : "..\/1940's Classics\/Never Give a Sucker An Even Break (1941).mp4",
+      "title" : "Never Give a Sucker an Even Break",
+      "description" : "",
+      "year" : 1941,
+      "duration" : 4237
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR07J"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "TPOD10"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV07"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "SMRI1"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM07"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66015"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "BAPO1925"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB036"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA15"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP36"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "FWLT08"
+      },
+      {
+        "start_time" : "18:05",
+        "resource_id" : "CADF09"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "NGSB1941"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB037"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR15"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP37"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS08"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON108"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "IHON1934"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT09"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SOAT1951"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB038"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO08"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP38"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK08"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "SILO1954"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66016"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB039"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA16"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "TREK16"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS08"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB040"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR16"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG108"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI08"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD08"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN08"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "73B35270"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0108"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "KCBM1972"
+      }
+    ]
+  ]
+}

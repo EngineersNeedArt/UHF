@@ -1,0 +1,114 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "0309DFAB" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 208 Beaver's Autobiography.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 208 Beaver's Autobiography"
+    },
+    "199916" : {
+      "path" : "..\/Space 1999\/Space 1999 - 16 Another Time, Another Place.m4v",
+      "title" : "Another Time, Another Place",
+      "series_id" : "1999",
+      "order" : 16,
+      "year" : 1975,
+      "duration" : 3129
+    },
+    "25360A15" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 210 The Mustache.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 210 The Mustache"
+    },
+    "HIBL2004" : {
+      "path" : "..\/Samurai\/Hidden Blade, The (2004).m4v",
+      "title" : "The Hidden Blade",
+      "description" : "",
+      "year" : 2004,
+      "duration" : 7939
+    },
+    "A4D89E47" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 206 Beaver, the Sheep Dog.m4v",
+      "duration" : 1531,
+      "title" : "Leave it to Beaver - 206 Beaver, the Sheep Dog"
+    },
+    "SIST1948" : {
+      "path" : "..\/1940's Classics\/Spring in a Small Town (Xiaocheng Zhichun, 1948).mp4",
+      "title" : "Spring in a Small Town",
+      "description" : "Xiaocheng Zhichun",
+      "year" : 1948,
+      "duration" : 5559
+    },
+    "7F2172A3" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 209 The Party Spoiler.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 209 The Party Spoiler"
+    },
+    "1C837584" : {
+      "series_id" : "UFOT",
+      "order" : 16,
+      "title" : "The Man Who Came Back",
+      "duration" : 2963,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 16 The Man Who Came Back.m4v",
+      "description" : ""
+    },
+    "C70E5767" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 207 Beaver, the Hero.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 207 Beaver, the Hero"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "HIBL2004"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "A4D89E47"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SIST1948"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "C70E5767"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "0309DFAB"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7F2172A3"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199916"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "25360A15"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "1C837584"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

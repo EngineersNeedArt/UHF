@@ -1,0 +1,367 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "PATV14" : {
+      "series_id" : "PATV",
+      "order" : 14,
+      "title" : "Up Above the World So High",
+      "duration" : 2983,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 14.mp4",
+      "description" : "Unaware that a chimpanzee scientist plans to use a human prisoner's flying machine for her own deadly purpose, Virdon, Burke and Galen help the man, Leuric, to build a hang glider."
+    },
+    "DRHI15" : {
+      "series_id" : "DRHI",
+      "order" : 15,
+      "title" : "Hawaii",
+      "duration" : 1283,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 15 Hawaii.m4v",
+      "description" : "ames Cook \"discovers\" Hawaii and parties with the natives, Japanese-American Daniel Inouye fights heroically in World War II, and Eddie Aikau becomes one of the world's greatest big wave surfers."
+    },
+    "SPRA29" : {
+      "series_id" : "SPRA",
+      "order" : 29,
+      "title" : "The Race Against Time (part 2)",
+      "duration" : 1424,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 29 The Race Against Time (part 2, SD).m4v",
+      "description" : "Speed and Trixie are made slaves and ordered to dig up treasure. But Speed has an escape and rescue plan in mind."
+    },
+    "POIR03" : {
+      "series_id" : "POIR",
+      "order" : 3,
+      "title" : "The Adventure of Johnnie Waverly",
+      "duration" : 3134,
+      "year" : 1989,
+      "path" : "..\/Poirot\/Poirot - 03 The Adventure of Johnnie Waverly.mp4",
+      "description" : "Poirot tries to prevent the kidnapping of a country squire's son. While his plan fails, all is not what it seems."
+    },
+    "LITB071" : {
+      "series_id" : "LITB",
+      "order" : 71,
+      "title" : "Friendship",
+      "duration" : 1556,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 071 Friendship.mp4",
+      "description" : "Drawing from a classic story of true friendship, Ward helps Beaver make up with his pal Larry after the two boys have a big fight."
+    },
+    "ANFA1952" : {
+      "path" : "..\/1950's Classics\/Angel Face (1952).m4v",
+      "title" : "Angel Face",
+      "year" : 1952,
+      "duration" : 5480
+    },
+    "CSMS05" : {
+      "series_id" : "CSMS",
+      "order" : 5,
+      "title" : "Blues for a Red Planet",
+      "duration" : 3697,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 05 Blues for a Red Planet.m4v",
+      "description" : "Carl Sagan looks at the search for life on Mars from the speculations of Percival Lowell and H.G. Wells to the arrival of the Viking probes."
+    },
+    "RT66029" : {
+      "series_id" : "RT66",
+      "order" : 29,
+      "title" : "Welcome to Amity",
+      "duration" : 3095,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 029 Welcome to Amity.m4v",
+      "description" : "Tod and Buz, working as laborers in a factory in Amity, Ohio, meet a strange young woman at their boarding house. She is towing a headstone on a trailer behind her car-with the person's date of death from 10 years before. Finding she is a pariah in Amity, Tod and Buz offer help in carrying out her unusual mission."
+    },
+    "TMIG1943" : {
+      "path" : "..\/1940's Classics\/Man In Grey, The (1943).mp4",
+      "title" : "The Man in Grey",
+      "description" : "",
+      "year" : 1943,
+      "duration" : 7008
+    },
+    "GODZ08" : {
+      "series_id" : "GODZ",
+      "order" : 8,
+      "title" : "Son of Godzilla",
+      "duration" : 5164,
+      "year" : 1967,
+      "path" : "..\/Kaiju (Giant Monsters)\/Son of Godzilla (Godzilla #8, 1967, dubbed).mp4",
+      "description" : "Dubbed."
+    },
+    "LITB072" : {
+      "series_id" : "LITB",
+      "order" : 72,
+      "title" : "Dance Contest",
+      "duration" : 1554,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 072 Dance Contest.mp4",
+      "description" : "Wally is the envy of his friends when pretty Mary Ellen Rogers invites him to her school cotillion. But they don't know what Wally soon finds out...Mary Ellen has entered them in a \"cha-cha\" contest and Wally doesn't know the steps."
+    },
+    "SPRA30" : {
+      "series_id" : "SPRA",
+      "order" : 30,
+      "title" : "The Snake Track",
+      "duration" : 1415,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 30 The Snake Track.mp4",
+      "description" : "Speed learns to master the Snake Track, a course with strategically placed curves, with the help of Rock Force, a one-armed driver."
+    },
+    "STAN15" : {
+      "series_id" : "STAN",
+      "order" : 15,
+      "title" : "The Eye of the Beholder",
+      "duration" : 1450,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 15 The Eye of the Beholder.m4v",
+      "description" : "While investigating the disappearance of Federation members, Kirk and his landing party find themselves placed in an alien zoo."
+    },
+    "RT66030" : {
+      "series_id" : "RT66",
+      "order" : 30,
+      "title" : "Incident on a Bridge",
+      "duration" : 3095,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 030 Incident on a Bridge.m4v",
+      "description" : "Tod and Buz, in Cleveland, Ohio working as laborers on a \"three week job at a gravel yard\", stay at their Russian supervisor's home. He has a mute daughter who has a miserable life. When a fellow Russian, whom the community has ostracized, shows his love for her tragedy follows. The two ill-fated people meet an uncertain end."
+    },
+    "LITB073" : {
+      "series_id" : "LITB",
+      "order" : 73,
+      "title" : "Wally's Haircomb",
+      "duration" : 1536,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 073 Wally's Haircomb.mp4",
+      "description" : "Ward and June find it hard to convince Wally that his new \"fad\" hairstyle makes him look ridiculous, especially when all his friends are combing their hair the same way."
+    },
+    "DKST1974" : {
+      "path" : "..\/Drive-In Night\/Dark Star (1974).m4v",
+      "title" : "Dark Star",
+      "description" : "",
+      "year" : 1974,
+      "duration" : 4981
+    },
+    "MALT1941" : {
+      "path" : "..\/AFI 100\/Maltese Falcon, The (1941).m4v",
+      "title" : "The Maltese Falcon",
+      "description" : "",
+      "year" : 1941,
+      "duration" : 6030
+    },
+    "MAMG1932" : {
+      "path" : "..\/1930's Classics\/Me and My Gal (1932).mp4",
+      "title" : "Me and My Gal",
+      "year" : 1932,
+      "duration" : 4789
+    },
+    "LITB074" : {
+      "series_id" : "LITB",
+      "order" : 74,
+      "title" : "The Cookie Fund",
+      "duration" : 1555,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 074 The Cookie Fund.mp4",
+      "description" : "Cookie chairmen Beaver and Larry find themselves in a bind when they loan three dollars out of the school cookie fund to an older boy with a hard luck story and he refuses to pay them back."
+    },
+    "ULTR29" : {
+      "series_id" : "ULTR",
+      "order" : 29,
+      "title" : "Challenge to the Underground",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 29.mp4",
+      "description" : "After all of the gold in a mountain has disappeared it is revealed that a monster has been eating the precious metal."
+    },
+    "ZARD1974" : {
+      "path" : "..\/Drive-In Night\/Zardoz (1974).m4v",
+      "title" : "Zardoz",
+      "description" : "",
+      "year" : 1974,
+      "duration" : 6363
+    },
+    "FFDM1965" : {
+      "path" : "..\/Westerns\/For A Few Dollars More (1965).m4v",
+      "title" : "For A Few Dollars More",
+      "description" : "",
+      "year" : 1965,
+      "duration" : 7903
+    },
+    "LITB075" : {
+      "series_id" : "LITB",
+      "order" : 75,
+      "title" : "Forgotten Party",
+      "duration" : 1496,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 075 Forgotten Party.mp4",
+      "description" : "Beaver forgets he's been invited to old friend David Manning's birthday party, is embarrassed to give David what he considers to be a \"baby\" toy that June bought for him at the last minute, and must think fast to come up with a more appropriate gift."
+    },
+    "SOKO15" : {
+      "series_id" : "SOKO",
+      "order" : 15,
+      "title" : "Igganog: The Ice-Berg Monster",
+      "duration" : 1507,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 15.m4v",
+      "description" : "Daisaku and Minami suspect that a strange villa standing in the heart of the Japanese Alps is a secret base of BF Syndicate. They approach the house to get some proof, when men in the house notice them and look for them."
+    },
+    "ULTR30" : {
+      "series_id" : "ULTR",
+      "order" : 30,
+      "title" : "Phantom of the Snow Mountains",
+      "duration" : 1517,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 30.mp4",
+      "description" : "After a ski resort experiences some trouble, the Science Patrol investigates a mysterious girl and her rumored guardian monster."
+    },
+    "UFOT15" : {
+      "series_id" : "UFOT",
+      "order" : 15,
+      "title" : "Flight Path",
+      "duration" : 2974,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 15 Flight Path.m4v",
+      "description" : ""
+    },
+    "ZATO05" : {
+      "series_id" : "ZATO",
+      "order" : 5,
+      "title" : "Zatoichi on the Road",
+      "duration" : 5270,
+      "year" : 1963,
+      "path" : "..\/Samurai\/Zatoichi 05 - Zatoichi On the Road (1963).m4v",
+      "description" : ""
+    },
+    "ULTR14J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 14 The Pearl Defense Directive.mp4",
+      "title" : "The Pearl Defense Directive",
+      "series_id" : "ULTR",
+      "order" : 14,
+      "duration" : 1520
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR14J"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV14"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO05"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66029"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "MAMG1932"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB071"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA29"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR03"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "TMIG1943"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB072"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR29"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS05"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "MALT1941"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "ANFA1952"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB073"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO15"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "FFDM1965"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66030"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB074"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA30"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT15"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB075"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR30"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI15"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN15"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ08"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "DKST1974"
+      },
+      {
+        "start_time" : "20:30",
+        "resource_id" : "ZARD1974"
+      }
+    ]
+  ]
+}

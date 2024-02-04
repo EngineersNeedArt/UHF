@@ -1,0 +1,518 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ULTR18" : {
+      "series_id" : "ULTR",
+      "order" : 18,
+      "title" : "Brother from Another Planet",
+      "duration" : 1517,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 18.mp4",
+      "description" : "An alien arrives on Earth claiming to be the brother of humanity. While he claims that the Science Patrol does not have Earth's best interest in mind, Ultraman begins attacking Earth."
+    },
+    "RBBT11" : {
+      "series_id" : "RBBT",
+      "order" : 11,
+      "title" : "The Man Upstairs",
+      "duration" : 1564,
+      "year" : 1988,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 11 The Man Upstairs.m4v",
+      "description" : "Young boy investigates whether his loving grandmother's new strange lodger is a vampire."
+    },
+    "LITB044" : {
+      "series_id" : "LITB",
+      "order" : 44,
+      "title" : "The Lost Watch",
+      "duration" : 1549,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 044 The Lost Watch.mp4",
+      "description" : "While the older boys play baseball, Beaver and his friend Larry watch from the sidelines while minding the players' wallets, jackets and watches. But when the belongings are reclaimed after the game, bully Lumpy Rutherford's watch appears to be missing and he gives Beaver two days to find it ... or else!"
+    },
+    "DRHI09" : {
+      "series_id" : "DRHI",
+      "order" : 9,
+      "title" : "Montgomery, AL",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 09 Montgomery, AL.m4v",
+      "description" : "Scientist Percy Julian overcomes racial barriers, Claudette Colvin refuses to give up her bus seat months before Rosa Parks's famous protest, and Joe Louis fights German boxer Max Schmeling."
+    },
+    "ULTR17" : {
+      "series_id" : "ULTR",
+      "order" : 17,
+      "title" : "Passport to Infinity",
+      "duration" : 1517,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 17.mp4",
+      "description" : "Mysterious space rocks spell trouble for the Science Patrol. When the rocks are stored together they combine to create a giant rock that can manipulate the fourth dimension."
+    },
+    "LEVE1941" : {
+      "path" : "..\/1940's Classics\/Lady Eve, The (1941).m4v",
+      "title" : "The Lady Eve",
+      "year" : 1941,
+      "duration" : 5651
+    },
+    "OFUK09" : {
+      "series_id" : "OFUK",
+      "order" : 9,
+      "title" : "Party",
+      "duration" : 1750,
+      "year" : 2002,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 09.mp4",
+      "description" : "David takes on a new look that, not surprisingly perhaps, reflect his new boss Neil's tastes. His already over-inflated ego gets a boost when a training firm offers him a handy sum for a 15 minute training presentation."
+    },
+    "SPRA18" : {
+      "series_id" : "SPRA",
+      "order" : 18,
+      "title" : "Girl Daredevil (part 1)",
+      "duration" : 1431,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 18 Girl Daredevil (part 1).mp4",
+      "description" : "The Mach 5 team befriends Twinkle Banks, an acrobat whose family circus is being rendered bankrupt by a gang of crooks."
+    },
+    "ACGS09" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 09 Semper Progrediens.m4v",
+      "title" : "Semper Progrediens",
+      "series_id" : "ACGS",
+      "order" : 9,
+      "duration" : 3137
+    },
+    "LITB043" : {
+      "series_id" : "LITB",
+      "order" : 43,
+      "title" : "Beaver and Chuey",
+      "duration" : 1548,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 043 Beaver and Chuey.mp4",
+      "description" : "Even though they don't speak each other's language, Beaver gets along fine with his new Spanish friend, Chuey, until sneaky Eddie Haskell tricks him into insulting Chuey with a newly learned Spanish phrase."
+    },
+    "FB6FB8E2" : {
+      "path" : "..\/Drive-In Night\/Mad Max 2 (1981, The Road Warrior).m4v",
+      "duration" : 5731,
+      "title" : "Mad Max 2 (1981, The Road Warrior)"
+    },
+    "SPRA17" : {
+      "series_id" : "SPRA",
+      "order" : 17,
+      "title" : "The Fire Race (part 2)",
+      "duration" : 1470,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 17 The Fire Race (part 2).mp4",
+      "description" : "The race in Kapetepek continues."
+    },
+    "RT66018" : {
+      "series_id" : "RT66",
+      "order" : 18,
+      "title" : "Sleep on Four Pillows",
+      "duration" : 3088,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 018 Sleep on Four Pillows.m4v",
+      "description" : "Tod and Buz, in the Los Angeles area, while Tod is taking a computer class at UCLA and Buz sells cosmetics, aid a \"girl in danger\". She claims the mafia are after her to locate her \"Don\" father who they plan to kill. Tod and Buz have an uneasy series of adventures before the true story comes out."
+    },
+    "SMRI2" : {
+      "series_id" : "SMRI",
+      "order" : 2,
+      "title" : "Duel at Ichijoji Temple",
+      "duration" : 6234,
+      "year" : 1955,
+      "path" : "..\/Samurai\/Samurai II - Duel at Ichijoji Temple (DI, 1955).m4v",
+      "description" : "Samurai II"
+    },
+    "MSTK0109" : {
+      "series_id" : "MSTK",
+      "order" : 31,
+      "title" : "Project Moonbase",
+      "duration" : 5862,
+      "year" : 1990,
+      "path" : "..\/MST3K\/MST3K 109 - Project Moonbase.m4v",
+      "description" : "Joel and the Bots watch two more Commando Cody episodes and a film about a sabotaged space station. They also introduce their new product SPACOM to the Mads."
+    },
+    "SOKO09" : {
+      "series_id" : "SOKO",
+      "order" : 9,
+      "title" : "Tentaclon: An Electric Monster",
+      "duration" : 1508,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 09.m4v",
+      "description" : "Emperor Guillotine gives Dr. Over a spaceship equipped with all kinds of scientific weapons. After landing at the earth, Over sends an electric monster called Sparky to the ground of a soccer game and kidnaps all 30,000 spectators as hostages."
+    },
+    "BUBY1938" : {
+      "path" : "..\/AFI 100\/Bringing Up Baby (1938).m4v",
+      "title" : "Bringing Up Baby",
+      "description" : "",
+      "year" : 1938,
+      "duration" : 6131
+    },
+    "BSG109" : {
+      "series_id" : "BSG1",
+      "order" : 9,
+      "title" : "The Living Legend (part 1)",
+      "duration" : 2926,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 10 - The Living Legend (part 1).m4v",
+      "description" : "While suffering from a fuel shortage, The Galactica finds the supposedly lost Battlestar Pegasus, led by the legendary Commander Cain."
+    },
+    "LITB042" : {
+      "series_id" : "LITB",
+      "order" : 42,
+      "title" : "Ward's Problem",
+      "duration" : 1549,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 042 Ward's Problem.mp4",
+      "description" : "Ward promises to take Wally fishing and Beaver to the third grade's student-father picnic before realizing that both events are on the same Saturday."
+    },
+    "LISP44" : {
+      "series_id" : "LISP",
+      "order" : 44,
+      "title" : "The Golden Man",
+      "duration" : 3087,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 44 The Golden Man.m4v",
+      "description" : "Penny befriends a toad-looking alien, whose race is fighting against the much more pleasant-looking golden aliens. One of them isn't what they seem?"
+    },
+    "LISP43" : {
+      "series_id" : "LISP",
+      "order" : 43,
+      "title" : "The Dream Monster",
+      "duration" : 3055,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 43 The Dream Monster.m4v",
+      "description" : "Doctor Smith trades the Robinsons' emotions - in exchange for a trip home."
+    },
+    "METR1927" : {
+      "path" : "..\/Birth of Cinema\/Metropolis (restored, 1927).mp4",
+      "title" : "Metropolis",
+      "description" : "Set in a futuristic urban dystopia and follows the attempts of Freder, the wealthy son of the city master, and Maria, a saintly figure to the workers, to overcome the vast gulf separating the classes. Silent.",
+      "year" : 1927,
+      "duration" : 8971
+    },
+    "CADF10" : {
+      "series_id" : "CADF",
+      "order" : 10,
+      "title" : "The Raven in the Foregate",
+      "duration" : 4545,
+      "year" : 1997,
+      "path" : "..\/Cadfael\/Cadfael - The Raven In The Foregate.m4v",
+      "description" : "An unpopular Puritanical priest new to Shrewsbury refuses to give a pregnant young girl absolution resulting in her apparent suicide."
+    },
+    "LRSS09" : {
+      "series_id" : "LRSS",
+      "order" : 9,
+      "title" : "The Talk Show",
+      "duration" : 1477,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 09 The Talk Show.m4v",
+      "description" : "Larry's career jeopardizes his marriage."
+    },
+    "PATV08" : {
+      "series_id" : "PATV",
+      "order" : 8,
+      "title" : "The Deception",
+      "duration" : 2986,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 08.mp4",
+      "description" : "Galen, Virdon and Burke befriend a chimpanzee named Fauna, the blind daughter of a human friendly ape who was killed by a band of vigilante apes known as the Dragoons. Unaware that Burke is human, Fauna falls in love with him, as Galen and Virdon hunt down the Dragoons, only to discover that Fauna's uncle is one of them."
+    },
+    "RT66017" : {
+      "series_id" : "RT66",
+      "order" : 17,
+      "title" : "Fly Away Home (part 2)",
+      "duration" : 952,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 017 Fly Away Home (part 2) (DAMAGED, SHORT).m4v",
+      "description" : "DAMAGED, SHORT. Tod tempts the fates by training for crop dusting with the \"jinx\".The doomed pilot financially saves the dusting business by taking on a dangerous assignment and brings the owner of the business back to reality.Buz,ready to end his life's search,is turned down.He vows to look for her (and perhaps finds her in Season 3)."
+    },
+    "LISP42" : {
+      "series_id" : "LISP",
+      "order" : 42,
+      "title" : "Wreck of the Robot",
+      "duration" : 3078,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 42 Wreck of the Robot.m4v",
+      "description" : "The robot is stolen to create more robots so they can conquer the Earth."
+    },
+    "MMAX1979" : {
+      "path" : "..\/Drive-In Night\/Mad Max (1979).m4v",
+      "title" : "Mad Max",
+      "description" : "",
+      "year" : 1979,
+      "duration" : 5592
+    },
+    "CON109" : {
+      "series_id" : "CON1",
+      "order" : 9,
+      "title" : "Countdown",
+      "duration" : 2965,
+      "year" : 1978,
+      "path" : "..\/Connections 1\/Connections 09 Countdown.mp4",
+      "description" : "The cannon changes the way fortresses are built, leads to maps, limelight, incandescent light, celluloid, guncotton are a few of the interconnected inventions along the way to our modern world."
+    },
+    "ICLD09" : {
+      "series_id" : "ICLD",
+      "order" : 9,
+      "title" : "Zeus, by Jove!",
+      "duration" : 3073,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 09.m4v",
+      "description" : "Tiberius summons Caligula and his cousin Gemellus to Capri, declaring them his joint successors."
+    },
+    "TPOD11" : {
+      "series_id" : "TPOD",
+      "order" : 11,
+      "title" : "France: October, 2089 AD",
+      "duration" : 1485,
+      "year" : 1984,
+      "path" : "..\/Tripods, The (TV Series)\/Tripods, The - 11.mp4",
+      "description" : "Will, Henry and Beanpole, driven by hunger, steal food from a village festival and find themselves in trouble."
+    },
+    "LISP41" : {
+      "series_id" : "LISP",
+      "order" : 41,
+      "title" : "A Visit to Hades",
+      "duration" : 3082,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 41 A Visit to Hades.m4v",
+      "description" : "An alien harp is found. It's a gateway to a planet which is - or isn't hell."
+    },
+    "LITB041" : {
+      "series_id" : "LITB",
+      "order" : 41,
+      "title" : "Eddie's Girl",
+      "duration" : 1556,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 041 Eddie's Girl.mp4",
+      "description" : "June unwittingly jeopardizes Wally's friendship with Eddie Haskell after she accepts a dance invitation for Wally from Eddie's current crush, Caroline Cunningham."
+    },
+    "FWLT09" : {
+      "series_id" : "FWLT",
+      "order" : 9,
+      "title" : "Waldorf Salad",
+      "duration" : 1923,
+      "year" : 1979,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 09 Waldorf Salad.mp4",
+      "description" : "Customer dissatisfaction with the Fawlty Towers dining experience comes to a head when an insistent American comes for a stay."
+    },
+    "ULTR08J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 08 The Lawless Monster Zone.mp4",
+      "title" : "The Lawless Monster Zone",
+      "series_id" : "ULTR",
+      "order" : 8,
+      "description" : "",
+      "duration" : 1520
+    },
+    "RIOG1950" : {
+      "path" : "..\/Westerns\/Rio Grande (1950).mkv",
+      "title" : "Rio Grande",
+      "year" : 1950,
+      "duration" : 6332
+    },
+    "LITB045" : {
+      "series_id" : "LITB",
+      "order" : 45,
+      "title" : "Her Idol",
+      "duration" : 1557,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 045 Her Idol.mp4",
+      "description" : "To stop his friends from teasing him and prove that he doesn't have a crush on classmate Linda Dennison, Beaver is pressured into calling her a nasty name"
+    },
+    "STAN09" : {
+      "series_id" : "STAN",
+      "order" : 9,
+      "title" : "Once Upon a Planet",
+      "duration" : 1448,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 09 Once Upon a Planet.m4v",
+      "description" : "Upon returning to the amusement park planet, the Enterprise crew finds the computer, which generates the planet's sophisticated robots, running amok, with the caretaker nowhere to be found."
+    },
+    "FETM08" : {
+      "series_id" : "FETM",
+      "order" : 8,
+      "title" : "We Interrupt this Program",
+      "duration" : 2934,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 8 We Interrupt This Program.m4v",
+      "description" : "The Apollo 13 mission as seen through the reporting of two newscasters, highlighting the changing character of news coverage."
+    },
+    "8FADCF12" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Ghidrah, the Three Headed Monster (Godzilla #5, 1964, dubbed).mp4",
+      "duration" : 5135,
+      "title" : "Ghidrah, the Three Headed Monster (Godzilla #5, 1964, dubbed)"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR08J"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "TPOD11"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV08"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "SMRI2"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM08"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66017"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "METR1927"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB041"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA17"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP41"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "FWLT09"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CADF10"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "LEVE1941"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB042"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR17"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP42"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS09"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON109"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "BUBY1938"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT11"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB043"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO09"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP43"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK09"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "RIOG1950"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66018"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB044"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA18"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP44"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS09"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB045"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR18"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG109"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI09"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD09"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN09"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "8FADCF12"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0109"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "MMAX1979"
+      },
+      {
+        "start_time" : "20:35",
+        "resource_id" : "FB6FB8E2"
+      }
+    ]
+  ]
+}

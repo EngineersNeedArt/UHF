@@ -1,0 +1,117 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199912" : {
+      "series_id" : "1999",
+      "order" : 12,
+      "title" : "The End of Eternity",
+      "duration" : 3129,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 12 The End of Eternity.mp4",
+      "description" : ""
+    },
+    "7F64FF4E" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 189 Tennis, Anyone.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 189 Tennis, Anyone"
+    },
+    "D44EBB7D" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 190 One of the Boys.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 190 One of the Boys"
+    },
+    "03260F12" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 188 The Yard Birds.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 188 The Yard Birds"
+    },
+    "LWAC3" : {
+      "series_id" : "LWAC",
+      "order" : 3,
+      "title" : "Baby Cart to Hades",
+      "duration" : 5364,
+      "year" : 1972,
+      "path" : "..\/Samurai\/Lone Wolf and Cub 3 - Baby Cart to Hades (1972).m4v",
+      "description" : "Lone Wolf and Cub"
+    },
+    "61EF419C" : {
+      "series_id" : "UFOT",
+      "order" : 12,
+      "title" : "The Psychobombs",
+      "duration" : 2967,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 12 The Psychobombs.m4v",
+      "description" : ""
+    },
+    "1699AC64" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 187 Brother vs. Brother.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 187 Brother vs. Brother"
+    },
+    "4FB23EE1" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 186 The Merchant Marine.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 186 The Merchant Marine"
+    },
+    "LFUW1948" : {
+      "path" : "..\/1940's Classics\/Letter From an Unknown Woman (1948).mp4",
+      "title" : "Letter From an Unknown Woman",
+      "description" : "",
+      "year" : 1948,
+      "duration" : 5245
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "LWAC3"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "4FB23EE1"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "LFUW1948"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "1699AC64"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "03260F12"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7F64FF4E"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199912"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "D44EBB7D"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "61EF419C"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

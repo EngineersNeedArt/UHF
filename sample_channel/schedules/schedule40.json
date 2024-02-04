@@ -1,0 +1,127 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "1AF861A8" : {
+      "series_id" : "UFOT",
+      "order" : 11,
+      "title" : "Close Up",
+      "duration" : 2942,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 11 Close Up.m4v",
+      "description" : ""
+    },
+    "199911" : {
+      "series_id" : "1999",
+      "order" : 11,
+      "title" : "Guardian of Piri",
+      "duration" : 3126,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 11 Guardian of Piri.mp4",
+      "description" : ""
+    },
+    "ZATO16" : {
+      "series_id" : "ZATO",
+      "order" : 16,
+      "title" : "Zatoichi the Outlaw",
+      "duration" : 5728,
+      "year" : 1967,
+      "path" : "..\/Samurai\/Zatoichi 16 - Zatoichi the Outlaw (1967).m4v",
+      "description" : ""
+    },
+    "6012A397" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/King Kong vs. Godzilla (Japanese Version, 1963).mp4",
+      "title" : "King Kong vs. Godzilla",
+      "description" : "Japanese version.",
+      "year" : 1963,
+      "duration" : 5822
+    },
+    "1196117C" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 182 Lumpy's Car Trouble.m4v",
+      "duration" : 1533,
+      "title" : "Leave it to Beaver - 182 Lumpy's Car Trouble"
+    },
+    "9A14F58C" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 181 Beaver's Laundry.m4v",
+      "duration" : 1534,
+      "title" : "Leave it to Beaver - 181 Beaver's Laundry"
+    },
+    "CD07088D" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 184 The Younger Brother.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 184 The Younger Brother"
+    },
+    "BIKE1948" : {
+      "path" : "..\/1940's Classics\/Bicycle Thief, The (1948).mp4",
+      "title" : "The Bicycle Thief",
+      "description" : "",
+      "year" : 1948,
+      "duration" : 5368
+    },
+    "6F454212" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 185 Beaver's Typewriter.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 185 Beaver's Typewriter"
+    },
+    "7F9656F9" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 183 Beaver the Babysitter.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 183 Beaver the Babysitter"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO16"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "9A14F58C"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "BIKE1948"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "1196117C"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7F9656F9"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "CD07088D"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199911"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "6F454212"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "1AF861A8"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "6012A397"
+      }
+    ]
+  ]
+}

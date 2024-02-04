@@ -1,0 +1,722 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ULTR16" : {
+      "path" : "..\/Ultraman\/Ultraman 16.mp4",
+      "title" : "Science Patrol Into Space",
+      "series_id" : "ULTR",
+      "description" : "The Baltans abduct a spacecraft on its way to Venus in order to get revenge against Earth and Ultraman.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "NIGA03" : {
+      "path" : "..\/Night Gallery\/Night Gallery - 03 The House, Certain Shadows on the Wall.m4v",
+      "title" : "The House, Certain Shadows on the Wall",
+      "series_id" : "NIGA",
+      "description" : "",
+      "year" : 1970,
+      "duration" : 3050
+    },
+    "ULTR18" : {
+      "path" : "..\/Ultraman\/Ultraman 18.mp4",
+      "title" : "Brother from Another Planet",
+      "series_id" : "ULTR",
+      "description" : "An alien arrives on Earth claiming to be the brother of humanity. While he claims that the Science Patrol does not have Earth's best interest in mind, Ultraman begins attacking Earth.",
+      "year" : 1966,
+      "duration" : 1517
+    },
+    "CHMP20" : {
+      "path" : "..\/Champions, The\/The Champions 20 - The Silent Enemy.mp4",
+      "title" : "The Silent Enemy",
+      "series_id" : "CHMP",
+      "description" : "The entire crew of the submarine Keppel are found dead at their posts. All have died of cardiac arrest.",
+      "year" : 1969,
+      "duration" : 2925
+    },
+    "A2DADDF2" : {
+      "path" : "..\/Classic Sci-Fi\/Killdozer (1974).mp4",
+      "duration" : 4416,
+      "title" : "Killdozer (1974)"
+    },
+    "SRVR04" : {
+      "path" : "..\/Survivors\/Survivors 04 - Corn Dolly.m4v",
+      "title" : "Corn Dolly",
+      "series_id" : "SRVR",
+      "description" : "Abby, Jenny and Greg are driving towards Abby's home town of Brimpsfield, looking for her son. At a petrol station they find posters for a nearby settlement.",
+      "duration" : 3001
+    },
+    "CHMP17" : {
+      "path" : "..\/Champions, The\/The Champions 17 - A Case Of Lemmings.mp4",
+      "title" : "A Case of Lemmings",
+      "series_id" : "CHMP",
+      "description" : "In Paris three Interpol agents each separately and inexplicably commit suicide in public by different means and Nemesis is brought in to investigate. ",
+      "year" : 1969,
+      "duration" : 2885
+    },
+    "PRSN04" : {
+      "path" : "..\/Prisoner, The\/Prisoner, The 04 - Free For All.m4v",
+      "title" : "Free for All",
+      "series_id" : "PRSN",
+      "description" : "Number Six runs for the office of Number Two.",
+      "year" : 1967,
+      "duration" : 3032
+    },
+    "CHMP19" : {
+      "path" : "..\/Champions, The\/The Champions 19 - The Mission.mp4",
+      "title" : "The Mission",
+      "series_id" : "CHMP",
+      "description" : "On the face of it Winthrop House Mission in rural Surrey is a home for down-and-outs, run by Dr. Pederson, but it is in fact a cover.",
+      "year" : 1969,
+      "duration" : 2917
+    },
+    "HONW20" : {
+      "series_id" : "HONW",
+      "order" : 20,
+      "title" : "The Perfect Un-crime",
+      "duration" : 1530,
+      "year" : 1966,
+      "path" : "..\/Honey West\/Honey West 20.mp4",
+      "description" : "An embezzler who has had a change of heart hires Honey and Sam to break into his boss's safe to return the money."
+    },
+    "SPRA16" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 16 The Fire Race (part 1).mp4",
+      "title" : "The Fire Race (part 1)",
+      "series_id" : "SPRA",
+      "description" : "The Inca land of Kapetepek, noted for its secrecy and treasures, hosts a race with foreign and native drivers. To ensure their land's privacy, the Kapetepekan drivers must win, at any cost.",
+      "year" : 1967,
+      "duration" : 1461
+    },
+    "SPRA18" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 18 Girl Daredevil (part 1).mp4",
+      "title" : "Girl Daredevil (part 1)",
+      "series_id" : "SPRA",
+      "description" : "The Mach 5 team befriends Twinkle Banks, an acrobat whose family circus is being rendered bankrupt by a gang of crooks.",
+      "year" : 1967,
+      "duration" : 1431
+    },
+    "DWHO0791" : {
+      "path" : "..\/Doctor Who\/Dr. Who 079 - Revenge Of The Cybermen 1.m4v",
+      "title" : "Revenge of the Cybermen (part 1)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor, Sarah and Harry use the Time Ring to return to the Nerva Beacon, however they arrive thousands of years earlier than they anticipated and discover that an old foe of the Doctor is targeting the station's crew.",
+      "year" : 1975,
+      "duration" : 1462
+    },
+    "HONW17" : {
+      "series_id" : "HONW",
+      "order" : 17,
+      "title" : "How Brillig, O, Beamish Boy",
+      "duration" : 1529,
+      "year" : 1966,
+      "path" : "..\/Honey West\/Honey West 17.mp4",
+      "description" : "Honey is faced with a dilemma when she's being paid to deliver a package with a half million dollars, but crooks kidnap Sam in order to trade his life for the money."
+    },
+    "DWHO0792" : {
+      "path" : "..\/Doctor Who\/Dr. Who 079 - Revenge Of The Cybermen 2.m4v",
+      "title" : "Revenge of the Cybermen (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor transmits Sarah and Harry down to Voga to cure Sarah of the Cybermat's poison but Kellman's sabotage means he is unable to bring them back.",
+      "year" : 1975,
+      "duration" : 1467
+    },
+    "HONW19" : {
+      "series_id" : "HONW",
+      "order" : 19,
+      "title" : "It's Earlier Than You Think",
+      "duration" : 1529,
+      "year" : 1966,
+      "path" : "..\/Honey West\/Honey West 19.mp4",
+      "description" : "A bullet-riddled collector hands Honey what appears to be an 1865 newspaper, which he hints is a forgery, but he dies before explaining how he knows. Honey and Sam must keep the paper away from thieves, deliver it to its rightful owner, and determine whether it is really a forgery."
+    },
+    "DWHO0786" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 6.mp4",
+      "title" : "Genesis of the Daleks (part 6)",
+      "series_id" : "DWHO",
+      "description" : "Gharman tries to convince the Kaleds to vote against the Dalek project but Davros has a trick up his sleeve, while the Doctor works to destroy the tape recording of Dalek victory and the Thals plan an intervention of their own.",
+      "year" : 1975,
+      "duration" : 1413
+    },
+    "CON104" : {
+      "path" : "..\/Connections 1\/Connections 04 Faith In Numbers.mp4",
+      "title" : "Faith in Numbers",
+      "series_id" : "CON1",
+      "description" : "Examines the transition from the Middle Ages to the Renaissance from the perspective of how commercialism, climate change and the Black Death influenced cultural development.",
+      "year" : 1978,
+      "duration" : 2969
+    },
+    "DWHO0794" : {
+      "path" : "..\/Doctor Who\/Dr. Who 079 - Revenge Of The Cybermen 4.m4v",
+      "title" : "Revenge of the Cybermen (part 4)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor, Harry and Lester try to destroy the Cybermen's relay device, while the Vogans prepare to destroy Nerva even though Sarah is still on board.",
+      "year" : 1975,
+      "duration" : 1403
+    },
+    "DWHO0793" : {
+      "path" : "..\/Doctor Who\/Dr. Who 079 - Revenge Of The Cybermen 3.m4v",
+      "title" : "Revenge of the Cybermen (part 3)",
+      "series_id" : "DWHO",
+      "description" : "The Cybermen force the Doctor, Stevenson and Lester to carry bombs to the centre of Voga while Sarah, Harry and Tyrum decide to contact Vorus.",
+      "year" : 1975,
+      "duration" : 1473
+    },
+    "LISP16" : {
+      "series_id" : "LISP",
+      "order" : 16,
+      "title" : "The Keeper (Part 1)",
+      "duration" : 3092,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 16 The Keeper (Part 1).m4v",
+      "description" : "The Keeper is an alien who travels the galaxy collecting living pairs of interesting or rare animals. His courtly overtures towards the Robinsons belie his true intention — to add a pair of humans to his incredible menagerie."
+    },
+    "19A08E89" : {
+      "path" : "..\/Classic Sci-Fi\/Kronos (1957).m4v",
+      "duration" : 4703,
+      "title" : "Kronos (1957)"
+    },
+    "LISP18" : {
+      "series_id" : "LISP",
+      "order" : 18,
+      "title" : "The Sky Pirate",
+      "duration" : 3093,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 18 The Sky Pirate.m4v",
+      "description" : "Will becomes fast friends with Captain Alonzo P. Tucker, an Earthling who escaped his alien captors to become a wandering space buccaneer. But Tucker's roguish charm hides a secret that could destroy them all."
+    },
+    "512ECA31" : {
+      "path" : "..\/Classic Sci-Fi\/Invasion of the Body Snatchers (1956).m4v",
+      "duration" : 4814,
+      "title" : "Invasion of the Body Snatchers (1956)"
+    },
+    "SOKO16" : {
+      "series_id" : "SOKO",
+      "order" : 16,
+      "title" : "Torozon: An Enemy Robot",
+      "duration" : 1507,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 16.m4v",
+      "description" : "Beginning with the Swiss Branchg, the Unicorn branch headquarters are mysteriously destroyed one after another. Rome, Cairo, Bombay, Singapore, Hong Kong, then Tapai. It is easy to guess that Tokyo will be next."
+    },
+    "SOKO18" : {
+      "series_id" : "SOKO",
+      "order" : 18,
+      "title" : "X-7, a Mysterious Enemy Agent",
+      "duration" : 1507,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 18.m4v",
+      "description" : "The mysterious enemy agent X-7 is assassinating Unicorn operatives around the world with the help of a giant flying hand. As a precaution, Jerry is assigned to protect Johnny, since only U7 can control Giant Robot. That same day, new kid Kenny joins Johnny's class. Coincidence?"
+    },
+    "ULTR20" : {
+      "path" : "..\/Ultraman\/Ultraman 20.mp4",
+      "title" : "Terror on Route 87",
+      "series_id" : "ULTR",
+      "description" : "A dragon statue that was designed by a boy comes to life when the boy is killed by a car. The dragon's mission is to protect children from the dangers of automobiles.",
+      "year" : 1966,
+      "duration" : 1517
+    },
+    "KNFU03" : {
+      "series_id" : "KNFU",
+      "order" : 3,
+      "title" : "Blood Brother",
+      "duration" : 3031,
+      "year" : 1972,
+      "path" : "..\/Kung Fu\/Kung Fu 04.m4v",
+      "description" : "Caine looks for a good friend from his Chinese temple who is missing from town, and there are people determined to stop his search at any cost."
+    },
+    "ULTR17" : {
+      "path" : "..\/Ultraman\/Ultraman 17.mp4",
+      "title" : "Passport to Infinity",
+      "series_id" : "ULTR",
+      "description" : "Mysterious space rocks spell trouble for the Science Patrol. When the rocks are stored together they combine to create a giant rock that can manipulate the fourth dimension.",
+      "year" : 1966,
+      "duration" : 1517
+    },
+    "ULTR19" : {
+      "path" : "..\/Ultraman\/Ultraman 19.mp4",
+      "title" : "Demons Rise Again",
+      "series_id" : "ULTR",
+      "description" : "An object that is unearthed at a construction site is initially believed to be a time capsule. Further investigation reveals that it is a prison for two dangerous monsters.",
+      "year" : 1966,
+      "duration" : 1517
+    },
+    "CHMP16" : {
+      "path" : "..\/Champions, The\/The Champions 16 - Shadow Of The Panther.mp4",
+      "title" : "Shadow of the Panther",
+      "series_id" : "CHMP",
+      "description" : "Having contacted Tremayne from Haiti to report disturbing behaviour scientist Ralph Charters dies, apparently of fright, with his hair turned white. ",
+      "year" : 1969,
+      "duration" : 2905
+    },
+    "FWLT04" : {
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 04 The Hotel Inspectors.mp4",
+      "title" : "The Hotel Inspectors",
+      "series_id" : "FWLT",
+      "description" : "Basil Fawlty goes on the alert when he hears there are hotel inspectors in the area.",
+      "year" : 1975,
+      "duration" : 1729
+    },
+    "CHMP18" : {
+      "path" : "..\/Champions, The\/The Champions 18 - The Interrogation.mp4",
+      "title" : "The Interrogation",
+      "series_id" : "CHMP",
+      "description" : "On return from a mission to Hong Kong Craig is captured and subjected to a brutal cross-examination from a pitiless interrogator who keeps asking him about the Retford Case.",
+      "year" : 1969,
+      "duration" : 2919
+    },
+    "SPRA20" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 20 The Fastest Car on Earth (part 1).mp4",
+      "title" : "The Fastest Car on Earth (part 1)",
+      "series_id" : "SPRA",
+      "description" : "Pops is horrified at the return of the GRX, a supernaturally powerful engine that has ended up killing or harming every one of its drivers.",
+      "year" : 1967,
+      "duration" : 1447
+    },
+    "AHCP020" : {
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 020 - And So Died Riabouchinska.m4v",
+      "title" : "And So Died Riabouchinska",
+      "series_id" : "AHCP",
+      "description" : "Detective Krovitch investigates a murder at a run-down vaudeville theater and gets a hot lead from the ventriloquist's dummy.",
+      "year" : 1956,
+      "duration" : 1526
+    },
+    "TWZN020" : {
+      "series_id" : "TWZN",
+      "order" : 20,
+      "title" : "Elegy",
+      "duration" : 1499,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 020 Elegy.mp4",
+      "description" : "Three astronauts touch down on an asteroid, where they discover a world of people that appear to be frozen in time. Confused, they theorize as to why everyone is motionless, until a man springs to life and explains."
+    },
+    "SPRA17" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 17 The Fire Race (part 2).mp4",
+      "title" : "The Fire Race (part 2)",
+      "series_id" : "SPRA",
+      "description" : "The race in Kapetepek continues.",
+      "year" : 1967,
+      "duration" : 1470
+    },
+    "AHCP016" : {
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 016 - You Got To Have Luck.m4v",
+      "title" : "You Got to Have Luck",
+      "series_id" : "AHCP",
+      "description" : "During a massive manhunt for escaped convict Sam Cobbett, Cobbett invades a house where young housewife Mary Schaffner is home alone.",
+      "year" : 1956,
+      "duration" : 1545
+    },
+    "AHCP017" : {
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 017 - The Older Sister.m4v",
+      "title" : "The Older Sister",
+      "series_id" : "AHCP",
+      "description" : "One year after Mr. and Mrs. Borden were brutally murdered, reporter Nell Cutts tries to interview Lizzie Andrew Borden and her sister Emma about the killings.",
+      "year" : 1956,
+      "duration" : 1553
+    },
+    "HONW16" : {
+      "series_id" : "HONW",
+      "order" : 16,
+      "title" : "A Nice Little Till to Tap",
+      "duration" : 1528,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 16.mp4",
+      "description" : "Honey goes undercover as a teller to learn how gang of bank robbers avoids tripping the vaults' high-priced alarm systems."
+    },
+    "AHCP018" : {
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 018 - Shopping For Death.m4v",
+      "title" : "Shopping for Death",
+      "series_id" : "AHCP",
+      "description" : "Two retired insurance salesmen confront an aggressive, hostile woman in hopes of saving her from a disaster.",
+      "year" : 1956,
+      "duration" : 1534
+    },
+    "HONW18" : {
+      "series_id" : "HONW",
+      "order" : 18,
+      "title" : "King of the Mountain",
+      "duration" : 1519,
+      "year" : 1966,
+      "path" : "..\/Honey West\/Honey West 18.mp4",
+      "description" : "Honey poses as a nurse to investigate a secretive billionaire supposedly suffering from a rare biochemical defect."
+    },
+    "TWZN018" : {
+      "series_id" : "TWZN",
+      "order" : 18,
+      "title" : "The Last Flight",
+      "duration" : 1515,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 018 The Last Flight.mp4",
+      "description" : "A World War I British fighter pilot lands at an American air base in France 42 years in the future."
+    },
+    "TWZN017" : {
+      "series_id" : "TWZN",
+      "order" : 17,
+      "title" : "The Fever",
+      "duration" : 1493,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 017 The Fever.mp4",
+      "description" : "A middle-aged man catches gambling fever from a slot machine that he believes is calling his name."
+    },
+    "TWZN019" : {
+      "series_id" : "TWZN",
+      "order" : 19,
+      "title" : "The Purple Testament",
+      "duration" : 1512,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 019 The Purple Testament.mp4",
+      "description" : "A U.S. Army lieutenant serving in the Philippines during WWII develops a harrowing ability to see in the faces of the men of his platoon, the men who will be the next ones to die."
+    },
+    "ZATV04" : {
+      "path" : "..\/Zatoichi TV Series\/Tales Of Zatoichi 04.m4v",
+      "title" : "The Kannon Statue That Was Tied",
+      "series_id" : "ZATV",
+      "description" : "A roadside statue of some significance needs to be moved. Its popularity means that there's lots of money to be made in its new location. Two different bosses want their territories to be its new home and they'll do anything to get it.",
+      "year" : 1974,
+      "duration" : 2804
+    },
+    "TWZN016" : {
+      "series_id" : "TWZN",
+      "order" : 16,
+      "title" : "The Hitch Hiker",
+      "duration" : 1513,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 016 The Hitch Hiker.m4v",
+      "description" : "A young woman driving cross-country becomes frantic when she keeps passing the same man on the side of the road. No matter how fast she drives, the man is always up ahead, hitching her for a ride."
+    },
+    "F839CC0F" : {
+      "path" : "..\/Classic Sci-Fi\/It Came From Outer Space (1953).m4v",
+      "duration" : 4812,
+      "title" : "It Came From Outer Space (1953)"
+    },
+    "LISP15" : {
+      "series_id" : "LISP",
+      "order" : 15,
+      "title" : "Return from Outer Space",
+      "duration" : 3087,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 15 Return from Outer Space.m4v",
+      "description" : "Using a matter transfer device left behind by the Taurons, Will beams himself back to Earth. He arrives safely in the small town of Hatfield Four Corners, Vermont, but his pleas for help are considered the fantasies of a runaway boy."
+    },
+    "SPRA19" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 19 Girl Daredevil (part 2).mp4",
+      "title" : "Girl Daredevil (part 2)",
+      "series_id" : "SPRA",
+      "description" : "Brotch and his cronies imprison Speed and Twinke in a cave and head off to their Mt Rushmore lair. But it doesn't take long before the two escape and a major fight breaks out.",
+      "year" : 1967,
+      "duration" : 1461
+    },
+    "AHCP019" : {
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 019 - The Derelicts.m4v",
+      "title" : "The Derelicts",
+      "series_id" : "AHCP",
+      "description" : "Inventor Ralph Cowell murders his silent partner Alfred, only to be blackmailed by vagrant Peter Goodfellow, who witnessed the crime.",
+      "year" : 1956,
+      "duration" : 1508
+    },
+    "LISP17" : {
+      "series_id" : "LISP",
+      "order" : 17,
+      "title" : "The Keeper (Part 2)",
+      "duration" : 3087,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost in Space - 17 The Keeper (Part 2).m4v",
+      "description" : "Troubles with The Keeper would be over if Dr. Smith hadn't skulked aboard his ship and released all the animals, putting The Keeper in a position to blackmail the Robinsons for their children."
+    },
+    "E9C5C724" : {
+      "series_id" : "UFOT",
+      "order" : 26,
+      "title" : "The Long Sleep",
+      "duration" : 2972,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 26 The Long Sleep.m4v",
+      "description" : ""
+    },
+    "CADF05" : {
+      "path" : "..\/Cadfael\/Cadfael - The Virgin In The Ice.m4v",
+      "title" : "The Virgin in the Ice",
+      "series_id" : "CADF",
+      "description" : "Dire deeds during a winter storm leave Brother Oswin beaten near to death, Sister Hilaria dead, and a pair of young siblings lost in the woods fleeing Lord Stephen's men.",
+      "year" : 1995,
+      "duration" : 4553
+    },
+    "DNMN04" : {
+      "path" : "..\/Danger Man\/Danger Man 04.m4v",
+      "title" : "The Galloping Major",
+      "series_id" : "DNMN",
+      "description" : "Drake is sent to Africa to protect the prime minister, who is in the midst of an election campaign. It is suspected that the opposition leader is planning to overthrow the government but Drake finds out that it is much more complicated.",
+      "year" : 1965,
+      "duration" : 3085
+    },
+    "9E9D7E4B" : {
+      "path" : "..\/Classic Sci-Fi\/Land Unknown, The (1957).m4v",
+      "duration" : 4693,
+      "title" : "Land Unknown, The (1957)"
+    },
+    "SOKO17" : {
+      "series_id" : "SOKO",
+      "order" : 17,
+      "title" : "Destroy the Dam",
+      "duration" : 1461,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 17.m4v",
+      "description" : "The Gargoyle Vine is back, and this time it's sucked up all the water in a lake. Will it grow to an incredible size and defeat the combined military might of the Earth? For Dr. Botanus' sake, let's hope so."
+    },
+    "SOKO19" : {
+      "series_id" : "SOKO",
+      "order" : 19,
+      "title" : "Metron, the Mysterious Space Man",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 19.m4v",
+      "description" : "The mysterious space man Metron lands in his flying saucer and befriends the Unicorn crew. And yet, it should come as no surprise that he's actually working for Gargoyle. Torozon makes an encore appearance, but Giant Robot literally tears him apart."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "08:00",
+        "resource_id" : "KNFU03"
+      },
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DNMN04"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PRSN04"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "ZATV04"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0786"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW16"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP16"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP016"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "512ECA31"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA16"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR16"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO16"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP15"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FWLT04"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "CADF05"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN016"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0791"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW17"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP17"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP017"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "F839CC0F"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA17"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR17"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO17"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP16"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON104"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN017"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0792"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW18"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP18"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP018"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "19A08E89"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA18"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR18"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO18"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP17"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN018"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0793"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW19"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP19"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP019"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "9E9D7E4B"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA19"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR19"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO19"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP18"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN019"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0794"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW20"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP20"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP020"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "A2DADDF2"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA20"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR20"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "E9C5C724"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "SRVR04"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN020"
+      },
+      {
+        "start_time" : "22:30",
+        "resource_id" : "NIGA03"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

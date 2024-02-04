@@ -1,0 +1,124 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "BFB7AEC1" : {
+      "series_id" : "LITB",
+      "order" : 1,
+      "title" : "'Beaver Gets Spelled'",
+      "duration" : 1572,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 001 Beaver Gets Spelled.mp4",
+      "description" : "Beaver expects the worst when teacher Miss Canfield sends him home with a sealed note for his parents."
+    },
+    "6F71955A" : {
+      "series_id" : "LITB",
+      "order" : 4,
+      "title" : "The Haircut",
+      "duration" : 1567,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 004 The Haircut.mp4",
+      "description" : "Beaver loses the money he was given for a haircut. In order to conceal his carelessness from his parents, he gives himself a haircut."
+    },
+    "1203BFB9" : {
+      "series_id" : "UFOT",
+      "order" : 22,
+      "title" : "Confetti Check A-O.K.",
+      "duration" : 2969,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 22 Confetti Check A-O.K..m4v",
+      "description" : ""
+    },
+    "199922" : {
+      "path" : "..\/Space 1999\/Space 1999 - 22 The Troubled Spirit.mp4",
+      "title" : "The Troubled Spirit",
+      "series_id" : "1999",
+      "order" : 22,
+      "year" : 1976,
+      "duration" : 3130
+    },
+    "5A8CA9E9" : {
+      "series_id" : "LITB",
+      "order" : 5,
+      "title" : "New Neighbors",
+      "duration" : 1567,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 005 New Neighbors.mp4",
+      "description" : "June sends Beaver with a welcome-to-the-neighborhood bouquet to new next-door neighbor Mrs. Donaldson; but when the little boy is rewarded with a kiss on his cheek, rascally Eddie Haskell warns that a jealous Mr. Donaldson will soon show up at Beaver's door."
+    },
+    "CE0C305F" : {
+      "series_id" : "LITB",
+      "order" : 2,
+      "title" : "Captain Jack",
+      "duration" : 1572,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 002 Captain Jack.mp4",
+      "description" : "Wally and Beaver secretly order a Florida alligator from a comic book ad, planning to keep the creature in their bathtub."
+    },
+    "D969F010" : {
+      "series_id" : "LITB",
+      "order" : 3,
+      "title" : "The Black Eye",
+      "duration" : 1573,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 003 The Black Eye.mp4",
+      "description" : "Violet Rutherford gives Beaver a black eye."
+    },
+    "LASP1949" : {
+      "path" : "..\/1940's Classics\/Late Spring (1949).mp4",
+      "title" : "Late Spring",
+      "description" : "",
+      "year" : 1949,
+      "duration" : 6479
+    }
+  },
+  "days" : [
+    [
+
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "BFB7AEC1"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "LASP1949"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "CE0C305F"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "D969F010"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "6F71955A"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199922"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "5A8CA9E9"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "1203BFB9"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

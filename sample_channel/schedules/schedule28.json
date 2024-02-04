@@ -1,0 +1,274 @@
+{
+  "day_count" : 7,
+  "resources" : {
+    "LITB123" : {
+      "series_id" : "LITB",
+      "order" : 123,
+      "title" : "Beaver's Big Contest",
+      "duration" : 1553,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 123 Beaver's Big Contest.m4v",
+      "description" : "Beaver sells raffle tickets to benefit the new hospital and hopes that one of his own will win him a Hawaiian vacation or a sports car."
+    },
+    "MNBS5" : {
+      "path" : "..\/Moonbase 3 (TV series)\/Moonbase 3 - 05 Castor and Pollux.mp4",
+      "title" : "Castor and Pollux",
+      "series_id" : "MNBS",
+      "order" : 5,
+      "description" : "",
+      "duration" : 3095
+    },
+    "SOKO25" : {
+      "series_id" : "SOKO",
+      "order" : 25,
+      "title" : "Drakulon, Creature of Doom",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 25.m4v",
+      "description" : "A group of vampires attack Unicorn to destroy them in support of the Gargoyle Gang. Giant Robot must battle Drakulon to save kidnapped members of Unicorn."
+    },
+    "SPRA50" : {
+      "series_id" : "SPRA",
+      "order" : 50,
+      "title" : "The Trick Race",
+      "duration" : 1393,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 50 The Trick Race.mp4",
+      "description" : "Exactly a year after the Alpine Race, the Car Acrobat Team challenges Speed Racer to a race to determine the superior driver. But all is not what it seems..."
+    },
+    "LITB124" : {
+      "series_id" : "LITB",
+      "order" : 124,
+      "title" : "Miss Lander's Fiance",
+      "duration" : 1553,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 124 Miss Lander's Fiance.m4v",
+      "description" : "Beaver gets upset when his favorite teacher gets engaged."
+    },
+    "UFOT25" : {
+      "series_id" : "UFOT",
+      "order" : 25,
+      "title" : "The Responsibility Seat",
+      "duration" : 2971,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 25 The Responsibility Seat.m4v",
+      "description" : ""
+    },
+    "HOLM03" : {
+      "series_id" : "HOLM",
+      "order" : 3,
+      "title" : "The Naval Treaty",
+      "duration" : 3262,
+      "year" : 1984,
+      "path" : "..\/Sherlock Holmes\/Sherlock Holmes - 03 The Naval Treaty.m4v",
+      "description" : "An unknown thief steals an important naval treaty from a Foreign Office clerk; Sherlock Holmes sets out to find it."
+    },
+    "OUTW1968" : {
+      "path" : "..\/Westerns\/Once Upon a Time in the West (1968).m4v",
+      "title" : "Once Upon a Time in the West",
+      "year" : 1968,
+      "duration" : 9926
+    },
+    "IKWG1945" : {
+      "path" : "..\/1940's Classics\/I Know Where I'm Going! (1945).mp4",
+      "title" : "I Know Where I'm Going!",
+      "description" : "",
+      "year" : 1945,
+      "duration" : 5494
+    },
+    "GODZ14" : {
+      "series_id" : "GODZ",
+      "order" : 14,
+      "title" : "Godzilla vs. Mechagodzilla",
+      "duration" : 5085,
+      "year" : 1974,
+      "path" : "..\/Kaiju (Giant Monsters)\/Godzilla vs. Mechagodzilla (Godzilla #14, 1974, dubbed).mp4",
+      "description" : "Dubbed."
+    },
+    "LITB125" : {
+      "series_id" : "LITB",
+      "order" : 125,
+      "title" : "Eddie's Double-Cross",
+      "duration" : 1535,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 125 Eddie's Double-Cross.m4v",
+      "description" : "Eddie Haskell boasts about going steady with popular Caroline Shuster but Wally hears Caroline tell her girlfriends that she thinks Eddie is a creep and must decide how to break the bad news to his best friend."
+    },
+    "LISP41" : {
+      "series_id" : "LISP",
+      "order" : 41,
+      "title" : "A Visit to Hades",
+      "duration" : 3082,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 41 - A Visit To Hades.m4v",
+      "description" : "An alien harp is found. It's a gateway to a planet which is - or isn't hell."
+    },
+    "ZATO10" : {
+      "series_id" : "ZATO",
+      "order" : 10,
+      "title" : "Zatoichi's Revenge",
+      "duration" : 5012,
+      "year" : 1965,
+      "path" : "..\/Samurai\/Zatoichi 10 - Zatoichi's Revenge (1965).m4v",
+      "description" : ""
+    },
+    "LISP39" : {
+      "series_id" : "LISP",
+      "order" : 39,
+      "title" : "Curse of Cousin Smith",
+      "duration" : 3080,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 39 - Curse Of Cousin Smith.m4v",
+      "description" : "Jeremiah Smith shows up to kill Doctor Smith for his inheritance."
+    },
+    "LISP40" : {
+      "series_id" : "LISP",
+      "order" : 40,
+      "title" : "West of Mars",
+      "duration" : 3081,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 40 - West Of Mars.m4v",
+      "description" : "Zeno, an intergalactic gun fighter and Doctor Smith's doppelganger, switches places with Smith."
+    },
+    "SABO1936" : {
+      "path" : "..\/1930's Classics\/Sabotage (1936).mp4",
+      "title" : "Sabotage",
+      "description" : "A Scotland Yard undercover detective is on the trail of a saboteur who is part of a plot to set off a bomb in London. But when the detective's cover is blown, the plot begins to unravel. Alfred Hitchcock directs.",
+      "year" : 1936,
+      "duration" : 4600
+    },
+    "LITB121" : {
+      "series_id" : "LITB",
+      "order" : 121,
+      "title" : "Wally the Lifeguard",
+      "duration" : 1552,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 121 Wally the Lifeguard.m4v",
+      "description" : "Beaver proudly takes his friends Whitey and Gilbert on a picnic at the lake to see Wally in his first day as a lifeguard, not knowing that a new law forbidding anyone under age 18 from filling the position has forced Wally to work as a snack vendor instead. "
+    },
+    "LISP38" : {
+      "series_id" : "LISP",
+      "order" : 38,
+      "title" : "The Thief from Outer Space",
+      "duration" : 3076,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 38 - The Thief From Outer Space.m4v",
+      "description" : "Will, Penny and Dr. Smith get involved with a thief that is searching for a princess."
+    },
+    "LITB122" : {
+      "series_id" : "LITB",
+      "order" : 122,
+      "title" : "Beaver's Freckles",
+      "duration" : 1551,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 122 Beaver's Freckles.m4v",
+      "description" : "Lumpy Rutherford embarrasses Beaver, calling him 'Freckles' in front of his friends and Beaver tries various ways to get rid of the offending spots."
+    },
+    "SPRA49" : {
+      "series_id" : "SPRA",
+      "order" : 49,
+      "title" : "The Car in the Sky",
+      "duration" : 1341,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 49 The Car in the Sky.mp4",
+      "description" : "When the Racers crash on a deserted island with no food or water, they turn the Mach 5 into a makeshift aircraft in order to go for help."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO10"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SABO1936"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB121"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA49"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP38"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "HOLM03"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "IKWG1945"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB122"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP39"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB123"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO25"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP40"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "OUTW1968"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB124"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA50"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP41"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT25"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB125"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "MNBS5"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ14"
+      }
+    ]
+  ],
+  "version" : "UHF Schedule - v1"
+}

@@ -1,0 +1,788 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "RT66002" : {
+      "series_id" : "RT66",
+      "order" : 2,
+      "title" : "A Lance of Straw",
+      "duration" : 3079,
+      "year" : 1960,
+      "path" : "..\/Route 66\/Route 66 - 002 A Lance of Straw.m4v",
+      "description" : "Tod and Buz reach the destination they started for in Episode One, Louisiana, and jobs working as crewmen on a shrimp trawler. However, crewing for a beautiful female captain, the resentment of local fishermen and a deadly storm at sea were results that were totally unexpected by them."
+    },
+    "FWLT01" : {
+      "series_id" : "FWLT",
+      "order" : 1,
+      "title" : "A Touch of Class",
+      "duration" : 1822,
+      "year" : 1975,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 01 A Touch of Class.mp4",
+      "description" : "Basil is delighted when a member of the aristocracy chooses to stay at the Fawlty Towers, snubbing the normal guests who frequent the hotel."
+    },
+    "SPRA01" : {
+      "series_id" : "SPRA",
+      "order" : 1,
+      "title" : "The Great Plan - Part 1",
+      "duration" : 1430,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 01 The Great Plan (part 1).mp4",
+      "description" : "Speed Racer enters his first race to win money for his family. Meanwhile, a gang of robbers are after Pops's secret plans."
+    },
+    "DRHI01" : {
+      "series_id" : "DRHI",
+      "order" : 1,
+      "title" : "Washington D.C",
+      "duration" : 1282,
+      "year" : 2013,
+      "path" : "..\/Drunk History\/Drunk History - 01 Washington D.C.m4v",
+      "description" : "Woodward and Bernstein blow open the Watergate scandal, actors\/brothers Edwin and John Wilkes Booth engage in a tragic feud, and Elvis crashes the White House to meet Nixon. Guest starring Jack Black, Dave Grohl, Bob Odenkirk."
+    },
+    "LRSS01" : {
+      "series_id" : "LRSS",
+      "order" : 1,
+      "title" : "What Have You Done for Me Lately?",
+      "duration" : 1658,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 01 What Have You Done for Me Lately.m4v",
+      "description" : "Larry is pressed to do a sponsored live commercial for a gardening tool called The Garden Weasel during his show, which creates animosity between him and his boss, Melanie Parrish. Actor Robert Hays guests on the show."
+    },
+    "SIVA01" : {
+      "series_id" : "SIVA",
+      "order" : 1,
+      "title" : "Minimum Viable Product",
+      "duration" : 1762,
+      "year" : 2014,
+      "path" : "..\/Silicon Valley\/Silicon Valley (Season 1) 1.m4v",
+      "description" : "Richard is a computer programmer. He has to choose between a $10 million deal with Gavin Belson and a $200,000 deal with Peter Gregory, in exchange for his cooperation to make the idea of a super compressing algorithm change the world."
+    },
+    "ZATV01" : {
+      "series_id" : "ZATV",
+      "order" : 1,
+      "title" : "A Challenge of Chance",
+      "duration" : 2785,
+      "year" : 1974,
+      "path" : "..\/Zatoichi TV Series\/Tales Of Zatoichi 01.m4v",
+      "description" : "Two Bosses fight for control of a mine. Will Zatoichi takes sides? A man with a musket wants to end that threat."
+    },
+    "LISP01" : {
+      "series_id" : "LISP",
+      "order" : 1,
+      "title" : "The Reluctant Stowaway",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 01 The Reluctant Stowaway.m4v",
+      "description" : "The Jupiter 2 is to launch, but a saboteur wants to destroy it. Unfortunately he is part of the Jupiter 2 crew now Lost In Space."
+    },
+    "LISP03" : {
+      "series_id" : "LISP",
+      "order" : 3,
+      "title" : "Island in the Sky",
+      "duration" : 3086,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 03 Island in the Sky.m4v",
+      "description" : "While spacewalking Doctor Robinson is pulled down onto a planet. Major West lands the ship to search for him."
+    },
+    "MSTK0101" : {
+      "series_id" : "MSTK",
+      "order" : 23,
+      "title" : "The Crawling Eye",
+      "duration" : 5481,
+      "year" : 1989,
+      "path" : "..\/MST3K\/MST3K 101 - The Crawling Eye.m4v",
+      "description" : "In the first national broadcast of MST3K, the Mads have moved into Deep 13, Joel has spruced up the Bots, and Forrest Tucker sleepwalks his way through this week's literally eye-popping film."
+    },
+    "GNRL1926" : {
+      "path" : "..\/AFI 100\/General, The (1926).mp4",
+      "title" : "The General",
+      "description" : "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines.",
+      "year" : 1926,
+      "duration" : 4552
+    },
+    "ICLD01" : {
+      "series_id" : "ICLD",
+      "order" : 1,
+      "title" : "A Touch of Murder",
+      "duration" : 3052,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 01.m4v",
+      "description" : "In 54 AD, elderly and lame from birth Emperor Claudius is writing his biography and the history of his family. He recalls an encounter with the Sibyl, who recognizes him from his stutter and tells him that his account will be famous in 1900 years time. "
+    },
+    "SOKO01" : {
+      "series_id" : "SOKO",
+      "order" : 1,
+      "title" : "Dracolon: The Great Sea Monster",
+      "duration" : 1459,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko - 01 Dracolon, The Great Sea Monster.m4v",
+      "description" : "Shipwrecked, Daisaku (Johnny Sokko) and Juro Minami (an agent for Unicorn) drift to an island and are captured by the BF gang. The island is in fact, a base of the B.F. gang. They happen to discover a huge robot while they are running away."
+    },
+    "ACGS01" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 01 You've Got to Dream.m4v",
+      "title" : "You've Got to Dream",
+      "series_id" : "ACGS",
+      "order" : 1,
+      "description" : "",
+      "duration" : 3124
+    },
+    "DNMN01" : {
+      "series_id" : "DNMN",
+      "order" : 1,
+      "title" : "Yesterday's Enemies",
+      "duration" : 3125,
+      "year" : 1965,
+      "path" : "..\/Danger Man\/Danger Man 01.m4v",
+      "description" : "Brett is known to be giving away British industrial secrets. However, when Drake confronts him, he discovers things are a lot more complicated and that Brett is not the only person being investigated."
+    },
+    "LITB001" : {
+      "series_id" : "LITB",
+      "order" : 1,
+      "title" : "'Beaver Gets Spelled'",
+      "duration" : 1572,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 001 Beaver Gets Spelled.mp4",
+      "description" : "Beaver expects the worst when teacher Miss Canfield sends him home with a sealed note for his parents."
+    },
+    "ASPH1950" : {
+      "path" : "..\/1950's Classics\/Asphalt Jungle, The (1950).m4v",
+      "title" : "The Asphalt Jungle",
+      "description" : "A major heist goes off as planned, but then double crosses, bad luck and solid police work cause everything to unravel.",
+      "year" : 1950,
+      "duration" : 6746
+    },
+    "LITB002" : {
+      "series_id" : "LITB",
+      "order" : 2,
+      "title" : "Captain Jack",
+      "duration" : 1572,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 002 Captain Jack.mp4",
+      "description" : "Wally and Beaver secretly order a Florida alligator from a comic book ad, planning to keep the creature in their bathtub."
+    },
+    "LITB003" : {
+      "series_id" : "LITB",
+      "order" : 3,
+      "title" : "The Black Eye",
+      "duration" : 1573,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 003 The Black Eye.mp4",
+      "description" : "Violet Rutherford gives Beaver a black eye."
+    },
+    "BSG101" : {
+      "series_id" : "BSG1",
+      "order" : 1,
+      "title" : "Lost Planet of the Gods (part 1)",
+      "duration" : 2928,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 02 - Lost Planet of the Gods (part 1).m4v",
+      "description" : "When a large number of Colonial Warriors come down with a serious infection, Apollo and Starbuck must train a number of female shuttle pilots to fly Vipers for combat duty."
+    },
+    "ULTR02" : {
+      "series_id" : "ULTR",
+      "order" : 2,
+      "title" : "Shoot the Invaders!",
+      "duration" : 1516,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 02.mp4",
+      "description" : "The Balatans have come to Earth to make a new home, at the expense of Earth's inhabitants."
+    },
+    "LITB004" : {
+      "series_id" : "LITB",
+      "order" : 4,
+      "title" : "The Haircut",
+      "duration" : 1567,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 004 The Haircut.mp4",
+      "description" : "Beaver loses the money he was given for a haircut. In order to conceal his carelessness from his parents, he gives himself a haircut."
+    },
+    "LITB005" : {
+      "series_id" : "LITB",
+      "order" : 5,
+      "title" : "New Neighbors",
+      "duration" : 1567,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 005 New Neighbors.mp4",
+      "description" : "June sends Beaver with a welcome-to-the-neighborhood bouquet to new next-door neighbor Mrs. Donaldson; but when the little boy is rewarded with a kiss on his cheek, rascally Eddie Haskell warns that a jealous Mr. Donaldson will soon show up at Beaver's door."
+    },
+    "BANK1940" : {
+      "path" : "..\/1940's Classics\/Bank Dick, The (1940).mp4",
+      "title" : "The Bank Dick",
+      "description" : "Henpecked Egbert Sousé has comic adventures as a substitute film director and unlikely bank guard.",
+      "year" : 1940,
+      "duration" : 4332
+    },
+    "TLBT1971" : {
+      "path" : "..\/Drive-In Night\/Two-Lane Blacktop (1971).m4v",
+      "title" : "Two-Lane Blacktop",
+      "description" : "While drag-racing through the American Southwest in a Chevy 150, a driver and his mechanic cross paths with an alluring hitchhiker and the inexperienced, tall tale-spinning driver of a GTO.",
+      "year" : 1971,
+      "duration" : 6157
+    },
+    "CHMP01" : {
+      "series_id" : "CHMP",
+      "order" : 1,
+      "title" : "The Beginning",
+      "duration" : 2861,
+      "year" : 1968,
+      "path" : "..\/Champions, The\/The Champions 01 - The Beginning.mp4",
+      "description" : "Sharron MacReady, Craig Stirling and Richard Barrett work as agents for international law enforcement bureau Nemesis, based in Geneva, Whilst returning from a mission in China with bacteriological material stolen from the Chinese, their plane is shot down over the Himalayas."
+    },
+    "BOAN1915" : {
+      "path" : "..\/Birth of Cinema\/Birth Of A Nation, The (1915).mp4",
+      "title" : "The Birth of a Nation",
+      "description" : "Called the most controversial film ever made in the United States, it chronicles the assassination of Abraham Lincoln and the relationship of two families during the Civil War and Reconstruction eras. Stars Lillian Gish. Silent.",
+      "year" : 1915,
+      "duration" : 11606
+    },
+    "OFUK01" : {
+      "series_id" : "OFUK",
+      "order" : 1,
+      "title" : "Downsize",
+      "duration" : 1805,
+      "year" : 2001,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 01.mp4",
+      "description" : "David Brent is told that the company can no longer afford both a Swindon and a Slough branch and that one is to be merged into the other."
+    },
+    "CSCR01" : {
+      "series_id" : "CSCR",
+      "order" : 1,
+      "title" : "The Mysterons",
+      "duration" : 1567,
+      "year" : 1967,
+      "path" : "..\/Captain Scarlet\/Captain Scarlet 01 - The Mysterons.m4v",
+      "description" : "After a misunderstanding on the planet Mars, a war is started between humans and an alien race called The Mysterons. Thier first act of revenge is to try and assassinate The World President."
+    },
+    "AHCP001" : {
+      "series_id" : "AHCP",
+      "order" : 1,
+      "title" : "Revenge",
+      "duration" : 1577,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 001 - Revenge.m4v",
+      "description" : "When Carl Spann's wife Elsa is assaulted by an unknown attacker, he drives his still-incoherent wife around town, hoping she can point him out, so he can kill him."
+    },
+    "TWZN001" : {
+      "series_id" : "TWZN",
+      "order" : 1,
+      "title" : "Where is Everybody?",
+      "start_offset" : 458,
+      "duration" : 2102,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 001 Where is Everybody.mp4",
+      "description" : "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul. The tension increases and Mike has a breakdown."
+    },
+    "SPRA02" : {
+      "series_id" : "SPRA",
+      "order" : 2,
+      "title" : "The Great Plan - Part 2",
+      "duration" : 1455,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 02 The Great Plan (part 2, SD).m4v",
+      "description" : "Speed continues his race, and the robbers continue their attempts to capture Speed."
+    },
+    "AHCP003" : {
+      "series_id" : "AHCP",
+      "order" : 3,
+      "title" : "Trigger in Leash",
+      "duration" : 1570,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 003 - Trigger In Leash.m4v",
+      "description" : "A cook tries everything she can think of to end a dispute between two gunmen who have sworn to kill each other."
+    },
+    "JOQU01" : {
+      "series_id" : "JOQU",
+      "order" : 1,
+      "title" : "The Mystery of the Lizard Men",
+      "duration" : 1523,
+      "year" : 1964,
+      "path" : "..\/Jonny Quest\/Jonny Quest 01.m4v",
+      "description" : "A foreign power uses the Sargasso Sea to conduct laser experiments and employs \"lizard men\" to scare away potential interlopers."
+    },
+    "TWZN003" : {
+      "series_id" : "TWZN",
+      "order" : 3,
+      "title" : "Mr. Denton on Doomsday",
+      "duration" : 1493,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 003 Mr. Denton on Doomsday.mp4",
+      "description" : "The town drunk in the old-west faces his past when Fate lends a hand."
+    },
+    "HONW01" : {
+      "series_id" : "HONW",
+      "order" : 1,
+      "title" : "The Swingin' Mrs. Jones",
+      "duration" : 1489,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 01 - The Swingin' Mrs. Jones.mp4",
+      "description" : "After losing her client's $50,000 and getting a knock on the head in the bargain, Honey West is more determined than ever to break up a blackmail ring that preys on wealthy middle-aged women."
+    },
+    "PRSN01" : {
+      "series_id" : "PRSN",
+      "order" : 1,
+      "title" : "The Arrival",
+      "duration" : 3069,
+      "year" : 1968,
+      "path" : "..\/Prisoner, The\/Prisoner, The 01 - The Arrival.m4v",
+      "description" : "After resigning, a secret agent finds himself trapped in a bizarre prison known only as \"The Village\"."
+    },
+    "AHCP004" : {
+      "series_id" : "AHCP",
+      "order" : 4,
+      "title" : "Don't Come Back Alive",
+      "duration" : 1567,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 004 - Don't Come Back Alive.m4v",
+      "description" : "Frank Partridge and his wife plot to cheat their life insurance company by having her hide out for 7 years and declared legally dead, but an investigator believes Mr. Partridge has murdered her."
+    },
+    "AHCP002" : {
+      "series_id" : "AHCP",
+      "order" : 2,
+      "title" : "Premonition",
+      "duration" : 1568,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 002 - Premonition.m4v",
+      "description" : "A man returning to his home town finds his father has died, and suspects his friends are covering up the true details of that death."
+    },
+    "TWZN002" : {
+      "series_id" : "TWZN",
+      "order" : 2,
+      "title" : "One for the Angels",
+      "duration" : 1503,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 002 One for the Angels.mp4",
+      "description" : "A pitchman is visited by Mr. Death and is forced to get his priorities in order."
+    },
+    "RAWH1951" : {
+      "path" : "..\/Westerns\/Rawhide (1951).mp4",
+      "title" : "Rawhide",
+      "description" : "A stagecoach stop employee and a stranded woman traveller find themselves at the mercy of four desperate outlaws intent on robbing the next day's gold shipment.",
+      "year" : 1951,
+      "duration" : 5197
+    },
+    "LISP02" : {
+      "series_id" : "LISP",
+      "order" : 2,
+      "title" : "The Derelict",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 02 The Derelict.m4v",
+      "description" : "The Jupiter 2 is pulled into a giant ship occupied by bubble-like creatures."
+    },
+    "CON101" : {
+      "series_id" : "CON1",
+      "order" : 1,
+      "title" : "The Trigger Effect",
+      "duration" : 2965,
+      "year" : 1978,
+      "path" : "..\/Connections 1\/Connections 01 The Trigger Effect.mp4",
+      "description" : "One thing leads to another and our dependence on technology. A New York City Blackout serves as example."
+    },
+    "LISP04" : {
+      "series_id" : "LISP",
+      "order" : 4,
+      "title" : "There Were Giants in the Earth",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 04 There Were Giants in the Earth.m4v",
+      "description" : "Due to the planet's orbit, the Robinsons are going to freeze to death unless they head south."
+    },
+    "RBBT03" : {
+      "series_id" : "RBBT",
+      "order" : 3,
+      "title" : "The Crowd",
+      "duration" : 1647,
+      "year" : 1985,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 03 The Crowd.m4v",
+      "description" : "A car crash survivor discovers that the same sinister, mysterious crowd of onlookers somehow always shows up minutes after any potentially fatal car accident at the site of the crash."
+    },
+    "STPP1960" : {
+      "path" : "..\/1960's Classics\/Shoot The Piano Player (1960).m4v",
+      "title" : "Shoot the Piano Player",
+      "description" : "A pianist helps his brother escape from two gangsters, who retaliate by abducting their kid brother.",
+      "year" : 1960,
+      "duration" : 4909
+    },
+    "7UP02" : {
+      "series_id" : "7UP",
+      "order" : 2,
+      "title" : "Seven Plus 7",
+      "duration" : 3126,
+      "year" : 1970,
+      "path" : "..\/7 Up Series\/7 Plus 7.mp4",
+      "description" : "Director Michael Apted revisits the same group of British-born children after a seven-year wait. The subjects are interviewed as to the changes that have occurred in their lives during the last seven years."
+    },
+    "MORD1964" : {
+      "path" : "..\/Classic Horror\/Masque of the Red Death, The (1964).m4v",
+      "title" : "The Masque of the Red Death",
+      "description" : "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+      "year" : 1964,
+      "duration" : 5327
+    },
+    "STAN01" : {
+      "series_id" : "STAN",
+      "order" : 1,
+      "title" : "Beyond the Farthest Star",
+      "duration" : 1451,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 01 Beyond the Farthest Star.m4v",
+      "description" : "The Enterprise finds an ancient abandoned starship with a malevolent entity aboard, eager to take over the Starfleet ship."
+    },
+    "CADF01" : {
+      "series_id" : "CADF",
+      "order" : 1,
+      "title" : "A Corpse Too Many",
+      "duration" : 4533,
+      "year" : 1994,
+      "path" : "..\/Cadfael\/Cadfael - A Corpse Too Many.mp4",
+      "description" : "Assigned by King Stephen to dispose of 94 hanged rebels, Cadfael discovers the body of a murdered man among the corpses and given just four days to solve the crime."
+    },
+    "GODZ01" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Godzilla (Godzilla #1, 1954, dubbed).mp4",
+      "title" : "Godzilla",
+      "description" : "American nuclear-weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast. (U.S. version, dubbed.)",
+      "year" : 1954,
+      "duration" : 4732
+    },
+    "GISS1974" : {
+      "path" : "..\/Drive-In Night\/Gone in 60 Seconds (1974).mp4",
+      "title" : "Gone in 60 Seconds",
+      "description" : "When a South American drug lord pays Pace to steal 48 cars for him, all but one is in the bag - thereby, the police precipitate in a desperate car chase against Pace and his Eleanor across Southern California.",
+      "year" : 1974,
+      "duration" : 5795
+    },
+    "PUFO01" : {
+      "series_id" : "PUFO",
+      "order" : 1,
+      "title" : "The Washington DC Incident",
+      "duration" : 2930,
+      "year" : 1978,
+      "path" : "..\/Project U.F.O.\/Project U.F.O. - S1E1 - The Washington DC Incident.mp4",
+      "description" : "A woman on a Virginia farm reports a strange object in her yard, and a robot-like creature which communicates with her; a U.S. Air Force pilot chases a UFO and dies."
+    },
+    "COLL1970" : {
+      "path" : "..\/Classic Sci-Fi\/Collossus, the Forbin Project (1970).m4v",
+      "title" : "Collossus, the Forbin Project",
+      "description" : "Thinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators.",
+      "year" : 1970,
+      "duration" : 6008
+    },
+    "DWHO0751" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 1.m4v",
+      "title" : "Robot (part 1)",
+      "series_id" : "DWHO",
+      "description" : "Can the Doctor, now in his fourth incarnation, recover from his post-regenerative trauma to save the Earth from Think Tank and their plot for world domination?",
+      "year" : 1974,
+      "duration" : 1455
+    },
+    "BSG100" : {
+      "series_id" : "BSG1",
+      "order" : 0,
+      "title" : "Saga of a Star World",
+      "duration" : 8347,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 01 - Saga of a Star World.m4v",
+      "description" : "After the Twelve Colonies of Mankind were destroyed in a sneak attack by the Cylon tyranny, the last Battlestar Galactica leads a makeshift fugitive fleet on a desperate search for the legendary planet Earth."
+    },
+    "DWHO0752" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 2.m4v",
+      "title" : "Robot (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and Sarah become convinced Think Tank are behind the electronic component thefts but are unable to stop them carrying out another raid.",
+      "year" : 1975,
+      "duration" : 1502
+    },
+    "ULTR01" : {
+      "series_id" : "ULTR",
+      "order" : 1,
+      "title" : "Ultra Operation No. 1",
+      "duration" : 1519,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 01.mp4",
+      "description" : "Ultraman is escorting his prisoner to its final destination. The prisoner escapes and heads toward Earth. As Ultraman follows in pursuit, he accidentally crashes into an Earth craft, injuring its pilot and altering both of their lives forever."
+    },
+    "DWHO0753" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 3.m4v",
+      "title" : "Robot (part 3)",
+      "series_id" : "DWHO",
+      "description" : "Sarah and Kettlewell infiltrate an SRS meeting to try and find out what Miss Winters is up to but there is a surprise in store.",
+      "year" : 1975,
+      "duration" : 1474
+    },
+    "DWHO0754" : {
+      "path" : "..\/Doctor Who\/Dr. Who 075 - Robot 4.m4v",
+      "title" : "Robot (part 4)",
+      "series_id" : "DWHO",
+      "description" : "UNIT attempt to get into the bunker to stop Miss Winters setting off the world's nuclear missiles but first they have to get past the K1.",
+      "year" : 1975,
+      "duration" : 1471
+    },
+    "RT66001" : {
+      "series_id" : "RT66",
+      "order" : 1,
+      "title" : "Black November",
+      "duration" : 3082,
+      "year" : 1960,
+      "path" : "..\/Route 66\/Route 66 - 001 Black November.m4v",
+      "description" : "Leaving New York City behind, Tod and Buz begin their search \"to catch a star\" and find themselves in a nightmare right out of \"Bad Day at Black Rock.\" The unfriendly, suspicious, and violent residents of a tiny Mississippi town have a long-held secret — and they will kill to protect it."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "18:00",
+        "resource_id" : "BSG100"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66001"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "PRSN01"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "BOAN1915"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB001"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA01"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP01"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "FWLT01"
+      },
+      {
+        "start_time" : "18:05",
+        "resource_id" : "CADF01"
+      },
+      {
+        "start_time" : "21:00",
+        "resource_id" : "TWZN001"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:00",
+        "resource_id" : "DNMN01"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0751"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "BANK1940"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP001"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB002"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR01"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP02"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS01"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON101"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "GNRL1926"
+      },
+      {
+        "start_time" : "21:00",
+        "resource_id" : "TWZN002"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:00",
+        "resource_id" : "HONW01"
+      },
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT03"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0752"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "ASPH1950"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP002"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB003"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO01"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP03"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "OFUK01"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "7UP02"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "RAWH1951"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66002"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "CHMP01"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0753"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "STPP1960"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP003"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB004"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA02"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP04"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "SIVA01"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS01"
+      },
+      {
+        "start_time" : "21:00",
+        "resource_id" : "TWZN003"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:00",
+        "resource_id" : "PUFO01"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0754"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP004"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB005"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR02"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG101"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI01"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD01"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "COLL1970"
+      },
+      {
+        "start_time" : "21:00",
+        "resource_id" : "MORD1964"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "JOQU01"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "CSCR01"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN01"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "ZATV01"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ01"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0101"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "TLBT1971"
+      },
+      {
+        "start_time" : "20:45",
+        "resource_id" : "GISS1974"
+      }
+    ]
+  ]
+}

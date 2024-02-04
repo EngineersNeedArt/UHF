@@ -1,0 +1,215 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "HOLM05" : {
+      "series_id" : "HOLM",
+      "order" : 5,
+      "title" : "The Crooked Man",
+      "duration" : 3248,
+      "year" : 1984,
+      "path" : "..\/Sherlock Holmes\/Sherlock Holmes - 05 The Crooked Man.m4v",
+      "description" : "Col. Barclay is found dead and his wife is arrested for the murder, but Holmes is convinced a missing door key will reveal the true killer."
+    },
+    "LISP49" : {
+      "series_id" : "LISP",
+      "order" : 49,
+      "title" : "The Space Vikings",
+      "duration" : 3082,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 49 - The Space Vikings.m4v",
+      "description" : "Through some harmless playacting, Dr. Smith unintentionally conjures up the magical gauntlets and war hammer of the Norse god Thor. Taking him for a mighty warrior, Brynhilda spirits Smith off to Asgard for a showdown with Thor."
+    },
+    "204651A4" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 131 Uncle Billy.m4v",
+      "duration" : 1557,
+      "title" : "Leave it to Beaver - 131 Uncle Billy"
+    },
+    "ZATO11" : {
+      "series_id" : "ZATO",
+      "order" : 11,
+      "title" : "Zatoichi and the Doomed Man",
+      "duration" : 4653,
+      "year" : 1965,
+      "path" : "..\/Samurai\/Zatoichi 11 - Zatoichi and the Doomed Man (1965).m4v",
+      "description" : ""
+    },
+    "CCBA90F7" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 135 Wally's Track Meet.m4v",
+      "duration" : 1545,
+      "title" : "Leave it to Beaver - 135 Wally's Track Meet"
+    },
+    "LISP48" : {
+      "series_id" : "LISP",
+      "order" : 48,
+      "title" : "Mutiny in Space",
+      "duration" : 3083,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 48 - Mutiny In Space.m4v",
+      "description" : "A space pirate looking for his crew that mutinied finds Will and Dr. Smith trying to repair his empty ship."
+    },
+    "GODZ15" : {
+      "series_id" : "GODZ",
+      "order" : 15,
+      "title" : "Terror of Mechagodzilla",
+      "duration" : 4726,
+      "year" : 1975,
+      "path" : "..\/Kaiju (Giant Monsters)\/Terror of Mechagodzilla (Godzilla #15, 1975, dubbed).m4v",
+      "description" : "Dubbed."
+    },
+    "199901" : {
+      "series_id" : "1999",
+      "order" : 1,
+      "title" : "Breakaway",
+      "duration" : 3140,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 01 Breakaway.m4v",
+      "description" : ""
+    },
+    "613ED467" : {
+      "series_id" : "UFOT",
+      "order" : 1,
+      "title" : "Identified",
+      "duration" : 3076,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 01 Identified.m4v",
+      "description" : "When an Unidentified Flying Object attacks a plane in which Straker's deputy Colonel Freeman is travelling it is shot down and investigated. The body of an alien is found and discovered to have transplanted human body parts, seemingly from a trio who disappeared in nearby woods a decade earlier."
+    },
+    "5D6FAA57" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 133 Ward's Millions.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 133 Ward's Millions"
+    },
+    "9E29D458" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 132 Teacher's Daughter.m4v",
+      "duration" : 1555,
+      "title" : "Leave it to Beaver - 132 Teacher's Daughter"
+    },
+    "BATB1946" : {
+      "path" : "..\/1940's Classics\/Beauty and the Beast (1946).m4v",
+      "title" : "Beauty and the Beast",
+      "description" : "",
+      "year" : 1946,
+      "duration" : 5630
+    },
+    "709FA7AB" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 134 Beaver's Secret Life.m4v",
+      "duration" : 1557,
+      "title" : "Leave it to Beaver - 134 Beaver's Secret Life"
+    },
+    "MWFT1937" : {
+      "path" : "..\/1930's Classics\/Make Way For Tomorrow (1937).m4v",
+      "title" : "Make Way for Tomorrow",
+      "description" : "An elderly couple are forced to live hundreds of miles apart when they lose their house and none of their five children will take both parents in.",
+      "year" : 1937,
+      "duration" : 5528
+    },
+    "LISP51" : {
+      "series_id" : "LISP",
+      "order" : 51,
+      "title" : "The Cave of Wizards",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 51 - The Cave Of Wizards.m4v",
+      "description" : "Shortly before lift-off, Dr. Smith discovers a cave inhabited by devices, which are the remnants of a once-mighty civilization; the Draconians. As the countdown draws near, Dr. Smith falls ever-more-so under the influence of the Draconians."
+    },
+    "RIOB1959" : {
+      "path" : "..\/Westerns\/Rio Bravo (1959).m4v",
+      "title" : "Rio Bravo",
+      "year" : 1959,
+      "duration" : 8463
+    },
+    "LISP50" : {
+      "series_id" : "LISP",
+      "order" : 50,
+      "title" : "Rocket to Earth",
+      "duration" : 3084,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 50 - Rocket To Earth.m4v",
+      "description" : "A space wizard conjures up a spaceship so that Doctor Smith can return to Earth."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO11"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "MWFT1937"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "204651A4"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP48"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "HOLM05"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "BATB1946"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "9E29D458"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP49"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "5D6FAA57"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP50"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "RIOB1959"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "709FA7AB"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP51"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199901"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "CCBA90F7"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "613ED467"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ15"
+      }
+    ]
+  ]
+}

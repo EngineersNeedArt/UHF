@@ -1,0 +1,705 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "DWHO0763" : {
+      "path" : "..\/Doctor Who\/Dr. Who 076 - The Ark In Space 3.m4v",
+      "title" : "The Ark in Space (part 3)",
+      "series_id" : "DWHO",
+      "description" : "Knowing that Noah has been infected by the Wirrn, the Doctor persuades Vira to halt the reviving of her people, knowing it will place them in danger as well.",
+      "year" : 1975,
+      "duration" : 1448
+    },
+    "ULTR09" : {
+      "path" : "..\/Ultraman\/Ultraman 09.mp4",
+      "title" : "Lightning Operation",
+      "series_id" : "ULTR",
+      "description" : "A uranium-eating monster threatens a boys mountain camp, forcing the Science Patrol to attempt to lure the monster away from the kids.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "DWHO0771" : {
+      "path" : "..\/Doctor Who\/Dr. Who 077 - The Sontaran Experiment 2.m4v",
+      "title" : "Dr. Who 077 - The Sontaran Experiment 2",
+      "series_id" : "DWHO",
+      "duration" : 1506
+    },
+    "CHMP06" : {
+      "path" : "..\/Champions, The\/The Champions 06 - Operation Deep Freeze.mp4",
+      "title" : "Operation Deep Freeze",
+      "series_id" : "CHMP",
+      "description" : "A party of scientists from the Scott Base in Antarctica, sent to investigate an explosion, goes missing, as do two subsequent search groups and Richard and Craig are sent to investigate.",
+      "year" : 1968,
+      "duration" : 2922
+    },
+    "CSCR02" : {
+      "path" : "..\/Captain Scarlet\/Captain Scarlet 02 - Winged Assassin.m4v",
+      "title" : "Winged Assassin",
+      "series_id" : "CSCR",
+      "description" : "The Mysterons second target is the Director General of the United Asian Republic. The Director is on a visit to London and is scheduled to fly back to Asia via London airport but the Mysterons have other plans.",
+      "year" : 1967,
+      "duration" : 1585
+    },
+    "DWHO0772" : {
+      "path" : "..\/Doctor Who\/Dr. Who 077 - The Sontaran Experiment 2.m4v",
+      "title" : "The Sontaran Experiment (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor learns that Styre has been experimenting on the Galsec crewmembers to pave the way for a Sontaran invasion of Earth and decides the only way to halt his plans is to challenge him to a duel.",
+      "year" : 1975,
+      "duration" : 1506
+    },
+    "CHMP08" : {
+      "path" : "..\/Champions, The\/The Champions 08 - To Trap A Rat.mp4",
+      "title" : "To Trap a Rat",
+      "series_id" : "CHMP",
+      "description" : "Junkie Jane Purcell crashes her car after getting a fix, making her the twelfth drug addict in London to collapse in the wake of being fed a lethal new drug. ",
+      "year" : 1968,
+      "duration" : 2920
+    },
+    "SRVR02" : {
+      "path" : "..\/Survivors\/Survivors 02 - Genesis.m4v",
+      "title" : "Genesis",
+      "series_id" : "SRVR",
+      "description" : "Greg comes home to find Britain just as desolate as Holland. Abby continues to look for her son, and finds that not all the gatherings of survivors have altruistic motives.",
+      "duration" : 2982
+    },
+    "PRSN02" : {
+      "path" : "..\/Prisoner, The\/Prisoner, The 02 - The Chimes Of Big Ben.m4v",
+      "title" : "The Chimes of Big Ben",
+      "series_id" : "PRSN",
+      "description" : "A new Number Eight named Nadia arrives in the Village, and together she and Number Six plot their escape.",
+      "year" : 1967,
+      "duration" : 3024
+    },
+    "JOQU02" : {
+      "path" : "..\/Jonny Quest\/Jonny Quest 02 - Arctic Splashdown.m4v",
+      "title" : "Arctic Splashdown",
+      "series_id" : "JOQU",
+      "description" : "A rocket malfunctions and crashes in the Arctic. Dr. Benton Quest is dispatched to find the rocket but must contend with operatives of a hostile foreign power who seek the same thing he is.",
+      "year" : 1964,
+      "duration" : 1519
+    },
+    "SPRA10" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 10 The Most Dangerous Race (part 2).mp4",
+      "title" : "The Most Dangerous Race - Part 2",
+      "series_id" : "SPRA",
+      "description" : "The Alpine Car Race continues, but a yawning chasm causes a major standstill. Who will risk their lives to cross over it?",
+      "year" : 1967,
+      "duration" : 1419
+    },
+    "SPRA07" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 07 The Race against the Mammoth Car (part 1).mp4",
+      "title" : "The Race against the Mammoth Car - Part 1",
+      "series_id" : "SPRA",
+      "description" : "Speed takes part in a race where any sort of car can participate. He soon faces off with a very dangerous 200-yard mammoth car.",
+      "year" : 1967,
+      "duration" : 1393
+    },
+    "HONW06" : {
+      "series_id" : "HONW",
+      "order" : 6,
+      "title" : "Whatever Lola Wants",
+      "duration" : 1518,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 06 - Whatever Lola Wants.mp4",
+      "description" : "Honey goes to a charity party to find out where an embezzler has banked his ill-gotten gains, but learns the man who hired her is a murderer."
+    },
+    "SPRA09" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 09 The Most Dangerous Race (part 1).mp4",
+      "title" : "The Most Dangerous Race - Part 1",
+      "series_id" : "SPRA",
+      "description" : "Speed takes part in a mountain race, considered with its gorges and landslides to be the most dangerous race ever. It's about to live up to that reputation.",
+      "year" : 1967,
+      "duration" : 1388
+    },
+    "HONW08" : {
+      "series_id" : "HONW",
+      "order" : 8,
+      "title" : "In the Bag",
+      "duration" : 1528,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 08 - In the Bag.mp4",
+      "description" : "Honey manages to lose an obnoxious child she's escorting between divorced parents in a crowded airport. When security can't find the child, Honey fears the girl may have been abducted."
+    },
+    "CON102" : {
+      "path" : "..\/Connections 1\/Connections 02 Death In The Morning.mp4",
+      "title" : "Death in the Morning",
+      "series_id" : "CON1",
+      "description" : "Follow the connections from ancient Egyptian traders all the way up to modern radar and nuclear energy. You'll make stops along the way which include money, touch stones, sailing, vacuum pumps, weather charts, and hot air balloons.",
+      "year" : 1978,
+      "duration" : 2956
+    },
+    "LISP05" : {
+      "series_id" : "LISP",
+      "order" : 5,
+      "title" : "The Hungry Sea",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 05 The Hungry Sea .m4v",
+      "description" : "After experiencing the extreme cold, the planet gets closer to the sun, roasting it. Smith sends the robot to warn the Robinsons."
+    },
+    "199924" : {
+      "series_id" : "1999",
+      "order" : 24,
+      "title" : "The Last Enemy",
+      "duration" : 3126,
+      "year" : 1976,
+      "path" : "..\/Space 1999\/Space 1999 - 24 The Last Enemy.mp4",
+      "description" : ""
+    },
+    "LISP07" : {
+      "series_id" : "LISP",
+      "order" : 7,
+      "title" : "My Friend, Mr. Nobody",
+      "duration" : 3091,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 07 My Friend, Mr. Nobody.m4v",
+      "description" : "Penny strikes up a friendship with a deep voice in a deep cave."
+    },
+    "SOKO07" : {
+      "series_id" : "SOKO",
+      "order" : 7,
+      "title" : "Our Enemy: Scalion",
+      "duration" : 1509,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 07.m4v",
+      "description" : "There is the decoding office of the Japanese Branch of Unicorn Organization in the basement of a lighthouse on the coast of the Pacific Ocean."
+    },
+    "SOKO09" : {
+      "series_id" : "SOKO",
+      "order" : 9,
+      "title" : "Tentaclon: An Electric Monster",
+      "duration" : 1508,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 09.m4v",
+      "description" : "Emperor Guillotine gives Dr. Over a spaceship equipped with all kinds of scientific weapons. After landing at the earth, Over sends an electric monster called Sparky to the ground of a soccer game and kidnaps all 30,000 spectators as hostages."
+    },
+    "ULTR06" : {
+      "path" : "..\/Ultraman\/Ultraman 06.mp4",
+      "title" : "The Coast Guard Command",
+      "series_id" : "ULTR",
+      "description" : "The Science Patrol has to deal with the smuggler Diamond Kick and a cacao-eating monster from Brazil.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "KNFU01" : {
+      "series_id" : "KNFU",
+      "order" : 1,
+      "title" : "King of the Mountain",
+      "duration" : 2910,
+      "year" : 1972,
+      "path" : "..\/Kung Fu\/Kung Fu 02.m4v",
+      "description" : "Caine looks after a newly orphaned boy and a young, pretty rancher while a bounty hunter atop a nearby mountain silently observes his opportunity to pounce."
+    },
+    "ULTR08" : {
+      "path" : "..\/Ultraman\/Ultraman 08.mp4",
+      "title" : "The Monster Anarchy Zone",
+      "series_id" : "ULTR",
+      "description" : "The Science Patrol is summoned to an island where a research team has been reported as missing. The rescue effort is hindered when it is revealed that the island is crawling with monsters.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "CHMP10" : {
+      "path" : "..\/Champions, The\/The Champions 10 - The Ghost Plane.mp4",
+      "title" : "The Ghost Plane",
+      "series_id" : "CHMP",
+      "description" : "Several American military aircraft have been attacked in the East by 'the Ghost Plane', believed to belong to the Chinese and which flies at an almost impossible speed.",
+      "year" : 1968,
+      "duration" : 2899
+    },
+    "DWHO07614" : {
+      "path" : "..\/Doctor Who\/Dr. Who 076 - The Ark In Space 4.m4v",
+      "title" : "The Ark in Space (part 4)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor tries to protect the humans still in cryogenic suspension from the Wirrn, who are determined to use Earth as their new breeding ground.",
+      "year" : 1975,
+      "duration" : 1493
+    },
+    "CHMP07" : {
+      "path" : "..\/Champions, The\/The Champions 07 - The Survivors.mp4",
+      "title" : "The Survivors",
+      "series_id" : "CHMP",
+      "description" : "The murder of three students in their tent by a lake in Austria is the latest unsolved case of homicide in the last fifteen years in that area and the Champions investigate.",
+      "year" : 1968,
+      "duration" : 2910
+    },
+    "FWLT02" : {
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 02 The Builders.mp4",
+      "title" : "The Builders",
+      "series_id" : "FWLT",
+      "description" : "Over his wife's objections, Basil hires his usual firm of incompetents to do some carpentry work in the hotel lobby.",
+      "year" : 1975,
+      "duration" : 1695
+    },
+    "79436602" : {
+      "series_id" : "UFOT",
+      "order" : 24,
+      "title" : "Reflections in the Water",
+      "duration" : 2972,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 24 Reflections In The Water.m4v",
+      "description" : ""
+    },
+    "CHMP09" : {
+      "path" : "..\/Champions, The\/The Champions 09 - The Iron Man.mp4",
+      "title" : "The Iron Man",
+      "series_id" : "CHMP",
+      "description" : "The Champions are required to prevent an assassination attempt on the life of the vain, womanizing El Caudillo,who is known as the Iron Man, former ruler of South American pocket state La Revada, now in exile in the south of France.",
+      "year" : 1968,
+      "duration" : 2909
+    },
+    "AHCP010" : {
+      "series_id" : "AHCP",
+      "order" : 10,
+      "title" : "The Case of Mr. Pelham",
+      "duration" : 1529,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 010 - The Case of Mr. Pelham.m4v",
+      "description" : "A series of troubling incidents lead Mr. Pelham to believe that he has a double who is deliberately impersonating him."
+    },
+    "TWZN010" : {
+      "series_id" : "TWZN",
+      "order" : 10,
+      "title" : "Judgement Night",
+      "duration" : 1509,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 010 Judgement Night.mp4",
+      "description" : "It's 1942, and a man finds himself on a ship in the Atlantic, not knowing who he is, nor how he got there. He does know the ship will soon be attacked by a German U-boat."
+    },
+    "HONW10" : {
+      "series_id" : "HONW",
+      "order" : 10,
+      "title" : "A Neat Little Package",
+      "duration" : 1519,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 10.mp4",
+      "description" : "Honey and Sam are hired by a newsdealer with amnesia and $150,000 that he doesn't know how it came into his possession."
+    },
+    "AHCP006" : {
+      "series_id" : "AHCP",
+      "order" : 6,
+      "title" : "Salvage",
+      "duration" : 1541,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 006 - Salvage.m4v",
+      "description" : "Gangster Dan Varrell, just released from prison, goes looking for the woman he holds responsible for his brother's death."
+    },
+    "SPRA06" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 06 The Secret Engine (part 2).mp4",
+      "title" : "The Secret Engine - Part 2",
+      "series_id" : "SPRA",
+      "description" : "Speed leads Blaggard's men to the treasure but manages to alert his family and Trixie. The stage is set for a great battle.",
+      "year" : 1967,
+      "duration" : 1480
+    },
+    "AHCP007" : {
+      "series_id" : "AHCP",
+      "order" : 7,
+      "title" : "Breakdown",
+      "duration" : 1555,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 007 - Breakdown.m4v",
+      "description" : "William Callew is involved in a bad traffic accident on a rural road, that leaves him so paralyzed he appears lifeless, and when help arrives they think he's really dead."
+    },
+    "TWZN006" : {
+      "series_id" : "TWZN",
+      "order" : 6,
+      "title" : "Escape Clause",
+      "duration" : 1495,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 006 Escape Clause.mp4",
+      "description" : "A hypochondriac man sells his soul to the devil, exchanging it for several thousand years of immortality."
+    },
+    "AHCP008" : {
+      "series_id" : "AHCP",
+      "order" : 8,
+      "title" : "Our Cook's a Treasure",
+      "duration" : 1543,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 008 - Our Cook's A Treasure.m4v",
+      "description" : "A serial-murderess maid is on the loose in the city. Ralph becomes suspicious of his wife Ethel's housemaid Mrs. Sutton."
+    },
+    "HONW07" : {
+      "series_id" : "HONW",
+      "order" : 7,
+      "title" : "The Princess and the Paupers",
+      "duration" : 1508,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 07 - The Princess and the Paupers.mp4",
+      "description" : "Honey and Sam are hired to ensure that ransom money is delivered and the kidnap victim, a rock-'n'-roll singing son of a millionaire businessman, is returned safely. Honey soon suspects that the kidnapping was faked, either as a publicity stunt or so the young man could lay his hands on some easy cash."
+    },
+    "AHCP009" : {
+      "series_id" : "AHCP",
+      "order" : 9,
+      "title" : "The Long Shot",
+      "duration" : 1561,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 009 - The Long Shot.m4v",
+      "description" : "Heavily indebted Charlie Raymond is hired to accompany a British visitor on a trip across the USA, and looks for a way to take advantage of his employer."
+    },
+    "TWZN008" : {
+      "series_id" : "TWZN",
+      "order" : 8,
+      "title" : "Time Enough at Last",
+      "duration" : 1503,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 008 Time Enough at Last.mp4",
+      "description" : "A henpecked book lover finds himself blissfully alone with his books after a nuclear war."
+    },
+    "HONW09" : {
+      "series_id" : "HONW",
+      "order" : 9,
+      "title" : "The Flame and the Pussycat",
+      "duration" : 1528,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 09.mp4",
+      "description" : "Honey and Sam attempt to capture an arsonist in order to earn a lucrative contract with a warehouse company backfires when they accidentally interfere with the police investigation."
+    },
+    "TWZN007" : {
+      "series_id" : "TWZN",
+      "order" : 7,
+      "title" : "The Lonely",
+      "duration" : 1575,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 007 The Lonely.mp4.m4v",
+      "description" : "A convict, living alone on an asteroid, receives from the police a realistic woman-robot."
+    },
+    "SPRA08" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 08 The Race against the Mammoth Car (part 2).mp4",
+      "title" : "The Race against the Mammoth Car - Part 2",
+      "series_id" : "SPRA",
+      "description" : "Speed and Trixie survive the Mammoth Car, but it continues its mysterious journey even beyond the racetrack. What is its secret?",
+      "year" : 1967,
+      "duration" : 1422
+    },
+    "LISP06" : {
+      "series_id" : "LISP",
+      "order" : 6,
+      "title" : "Welcome Stranger",
+      "duration" : 3086,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 06 Welcome Stranger.m4v",
+      "description" : "The Robinsons meet a fellow Earth explorer who is also lost in space. They help him repair his ship and ask him to take Will and Penny home."
+    },
+    "LISP08" : {
+      "series_id" : "LISP",
+      "order" : 8,
+      "title" : "Invaders From the Fifth Dimension",
+      "duration" : 3090,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 08 Invaders From the Fifth Dimension.m4v",
+      "description" : "Macabre aliens — quite literally talking heads — need a humanoid brain to replace a worn out computer in their spaceship. They capture Smith, but quickly realize that his brain is unsatisfactory. The aliens release Smith so that he can bring them somebody more suitable: a small Robinson."
+    },
+    "LOTL02" : {
+      "path" : "..\/Land of the Lost\/Land of the Lost - 02 The Sleestak God.mp4",
+      "title" : "The Sleestak God",
+      "series_id" : "LOTL",
+      "description" : "While searching the Lost City, Will and Holly are captured by lizard-men which are known as Sleestak.",
+      "year" : 1974,
+      "duration" : 1390
+    },
+    "273088BE" : {
+      "series_id" : "TWZN",
+      "order" : 9,
+      "title" : "Perchance to Dream",
+      "duration" : 1558,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 009 Perchance to Dream.m4v",
+      "description" : "A fatigued man fights to stay awake as he explains to a psychiatrist that if he falls asleep it will trigger a nightmare, which will cause his heart to fail."
+    },
+    "DNMN02" : {
+      "path" : "..\/Danger Man\/Danger Man 02.m4v",
+      "title" : "The Professionals",
+      "series_id" : "DNMN",
+      "description" : "An important M9 agent has gone missing in Prague, and Drake's sent in as a British diplomat to find him. It appears a blackmail ring is operating, and soon, Drake has to rescue the agent, and his family, from death.",
+      "year" : 1965,
+      "duration" : 3091
+    },
+    "SOKO06" : {
+      "series_id" : "SOKO",
+      "order" : 6,
+      "title" : "Dragon: The Ninja Monster",
+      "duration" : 1441,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 06 - Dragon, The Ninja Monster.m4v",
+      "description" : "A monster called Dorogon swallows a jet plane of the Commonwealth of Sordia when it is flying and an atomic submarine of Furenkov Republic when it is under the sea."
+    },
+    "SOKO08" : {
+      "series_id" : "SOKO",
+      "order" : 8,
+      "title" : "The Challenge of the Two-Headed Monster",
+      "duration" : 1508,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 08.m4v",
+      "description" : "Daisaku and Minami happen to help a one-eyes man BF members are chasing. According to the man's story, they are trying to kill him as a traitor because he became frightened by the inhumanity of the syndicate and quit it."
+    },
+    "ULTR10" : {
+      "path" : "..\/Ultraman\/Ultraman 10.mp4",
+      "title" : "The Mysterious Dinosaur Base",
+      "series_id" : "ULTR",
+      "description" : "The SSSP investigate anomalies at Kitayama lake, encountering a mysterious professor and his monster Jirahs.",
+      "year" : 1966,
+      "duration" : 1516
+    },
+    "DWHO0762" : {
+      "path" : "..\/Doctor Who\/Dr. Who 076 - The Ark In Space 2.m4v",
+      "title" : "The Ark in Space (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and Harry revive the Ark's medtech, Vira, to help Sarah.But when station commander Noah is revived, he becomes suspicious of the newcomers.",
+      "year" : 1975,
+      "duration" : 1494
+    },
+    "ULTR07" : {
+      "path" : "..\/Ultraman\/Ultraman 07.mp4",
+      "title" : "The Blue Stone of Baradhi",
+      "series_id" : "ULTR",
+      "description" : "The Science Patrol heads to Turkey to investigate tales of a village that has disappeared. What they find is a giant ant-like monster who is familiar with Ultraman.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "NIGA01" : {
+      "series_id" : "NIGA",
+      "order" : 1,
+      "title" : "The Dead Man, The Housekeeper",
+      "duration" : 3048,
+      "year" : 1970,
+      "path" : "..\/Night Gallery\/Night Gallery - 01 The Dead Man, The Housekeeper.m4v",
+      "description" : ""
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "08:00",
+        "resource_id" : "KNFU01"
+      },
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DNMN02"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PRSN02"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0762"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW06"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP06"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP006"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA06"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR06"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO06"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP05"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FWLT02"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN006"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0763"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW07"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP07"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP007"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA07"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR07"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO07"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP06"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON102"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN007"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO07614"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW08"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP08"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP008"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA08"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR08"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO08"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP07"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN008"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0771"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW09"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP09"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP009"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA09"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR09"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO09"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP08"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199924"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "273088BE"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0772"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW10"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP10"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP010"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA10"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR10"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "79436602"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "SRVR02"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN010"
+      },
+      {
+        "start_time" : "22:30",
+        "resource_id" : "NIGA01"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "CSCR02"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "JOQU02"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "LOTL02"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ZATO18" : {
+      "series_id" : "ZATO",
+      "order" : 18,
+      "title" : "Zatoichi and the Fugitives",
+      "duration" : 4941,
+      "year" : 1968,
+      "path" : "..\/Samurai\/Zatoichi 18 - Zatoichi and the Fugitives (1968).m4v",
+      "description" : ""
+    },
+    "SBTD1948" : {
+      "path" : "..\/1940's Classics\/Secret Beyond the Door (1948).mp4",
+      "title" : "Secret Beyond the Door",
+      "description" : "",
+      "year" : 1948,
+      "duration" : 5945
+    },
+    "199915" : {
+      "path" : "..\/Space 1999\/Space 1999 - 15 The Full Circle.mp4",
+      "title" : "The Full Circle",
+      "series_id" : "1999",
+      "order" : 15,
+      "year" : 1975,
+      "duration" : 3139
+    },
+    "B71D9B51" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 203 Bachelor at Large.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 203 Bachelor at Large"
+    },
+    "D4D945AF" : {
+      "series_id" : "UFOT",
+      "order" : 15,
+      "title" : "Flight Path",
+      "duration" : 2974,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 15 Flight Path.m4v",
+      "description" : ""
+    },
+    "5861F968" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 204 Beaver Joins a Record Club.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 204 Beaver Joins a Record Club"
+    },
+    "D5AFD06B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 205 Wally's Car Accident.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 205 Wally's Car Accident"
+    },
+    "74592C3E" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 201 Eddie, the Businessman.m4v",
+      "duration" : 1545,
+      "title" : "Leave it to Beaver - 201 Eddie, the Businessman"
+    },
+    "7F88E186" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 202 Tell It to Ella.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 202 Tell It to Ella"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO18"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "74592C3E"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SBTD1948"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7F88E186"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "B71D9B51"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "5861F968"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199915"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "D5AFD06B"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "D4D945AF"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

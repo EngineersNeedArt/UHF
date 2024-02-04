@@ -1,0 +1,719 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "CHMP11" : {
+      "path" : "..\/Champions, The\/The Champions 11 - The Dark Island.mp4",
+      "title" : "The Dark Island",
+      "series_id" : "CHMP",
+      "description" : "An American submarine crew find a rocket launcher on a small Pacific island and are attacked by Oriental soldiers.",
+      "year" : 1968,
+      "duration" : 2910
+    },
+    "CHMP13" : {
+      "path" : "..\/Champions, The\/The Champions 13 - Twelve Hours.mp4",
+      "title" : "Twelve Hours",
+      "series_id" : "CHMP",
+      "description" : "Sharron and Richard are acting as bodyguards to visiting Eastern European president Drobnic and his wife and travel to Holy Loch in Scotland to inspect the submarine HMS Weatherby.",
+      "year" : 1968,
+      "duration" : 2899
+    },
+    "CHMP15" : {
+      "path" : "..\/Champions, The\/The Champions 15 - The Gilded Cage.mp4",
+      "title" : "The Gilded Cage",
+      "series_id" : "CHMP",
+      "description" : "After his file is stolen from the Nemesis headquarters Richard is abducted from his flat in Geneva, rolled up in a carpet and bundled into a van.",
+      "year" : 1969,
+      "duration" : 2917
+    },
+    "FWLT03" : {
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 03 The Wedding Party.mp4",
+      "title" : "The Wedding Party",
+      "series_id" : "FWLT",
+      "description" : "Basil Fawlty's puritanical streak comes out when a young couple he suspects of not being married tries to book a double room.",
+      "year" : 1975,
+      "duration" : 2001
+    },
+    "DWHO0781" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 1.mp4",
+      "title" : "Genesis of the Daleks (part 1)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and his companions are sent to the planet Skaro by the Time Lords to prevent the creation of the Daleks.",
+      "year" : 1975,
+      "duration" : 1471
+    },
+    "SPRA12" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 12 Race for Revenge (part 1).mp4",
+      "title" : "Race for Revenge (part 1)",
+      "series_id" : "SPRA",
+      "description" : "The son of murdered racecar driver Flash Marker seeks revenge on the rival drivers who killed him.",
+      "year" : 1967,
+      "duration" : 1447
+    },
+    "DWHO0782" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 2.mp4",
+      "title" : "Genesis of the Daleks (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and Harry are taken to the Kaled bunker where Davros is preparing to demonstrate the Daleks, while Sarah is captured by the Thals and taken to their city as a slave worker.",
+      "year" : 1975,
+      "duration" : 1494
+    },
+    "SPRA14" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 14 The Desperate Desert Race (part 1).mp4",
+      "title" : "The Desperate Desert Race (part 1)",
+      "series_id" : "SPRA",
+      "description" : "Speed is forced into a duel-race in the desert with Prince Kim Jugger, the wildest driver in the world.",
+      "year" : 1967,
+      "duration" : 1467
+    },
+    "HONW11" : {
+      "series_id" : "HONW",
+      "order" : 11,
+      "title" : "A Stitch in Crime",
+      "duration" : 1530,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 11.mp4",
+      "description" : "Honey and Sam are hired to deliver gowns valued at over $100,000 to a fashion show. When their cargo is hijacked, the detectives race to recover the garments before the program or else their employer, a new dress designer, will be ruined."
+    },
+    "DWHO0783" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 3.mp4",
+      "title" : "Genesis of the Daleks (part 3)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and Harry head to the Kaled city to alert the authorities to Davros' plans while Sarah and Sevrin are forced to work on the completion of the Thals' rocket.",
+      "year" : 1975,
+      "duration" : 1360
+    },
+    "HONW13" : {
+      "series_id" : "HONW",
+      "order" : 13,
+      "title" : "The Gray Lady",
+      "duration" : 1529,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 13.mp4",
+      "description" : "Honey tries to apprehend a jewel thief who stole a famous actress' gems while she was attending her movie's premier."
+    },
+    "DWHO0784" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 4.mp4",
+      "title" : "Genesis of the Daleks (part 4)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor fails to prevent the Thals from destroying the Kaled city but they don't have long to enjoy their victory before the Daleks attack.",
+      "year" : 1975,
+      "duration" : 1421
+    },
+    "2C6BF354-F082-4561-9FCE-B140077A4C08" : {
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 010 - The Case of Mr. Pelham.m4v",
+      "duration" : 1529,
+      "title" : "Alfred Hitchcock Presents 010 - The Case of Mr. Pelham"
+    },
+    "ZATV03" : {
+      "path" : "..\/Zatoichi TV Series\/Tales Of Zatoichi 03.m4v",
+      "title" : "A Memorial Day and the Bell of Life",
+      "series_id" : "ZATV",
+      "description" : "Due to an event in his past, Zatoichi won't draw his sword on a certain day every year. That day has arrived. His enemies, however, have no such restriction. Now he must try to survive the day.",
+      "year" : 1974,
+      "duration" : 2836
+    },
+    "DWHO0785" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 5.mp4",
+      "title" : "Genesis of the Daleks (part 5)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor is forced to give Davros full details of future Dalek victories but opposition to Davros' plans is growing among the Kaleds and soon there is open rebellion.",
+      "year" : 1975,
+      "duration" : 1409
+    },
+    "LISP10" : {
+      "series_id" : "LISP",
+      "order" : 10,
+      "title" : "The Sky Is Falling",
+      "duration" : 3087,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 10 The Sky is Falling.mp4",
+      "description" : "A small, crab-like robot heralds the arrival of a family of colonists from an alien race called the Taurons. John believes that they are peaceful settlers, but Smith insists that they are the vanguard of an invading army."
+    },
+    "HONW15" : {
+      "series_id" : "HONW",
+      "order" : 15,
+      "title" : "Rockabye the Hard Way",
+      "duration" : 1528,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 15.mp4",
+      "description" : "Honey and Sam are hired to prove that a truck driver isn't a security risk and in the process tangle with spies who drug drivers driving secret weapons so they can take photographs while their victims are unconscious."
+    },
+    "LISP12" : {
+      "series_id" : "LISP",
+      "order" : 12,
+      "title" : "The Raft",
+      "duration" : 3093,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 12 The Raft.m4v",
+      "description" : "Will's message-in-a-bottle experiments deplete the supply of fuel for the Jupiter 2. John and Don work on an alternate fuel source, but they cannot stabilize the output. Deciding to build a smaller, 2-man craft, they pull the reactor chamber out and use Will's experiments to construct a space raft."
+    },
+    "SOKO12" : {
+      "series_id" : "SOKO",
+      "order" : 12,
+      "title" : "Amberon: The Synthetic Monster",
+      "duration" : 1509,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 12.m4v",
+      "description" : "Unicorn members locate the secret headquarters of the Japanese Branch of BF Syndicate. They attack the house and arrest Dr. Over by taking his blue star-shaped metal on his chest, the source of his magical power."
+    },
+    "DNMN03" : {
+      "path" : "..\/Danger Man\/Danger Man 03.m4v",
+      "title" : "Colony Three",
+      "series_id" : "DNMN",
+      "description" : "Drake takes the place of a defector and goes behind the iron curtain to find out what is happening when foreign agents reach England.",
+      "year" : 1965,
+      "duration" : 3048
+    },
+    "SOKO14" : {
+      "series_id" : "SOKO",
+      "order" : 14,
+      "title" : "The Monstrous Flying Jawbone",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 14.m4v",
+      "description" : "The office of Unicorn Chinese Branch is attacked by tank corps led by Red Cobra. Chang, its head, asks the help of the Japanese Branch. Azuma, Daisaku and Minami fly there on Giant Robo's back."
+    },
+    "ULTR11" : {
+      "path" : "..\/Ultraman\/Ultraman 11.mp4",
+      "title" : "The Rascal from Outer Space",
+      "series_id" : "ULTR",
+      "description" : "A meteorite that falls to Earth gives anyone who controls it the power to make their thoughts become reality. A man who steals the meteorite wants to create a monster in order to control the world.",
+      "year" : 1966,
+      "duration" : 1519
+    },
+    "BSG103" : {
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 03 - Lost Planet of the Gods (part 2).m4v",
+      "title" : "Lost Planet of the Gods (part 2)",
+      "series_id" : "BSG1",
+      "description" : "",
+      "duration" : 2917
+    },
+    "ULTR13" : {
+      "path" : "..\/Ultraman\/Ultraman 13.mp4",
+      "title" : "Oil S.O.S.",
+      "series_id" : "ULTR",
+      "description" : "A giant bat-like monster travels the planet eating the world's oil.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "ULTR15" : {
+      "path" : "..\/Ultraman\/Ultraman 15.mp4",
+      "title" : "Terrifying Cosmic Rays",
+      "series_id" : "ULTR",
+      "description" : "Mysterious space rays transform a child's two-dimensional drawing into a three-dimensional monster, who would rather sleep than fight.",
+      "year" : 1966,
+      "duration" : 1517
+    },
+    "NIGA02" : {
+      "path" : "..\/Night Gallery\/Night Gallery - 02 Room With a View, Little Black Bag, The Nature of the Enemy.m4v",
+      "title" : "Room With a View, Little Black Bag, The Nature of the Enemy",
+      "series_id" : "NIGA",
+      "description" : "",
+      "year" : 1970,
+      "duration" : 3046
+    },
+    "CHMP12" : {
+      "path" : "..\/Champions, The\/The Champions 12 - The Fanatics.mp4",
+      "title" : "The Fanatics",
+      "series_id" : "CHMP",
+      "description" : "The assassination of a Middle Eastern dignitary in London is the latest in a series of attacks on high-profile figures conducted by a group known as the Fanatics.",
+      "year" : 1968,
+      "duration" : 2929
+    },
+    "CHMP14" : {
+      "path" : "..\/Champions, The\/The Champions 14 - The Search.mp4",
+      "title" : "The Search",
+      "series_id" : "CHMP",
+      "description" : "At Holy Loch in Scotland a team of Nazi frogmen infiltrate a nuclear submarine, overpowering its crew.",
+      "year" : 1969,
+      "duration" : 2914
+    },
+    "SRVR03" : {
+      "path" : "..\/Survivors\/Survivors 03 - Gone Away.m4v",
+      "title" : "Gone Away",
+      "series_id" : "SRVR",
+      "description" : "Abby, Jenny and Greg drive to the nearest large supermarket to stock up on food. While there, they come up against some armed men who are working on Wormley's behalf.",
+      "duration" : 2957
+    },
+    "PRSN03" : {
+      "path" : "..\/Prisoner, The\/Prisoner, The 03 - A, B, and C.m4v",
+      "title" : "A. B. and C.",
+      "series_id" : "PRSN",
+      "description" : "Number Two believes that Number Six resigned because he was going to sell out. Using dream manipulation, Number Two tries to determine which one of three possible candidates Number Six was dealing with.",
+      "year" : 1967,
+      "duration" : 3033
+    },
+    "AHCP011" : {
+      "series_id" : "AHCP",
+      "order" : 11,
+      "title" : "Guilty Witness",
+      "duration" : 1561,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 011 - Guilty Witness.m4v",
+      "description" : "When Mr. and Mrs. Crane hear the Verbers having a violent argument in the apartment just above them, and then Mr. Verber disappears the next day, they can't help suspecting the worst."
+    },
+    "SPRA11" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 11 The Most Dangerous Race (part 3).mp4",
+      "title" : "The Most Dangerous Race (part 3)",
+      "series_id" : "SPRA",
+      "description" : "It's the final lap of the Alpine Race, but Speed Racer is blinded and Racer X's legs are broken. How can they go on?",
+      "year" : 1967,
+      "duration" : 1392
+    },
+    "AHCP012" : {
+      "series_id" : "AHCP",
+      "order" : 12,
+      "title" : "Santa Claus and the 10th Avenue Kid",
+      "duration" : 1550,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 012 - Santa Claus And The 10th Avenue Kid.m4v",
+      "description" : "While working as a department store Santa Claus, a paroled convict tries to help a troubled boy."
+    },
+    "TWZN011" : {
+      "series_id" : "TWZN",
+      "order" : 11,
+      "title" : "And When the Sky Was Opened",
+      "duration" : 1493,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 011 And When the Sky Was Opened.mp4",
+      "description" : "Three astronauts return to Earth after seemingly having made an encounter that dooms them and their craft to erasure from existence itself."
+    },
+    "AHCP013" : {
+      "series_id" : "AHCP",
+      "order" : 13,
+      "title" : "The Cheney Vase",
+      "duration" : 1527,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 013 - The Cheney Vase.m4v",
+      "description" : "When Lyle Endicott is fired from his job at an art museum, he comes up with a plan to take advantage of a trusting invalid whom he befriended at the museum."
+    },
+    "TWZN012" : {
+      "series_id" : "TWZN",
+      "order" : 12,
+      "title" : "What You Need",
+      "duration" : 1498,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 012 What You Need.mp4",
+      "description" : "A small time crook plans to exploit an old street peddler who has the uncanny knack of selling people exactly what they will shortly need."
+    },
+    "TWZN013" : {
+      "series_id" : "TWZN",
+      "order" : 13,
+      "title" : "The Four of Us Are Dying",
+      "duration" : 1502,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 013 The Four Of Us Are Dying.mp4",
+      "description" : "A man who can change his face to look like other people uses his ability to improve his life, regardless of his effect on others."
+    },
+    "SPRA15" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 15 The Desperate Desert Race (part 2).mp4",
+      "title" : "The Desperate Desert Race (part 2)",
+      "series_id" : "SPRA",
+      "description" : "Speed and Kim team up together to save Kim's country of Flathill from being taken over by criminal revolutionaries.",
+      "year" : 1967,
+      "duration" : 1485
+    },
+    "TWZN014" : {
+      "series_id" : "TWZN",
+      "order" : 14,
+      "title" : "Third from the Sun",
+      "duration" : 1509,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 014 Third From the Sun.mp4",
+      "description" : "Two families of Government employees plan to steal a spaceship and travel to another planet just prior to a nuclear war. They must also deal with a stooge who wants to stop them."
+    },
+    "AHCP015" : {
+      "series_id" : "AHCP",
+      "order" : 15,
+      "title" : "The Big Switch",
+      "duration" : 1559,
+      "year" : 1956,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 015 - The Big Switch.m4v",
+      "description" : "Gangster Sam Dunleavy sets up an elaborate alibi so that he can kill his ex-girlfriend Goldie, who left him for another man."
+    },
+    "HONW14" : {
+      "series_id" : "HONW",
+      "order" : 14,
+      "title" : "Invitation to Limbo",
+      "duration" : 1528,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 14.mp4",
+      "description" : "Honey and Sam are hired to find the person leaking industrial secrets to a company's competitors. They catch the culprit red-handed, but are soon convinced that he's an unwilling stooge employed by others and seek to capture the entire gang."
+    },
+    "AHCP014" : {
+      "series_id" : "AHCP",
+      "order" : 14,
+      "title" : "A Bullet for Baldwin",
+      "duration" : 1530,
+      "year" : 1956,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 014 - A Bullet For Baldwin.m4v",
+      "description" : "When an office worker is fired from his job, he shoots his boss to death, but when he returns to the office his boss is alive, and has no recollection of the incident."
+    },
+    "HONW12" : {
+      "series_id" : "HONW",
+      "order" : 12,
+      "title" : "A Million Bucks in Anybody's Language",
+      "duration" : 1527,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 12.mp4",
+      "description" : "Honey investigates the death of a fellow private investigator found dead in an explosion. The trail leads to a set of counterfeit plates to be used to print phony British pounds."
+    },
+    "TWZN015" : {
+      "series_id" : "TWZN",
+      "order" : 15,
+      "title" : "I Shot an Arrow into the Air",
+      "duration" : 1485,
+      "year" : 1960,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 015 I Shot An Arrow Into the Air.mp4",
+      "description" : "Order breaks down between three surviving crewmen whose rocket ship crashes on an unknown world with limited water and supplies."
+    },
+    "SPRA13" : {
+      "path" : "..\/Speed Racer\/Speed Racer - 13 Race for Revenge (part 2).mp4",
+      "title" : "Race for Revenge (part 2)",
+      "series_id" : "SPRA",
+      "description" : "Speed and Trixie try to stop Flash Jr from carrying out his vengeance, but he swears to eliminate them for interfering.",
+      "year" : 1967,
+      "duration" : 1483
+    },
+    "LISP11" : {
+      "series_id" : "LISP",
+      "order" : 11,
+      "title" : "Wish Upon A Star",
+      "duration" : 3095,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 11 Wish Upon a Star.m4v",
+      "description" : "Will and Dr. Smith come upon an alien machine that grants wishes, which tests the values of the Robinson group."
+    },
+    "CON103" : {
+      "path" : "..\/Connections 1\/Connections 03 Distant Voices.mp4",
+      "title" : "Distant Voices",
+      "series_id" : "CON1",
+      "description" : "Follow the connections from the battle of Hastings in 1066, through the use of gunpowder, the invention of cannon, water pumps, barometers, the telephone, and radio telescopes.",
+      "year" : 1978,
+      "duration" : 3017
+    },
+    "LISP13" : {
+      "series_id" : "LISP",
+      "order" : 13,
+      "title" : "One of Our Dogs is Missing",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 13 One of Our Dogs Is Missing.m4v",
+      "description" : "With the men off on a mission, the Robinson women must deal with an alien intruder."
+    },
+    "CADF003" : {
+      "path" : "..\/Cadfael\/Cadfael - The Leper Of St. Giles.m4v",
+      "title" : "The Leper of St. Giles",
+      "series_id" : "CADF",
+      "description" : "When a cruel middle-aged baron and a beautiful wealthy orphan are to be wed at the abbey, it comes as no surprise when the sadistic nobleman is found strangled to death.",
+      "year" : 1994,
+      "duration" : 4521
+    },
+    "SOKO11" : {
+      "series_id" : "SOKO",
+      "order" : 11,
+      "title" : "The Terrifying Sand Creature",
+      "duration" : 1508,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 11.m4v",
+      "description" : "The underground office of the South Pole Unicorn Branch is buried in red sand which suddenly started to gush out in the ice field. As the communications are cut off, Azuma sends Daisaku and Ninami there to see what happened."
+    },
+    "SOKO13" : {
+      "series_id" : "SOKO",
+      "order" : 13,
+      "title" : "Opticorn Must Be Destroyed",
+      "duration" : 1503,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 13.m4v",
+      "description" : "There is a small quiet Allah Republic at the foot of the Alps. The only product of this beautiful country is gold. Her peace is broken when a vein of new ores is found in a gold mine."
+    },
+    "ULTR12" : {
+      "path" : "..\/Ultraman\/Ultraman 12.mp4",
+      "title" : "Cry of the Mummy",
+      "series_id" : "ULTR",
+      "description" : "Scientists uncover a 10,000 year old mummy, who is not as dead as it appears. The mummy also has an unexplained connection to a giant dragon.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "F93BE785-832A-4A80-876F-C9A8367B8FE5" : {
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 009 - The Long Shot.m4v",
+      "duration" : 1561,
+      "title" : "Alfred Hitchcock Presents 009 - The Long Shot"
+    },
+    "ULTR14" : {
+      "path" : "..\/Ultraman\/Ultraman 14.mp4",
+      "title" : "The Pearl Defense Directive",
+      "series_id" : "ULTR",
+      "description" : "A pearl-eating monster wreaks havoc on world pearl prices, much to Fuji's consternation.",
+      "year" : 1966,
+      "duration" : 1518
+    },
+    "KNFU02" : {
+      "series_id" : "KNFU",
+      "order" : 2,
+      "title" : "Dark Angel",
+      "duration" : 3062,
+      "year" : 1972,
+      "path" : "..\/Kung Fu\/Kung Fu 03.m4v",
+      "description" : "Lordsville preacher Serenity Johnson is literally blinded by greed, while Caine locates his paternal grandfather, who has lived a bitter life blinded by prejudice."
+    },
+    "E34B52D2" : {
+      "series_id" : "UFOT",
+      "order" : 25,
+      "title" : "The Responsibility Seat",
+      "duration" : 2971,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 25 The Responsibility Seat.m4v",
+      "description" : ""
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "08:00",
+        "resource_id" : "KNFU02"
+      },
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DNMN03"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PRSN03"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "ZATV03"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0781"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW11"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP11"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP011"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA11"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR11"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO11"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP10"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FWLT03"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "CADF003"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN011"
+      },
+      {
+        "start_time" : "22:30",
+        "resource_id" : "F93BE785-832A-4A80-876F-C9A8367B8FE5"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0782"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW12"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP12"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP012"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA12"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR12"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO12"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP11"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON103"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN012"
+      },
+      {
+        "start_time" : "22:30",
+        "resource_id" : "2C6BF354-F082-4561-9FCE-B140077A4C08"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0783"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW13"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP13"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP013"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA13"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR13"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO13"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP12"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN013"
+      },
+      {
+        "start_time" : "22:30",
+        "resource_id" : "AHCP011"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0784"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW14"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP14"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP014"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA14"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR14"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "SOKO14"
+      },
+      {
+        "start_time" : "17:00",
+        "resource_id" : "LISP13"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "BSG103"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN014"
+      },
+      {
+        "start_time" : "22:30",
+        "resource_id" : "AHCP012"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "DWHO0785"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "HONW15"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "CHMP15"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "AHCP015"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "SPRA15"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR15"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "E34B52D2"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "SRVR03"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN015"
+      },
+      {
+        "start_time" : "22:30",
+        "resource_id" : "NIGA02"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "LITB077" : {
+      "series_id" : "LITB",
+      "order" : 77,
+      "title" : "Found Money",
+      "duration" : 1553,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 077 Found Money.mp4",
+      "description" : "Beaver isn't worried that he doesn't have any money to spend at the carnival after his best friend Larry Mondello promises to pay the way. But conniving Larry has spent all of his allowance too and, sneaking money from his mother's sewing basket, throws it out the window and arranges to have Beaver \"find\" it."
+    },
+    "LITB078" : {
+      "series_id" : "LITB",
+      "order" : 78,
+      "title" : "Most Interesting Character",
+      "duration" : 1557,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 078 Most Interesting Character.mp4",
+      "description" : "Beaver has to write a school paper about the most interesting character he has ever met. He decides to make it about Ward, but has a hard time deciding what to write."
+    },
+    "LDCB1943" : {
+      "path" : "..\/1940's Classics\/Life and Death of Colonel Blimp, The (1943).mp4",
+      "title" : "The Life and Death of Colonel Blimp",
+      "description" : "",
+      "year" : 1943,
+      "duration" : 9831
+    },
+    "GRAP1940" : {
+      "path" : "..\/AFI 100\/Grapes of Wrath, The (1940).m4v",
+      "title" : "The Grapes of Wrath",
+      "description" : "",
+      "year" : 1940,
+      "duration" : 7748
+    },
+    "LITB079" : {
+      "series_id" : "LITB",
+      "order" : 79,
+      "title" : "Blind Date Committee",
+      "duration" : 1560,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 079 Blind Date Committee.m4v",
+      "description" : "Wally is chairman of the Blind Date Committee for a dance and has to find dates for people. One girl is especially hard to find a date for."
+    },
+    "SOKO16" : {
+      "series_id" : "SOKO",
+      "order" : 16,
+      "title" : "Torozon: An Enemy Robot",
+      "duration" : 1507,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 16.m4v",
+      "description" : "Beginning with the Swiss Branchg, the Unicorn branch headquarters are mysteriously destroyed one after another. Rome, Cairo, Bombay, Singapore, Hong Kong, then Tapai. It is easy to guess that Tokyo will be next."
+    },
+    "ULTR31" : {
+      "series_id" : "ULTR",
+      "order" : 31,
+      "title" : "Who Goes There?",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 31.mp4",
+      "description" : "A Science Patrol member from South America who was born in Japan makes a return visit. Bringing with him a sample of a man-eating plant."
+    },
+    "UFOT16" : {
+      "series_id" : "UFOT",
+      "order" : 16,
+      "title" : "The Man Who Came Back",
+      "duration" : 2963,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 16 The Man Who Came Back.m4v",
+      "description" : ""
+    },
+    "SPRA32" : {
+      "series_id" : "SPRA",
+      "order" : 32,
+      "title" : "Gang of Assassins (part 1)",
+      "duration" : 1430,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 32 Gang of Assassins (part 1).mp4",
+      "description" : "While sightseeing in Japan, the Mach 5 team crosses paths with a gang of assassins who are out to sabotage an international peace conference."
+    },
+    "TGBU1966" : {
+      "path" : "..\/Westerns\/Good, the Bad and the Ugly, The (1966).m4v",
+      "title" : "The Good, the Bad and the Ugly",
+      "description" : "",
+      "year" : 1966,
+      "duration" : 10717
+    },
+    "ULTR15J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 15 Terrifying Cosmic Rays.mp4",
+      "title" : "Terrifying Cosmic Rays",
+      "series_id" : "ULTR",
+      "order" : 15,
+      "duration" : 1520
+    },
+    "DAIM2" : {
+      "series_id" : "DAIM",
+      "order" : 2,
+      "title" : "Return of Daimajin",
+      "duration" : 4746,
+      "year" : 1966,
+      "path" : "..\/Kaiju (Giant Monsters)\/Daimajin, Return of (#2, 1966).m4v",
+      "description" : ""
+    },
+    "LITB080" : {
+      "series_id" : "LITB",
+      "order" : 80,
+      "title" : "Beaver Takes a Bath",
+      "duration" : 1503,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 080 Beaver Takes a Bath.m4v",
+      "description" : "When the babysitter cancels at the last minute, Ward and June leave Wally in charge while they are out of town overnight. They have a bathroom mishap in the new house when Beaver takes a bath."
+    },
+    "DRHI16" : {
+      "series_id" : "DRHI",
+      "order" : 16,
+      "title" : "Philadelphia",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 16 Philadelphia.m4v",
+      "description" : "Baron von Steuben helps train the Continental Army, John Adams and Thomas Jefferson campaign against each other for president, and Benedict Arnold betrays George Washington's army."
+    },
+    "POIR04" : {
+      "path" : "..\/Poirot\/Poirot - 04 Four and Twenty Blackbirds.mp4",
+      "title" : "Poirot - 04 Four and Twenty Blackbirds",
+      "description" : "When a reclusive painter is found dead, Poirot finds the vital clue in the dead man's last meal.",
+      "duration" : 3173
+    },
+    "CSMS06" : {
+      "series_id" : "CSMS",
+      "order" : 6,
+      "title" : "Travellers' Tales",
+      "duration" : 3674,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 06 Travellers' Tales.m4v",
+      "description" : "Carl Sagan looks at the planets Jupiter and Saturn by examining the work of Galileo, Huygens, and the Voyager probes."
+    },
+    "FREK1932" : {
+      "path" : "..\/1930's Classics\/Freaks (1932).m4v",
+      "title" : "Freaks",
+      "description" : "Set amongst the backdrop of a travelling French circus and follows a conniving trapeze artist who joins a group of carnival sideshow performers with a plan to seduce and murder a dwarf in the troupe to gain his inheritance.",
+      "year" : 1932,
+      "duration" : 3725
+    },
+    "TOSM1964" : {
+      "path" : "..\/Samurai\/Three Outlaw Samurai (1964).m4v",
+      "title" : "Three Outlaw Samurai",
+      "description" : "",
+      "year" : 1964,
+      "duration" : 5638
+    },
+    "LITB076" : {
+      "series_id" : "LITB",
+      "order" : 76,
+      "title" : "Beaver the Athlete",
+      "duration" : 1552,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 076 Beaver the Athlete.mp4",
+      "description" : "Beaver gets bad grades in physical education when he clowns around to make up for his lack of coordination."
+    },
+    "SPRA31" : {
+      "series_id" : "SPRA",
+      "order" : 31,
+      "title" : "The Man on the Lam",
+      "duration" : 1435,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 31 The Man On The Lam.mp4",
+      "description" : "Speed is taken hostage by Lawson Lamster, an escaped convict searching for the money he stole before being captured. Unfortunately, Lamster's partners are right on his tail."
+    },
+    "ULTR32" : {
+      "series_id" : "ULTR",
+      "order" : 32,
+      "title" : "Endless Counterattack",
+      "duration" : 1517,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 32.mp4",
+      "description" : "A member of the Science Patrol is on vacation from India. Her vacation is cut short when a monster begins burning mountains and surrounding areas."
+    },
+    "STAN16" : {
+      "series_id" : "STAN",
+      "order" : 16,
+      "title" : "The Jihad",
+      "duration" : 1448,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 16 The Jihad.m4v",
+      "description" : "A team comprising various experts (Kirk and Spock among them) must recover an artifact known as the Soul of the Skorr. The theft must be kept secret or a galactic holy war could break out."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR15J"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "TOSM1964"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "FREK1932"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB076"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA31"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR04"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "LDCB1943"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB077"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR31"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS06"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "GRAP1940"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB078"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO16"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "TGBU1966"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB079"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA32"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT16"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB080"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR32"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI16"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN16"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DAIM2"
+      }
+    ]
+  ]
+}

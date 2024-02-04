@@ -1,0 +1,512 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ZATO03" : {
+      "series_id" : "ZATO",
+      "order" : 3,
+      "title" : "New Tale of Zatoichi",
+      "duration" : 5498,
+      "year" : 1963,
+      "path" : "..\/Samurai\/Zatoichi 03 - New Tale of Zatoichi (1963).m4v",
+      "description" : ""
+    },
+    "LITB054" : {
+      "series_id" : "LITB",
+      "order" : 54,
+      "title" : "The Grass is Always Greener",
+      "duration" : 1550,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 054 The Grass is Always Greener.mp4",
+      "description" : "Overhearing a frustrated Ward muttering about ending up in \"the poor house\", Beaver wonders what it means to be poor and begins a quest for poor people, making new friends and teaching the whole Cleaver family an important lesson."
+    },
+    "DRHI11" : {
+      "path" : "..\/Drunk History\/Drunk History - 11 American Music.m4v",
+      "title" : "American Music",
+      "series_id" : "DRHI",
+      "order" : 11,
+      "description" : "Alan Freed becomes one of the first radio DJs to broadcast rock 'n' roll, Kris Kristofferson gets his big break with some help from his hero, Johnny Cash, and Sylvia Robinson creates The Sugarhill Gang. Featuring Johnny Knoxville, Jack McBrayer and Retta.",
+      "duration" : 1282
+    },
+    "SPRA21" : {
+      "series_id" : "SPRA",
+      "order" : 21,
+      "title" : "The Fastest Car on Earth (part 2)",
+      "duration" : 1416,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 21 The Fastest Car on Earth (part 2).mp4",
+      "description" : "Speed is crippled with a fear of driving after one round in the GRX. Can he pull himself back together in time for his next race?"
+    },
+    "KANE1941" : {
+      "path" : "..\/AFI 100\/Citizen Kane (1941).m4v",
+      "title" : "Citizen Kane",
+      "year" : 1941,
+      "duration" : 7168
+    },
+    "OFUK11" : {
+      "series_id" : "OFUK",
+      "order" : 11,
+      "title" : "Charity",
+      "duration" : 1743,
+      "year" : 2002,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 11.mp4",
+      "description" : "It's the annual comic relief day fund raiser at the office and the employees are up to their usual silliness. Tim raises money from his mates by playing a prank on Gareth. Dawn is selling kisses at reception and the bashful Tim buys one."
+    },
+    "NVOY1942" : {
+      "path" : "..\/1940's Classics\/Now, Voyager (1942).m4v",
+      "title" : "Now, Voyager",
+      "description" : "",
+      "year" : 1942,
+      "duration" : 7056
+    },
+    "ACGS11" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 11 Many Happy Returns.m4v",
+      "title" : "Many Happy Returns",
+      "series_id" : "ACGS",
+      "order" : 11,
+      "description" : "",
+      "duration" : 3136
+    },
+    "LITB053" : {
+      "series_id" : "LITB",
+      "order" : 53,
+      "title" : "Wally's Present",
+      "duration" : 1550,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 053 Wally's Present.mp4",
+      "description" : "Feeling slighted for not being included in Wally's birthday party plans, Beaver takes buddy Larry Mondello's advice, buys himself an expensive bow and arrow set and gives his big brother a cheap gift."
+    },
+    "GODZ06" : {
+      "series_id" : "GODZ",
+      "order" : 6,
+      "title" : "Invasion of Astro-Monster",
+      "duration" : 5586,
+      "year" : 1965,
+      "path" : "..\/Kaiju (Giant Monsters)\/Invasion of Astro-Monster (Godzilla #6, Monster Zero, 1965, dubbed).m4v",
+      "description" : "\"Monster Zero\" Dubbed."
+    },
+    "CSMS01" : {
+      "series_id" : "CSMS",
+      "order" : 1,
+      "title" : "Shores of the Cosmic Ocean",
+      "duration" : 3627,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 01 Shores of the Cosmic Ocean.m4v",
+      "description" : "Carl Sagan examines our planet's place in the universe by leading us on a journey from Earth to Deep Space."
+    },
+    "CADF12" : {
+      "series_id" : "CADF",
+      "order" : 12,
+      "title" : "The Potters Field",
+      "duration" : 4531,
+      "year" : 1998,
+      "path" : "..\/Cadfael\/Cadfael - The Potters Field.m4v",
+      "description" : "A year after Brother Ruald answers his vocation and becomes a monk at Shrewsbury, a body, believed to be his deserted wife, is unearthed near his cottage."
+    },
+    "SOKO11" : {
+      "series_id" : "SOKO",
+      "order" : 11,
+      "title" : "The Terrifying Sand Creature",
+      "duration" : 1508,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 11.m4v",
+      "description" : "The underground office of the South Pole Unicorn Branch is buried in red sand which suddenly started to gush out in the ice field. As the communications are cut off, Azuma sends Daisaku and Ninami there to see what happened."
+    },
+    "MOTW1958" : {
+      "path" : "..\/Westerns\/Man of the West (1958).m4v",
+      "title" : "Man of the West",
+      "series_id" : "",
+      "year" : 1958,
+      "duration" : 5969
+    },
+    "LITB052" : {
+      "series_id" : "LITB",
+      "order" : 52,
+      "title" : "Happy Weekend",
+      "duration" : 1560,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 052 Happy Weekend.mp4",
+      "description" : "Ward takes his reluctant family to a mountain cabin, hoping to relive rustic childhood memories, and, although things don't turn out exactly as he plans, the boys are soon making memories of their own."
+    },
+    "RT66022" : {
+      "series_id" : "RT66",
+      "order" : 22,
+      "title" : "Eleven, the Hard Way",
+      "duration" : 3088,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 022 Eleven, the Hard Way.m4v",
+      "description" : "Tod and Buz, driving through Nevada, help protect the bankroll of two men who are from the dried up mining town of Broken Knee. The two men are heading to Reno to try to win enough money at the craps table to fund a project which can save the town. Later in Reno, Tod and Buz end up lending moral and financial support."
+    },
+    "LRSS11" : {
+      "series_id" : "LRSS",
+      "order" : 11,
+      "title" : "The Warmth Episode",
+      "duration" : 1382,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 11 Warmth.m4v",
+      "description" : "After market research shows that audience members don't find him likable, Larry goes out of his way to be nice to everyone and asks Artie to run the show by focus groups."
+    },
+    "PATV10" : {
+      "series_id" : "PATV",
+      "order" : 10,
+      "title" : "The Interrogation",
+      "duration" : 2987,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 10.mp4",
+      "description" : "When Burke is captured by Urko's soldiers, he is forced to face two equally horrifying options: he can either be killed, outright, by Urko; or he can be used in a brainwashing experiment, being performed by a prominent ape doctor, using a forbidden (human) text on the subject."
+    },
+    "BSG111" : {
+      "series_id" : "BSG1",
+      "order" : 11,
+      "title" : "Fire in Space",
+      "duration" : 2928,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 12 - Fire In Space.m4v",
+      "description" : "The crew of the Galactica struggle to fight massive fires on board caused by Cylon suicide incendiary attacks."
+    },
+    "ICLD11" : {
+      "series_id" : "ICLD",
+      "order" : 11,
+      "title" : "Fool's Luck",
+      "duration" : 3111,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 11.m4v",
+      "description" : "Claudius accepts the crown and spares all the conspirators except Cassius for killing Caligula's wife and family."
+    },
+    "LITB051" : {
+      "series_id" : "LITB",
+      "order" : 51,
+      "title" : "The Visiting Aunts",
+      "duration" : 1552,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 051 The Visiting Aunts.mp4",
+      "description" : "The Cleaver boys' Saturday afternoon carnival plans are disrupted when June's Aunt Martha comes for an unexpected visit."
+    },
+    "RT66021" : {
+      "series_id" : "RT66",
+      "order" : 21,
+      "title" : "Effigy in Snow",
+      "duration" : 3094,
+      "year" : 1961,
+      "path" : "..\/Route 66\/Route 66 - 021 Effigy in Snow.m4v",
+      "description" : "Tod and Buz travel to Squaw Valley, California for \"some work and some fun\". They barely settle in on their new jobs at the Squaw Valley Ski Lodge when the dead body of a female skier is found out on the slopes. The perpetrator, a mentally defective guest at the lodge, goes undetected and may seek another victim."
+    },
+    "LISP54" : {
+      "series_id" : "LISP",
+      "order" : 54,
+      "title" : "The Colonists",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 54 The Colonists.m4v",
+      "description" : "A female alien meets the Robinsons and uses them to help erect an arch to bring her people to colonize the Robinsons' planet."
+    },
+    "FWLT11" : {
+      "series_id" : "FWLT",
+      "order" : 11,
+      "title" : "The Anniversary",
+      "duration" : 1748,
+      "year" : 1979,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 11 The Anniversary.mp4",
+      "description" : "Basil plans a surprise anniversary party for Sybil but, thinking he's forgotten it again, she walks out just before the guests arrive."
+    },
+    "POTP1974" : {
+      "path" : "..\/Drive-In Night\/Phantom of the Paradise (1974).m4v",
+      "title" : "Phantom of the Paradise",
+      "description" : "",
+      "year" : 1974,
+      "duration" : 5499
+    },
+    "MSTK0111" : {
+      "series_id" : "MSTK",
+      "order" : 33,
+      "title" : "Moon Zero Two",
+      "duration" : 5873,
+      "year" : 1990,
+      "path" : "..\/MST3K\/MST3K 111 - Moon Zero Two.mp4",
+      "description" : "The crew stages their own moon landing pageant as they watch the film Moon Zero Two (1969) about an astronaut hired to capture an asteroid made of sapphires."
+    },
+    "RHPS1975" : {
+      "path" : "..\/Drive-In Night\/Rocky Horror Picture Show (1975).m4v",
+      "title" : "Rocky Horror Picture Show",
+      "description" : "",
+      "year" : 1975,
+      "duration" : 6005
+    },
+    "LAVE1951" : {
+      "path" : "..\/1950's Classics\/Lavender Hill Mob, The (1951).m4v",
+      "title" : "The Lavender Hill Mob",
+      "description" : "",
+      "year" : 1951,
+      "duration" : 4885
+    },
+    "LISP53" : {
+      "series_id" : "LISP",
+      "order" : 53,
+      "title" : "Revolt of the Androids",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 53 Revolt of the Androids.m4v",
+      "description" : "In the second of two sequels to 'The Android Machine', Verda's sheltered by the Robinsons after she's marked for destruction by the Celestial Department Store. To that end, the store dispatches a killer android: IDAK (Instant Destroyer And Killer)."
+    },
+    "ULTR10J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 10 The Mysterious Dinosaur Base.mp4",
+      "title" : "The Mysterious Dinosaur Base",
+      "series_id" : "ULTR",
+      "order" : 10,
+      "description" : "",
+      "duration" : 1518
+    },
+    "ULTR22" : {
+      "series_id" : "ULTR",
+      "order" : 22,
+      "title" : "Overthrow the Surface",
+      "duration" : 1516,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 22.mp4",
+      "description" : "Survivors of an underground and ancient civilization come to the surface of Earth with the intent of taking control of Ultraman."
+    },
+    "LISP52" : {
+      "series_id" : "LISP",
+      "order" : 52,
+      "title" : "Treasure of the Lost Planet",
+      "duration" : 3083,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 52 Treasure of the Lost Planet.m4v",
+      "description" : "In this quasi-sequel 'The Sky Pirate', Will's reunited with Captain Tucker, who along with his crew are searcing for a legendary lost treasure. The key to finding the booty is a metallic talking head in a box."
+    },
+    "LITB055" : {
+      "series_id" : "LITB",
+      "order" : 55,
+      "title" : "The Boat Builders",
+      "duration" : 1555,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 055 The Boat Builders.mp4",
+      "description" : "Wally's homemade boat capsizes with Beaver on board."
+    },
+    "RBBT14" : {
+      "series_id" : "RBBT",
+      "order" : 14,
+      "title" : "On the Orient, North",
+      "duration" : 1547,
+      "year" : 1988,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 14 On the Orient, North.m4v",
+      "description" : "A nurse accompanies a \"dying\" ghost on a train ride across Europe to Great Britain in search of a place of refuge where people still believe in the supernatural."
+    },
+    "ULTR21" : {
+      "series_id" : "ULTR",
+      "order" : 21,
+      "title" : "Breach the Wall of Smoke",
+      "duration" : 1518,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 21.mp4",
+      "description" : "A monster terrorizes a mountain by emitting a poisonous gas. Luckily for the Science Patrol, the monster has a vulnerable spot on its back."
+    },
+    "STAN11" : {
+      "series_id" : "STAN",
+      "order" : 11,
+      "title" : "The Terratin Incident",
+      "duration" : 1450,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 11 The Terratin Incident.m4v",
+      "description" : "Exposed to spiroid epsilon waves, the Enterprise crew begins to shrink in size. If a way can not be found to stop their condition, they will soon be too small to control the ship."
+    },
+    "FETM10" : {
+      "series_id" : "FETM",
+      "order" : 10,
+      "title" : "Galileo Was Right",
+      "duration" : 3316,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 10 Galileo Was Right.m4v",
+      "description" : "The Apollo 15 astronauts and backup crew go through extensive geology training in preparation for their mission."
+    },
+    "LISP51" : {
+      "series_id" : "LISP",
+      "order" : 51,
+      "title" : "The Cave of Wizards",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost in Space - 51 The Cave of Wizards.m4v",
+      "description" : "Shortly before lift-off, Dr. Smith discovers a cave inhabited by devices, which are the remnants of a once-mighty civilization; the Draconians. As the countdown draws near, Dr. Smith falls ever-more-so under the influence of the Draconians."
+    },
+    "SPRA22" : {
+      "series_id" : "SPRA",
+      "order" : 22,
+      "title" : "Mach Five vs  Mach Five (part 1)",
+      "duration" : 1482,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 22 Mach Five vs  Mach Five (part 1).mp4",
+      "description" : "Speed is framed for robbery by Mr Cumulus, who has had a duplicate Mach 5 built for his own ends."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR10J"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV10"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM10"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66021"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB051"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA21"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP51"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "FWLT11"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CADF12"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "NVOY1942"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB052"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR21"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP52"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS11"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS01"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "KANE1941"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT14"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "LAVE1951"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB053"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO11"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP53"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK11"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "MOTW1958"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66022"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB054"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA22"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP54"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS11"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB055"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR22"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG111"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI11"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD11"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN11"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ06"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0111"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "POTP1974"
+      },
+      {
+        "start_time" : "20:35",
+        "resource_id" : "RHPS1975"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "A11BEF67" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 192 A Night in the Woods.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 192 A Night in the Woods"
+    },
+    "199913" : {
+      "path" : "..\/Space 1999\/Space 1999 - 13 Matter of Life and Death.m4v",
+      "title" : "Matter of Life and Death",
+      "series_id" : "1999",
+      "order" : 13,
+      "year" : 1975,
+      "duration" : 3132
+    },
+    "7442886B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 191 Sweatshirt Monsters.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 191 Sweatshirt Monsters"
+    },
+    "ZATO17" : {
+      "series_id" : "ZATO",
+      "order" : 17,
+      "title" : "Zatoichi Challenged",
+      "duration" : 5202,
+      "year" : 1967,
+      "path" : "..\/Samurai\/Zatoichi 17 - Zatoichi Challenged (1967).m4v",
+      "description" : ""
+    },
+    "C618B671" : {
+      "path" : "..\/1940's Classics\/Red Shoes, The (1948).mp4",
+      "duration" : 8130,
+      "title" : "Red Shoes, The (1948)"
+    },
+    "6EC0B34B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 195 Un-Togetherness.m4v",
+      "duration" : 1541,
+      "title" : "Leave it to Beaver - 195 Un-Togetherness"
+    },
+    "EB6AF3CE" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 194 Stocks and Bonds.m4v",
+      "duration" : 1543,
+      "title" : "Leave it to Beaver - 194 Stocks and Bonds"
+    },
+    "F9ECB753" : {
+      "series_id" : "UFOT",
+      "order" : 13,
+      "title" : "Survival",
+      "duration" : 2912,
+      "year" : 1970,
+      "path" : "..\/U.F.O.\/UFO - 13 Survival.m4v",
+      "description" : ""
+    },
+    "EED3B99B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 193 Long Distance Call.m4v",
+      "duration" : 1512,
+      "title" : "Leave it to Beaver - 193 Long Distance Call"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO17"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7442886B"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:30",
+        "resource_id" : "C618B671"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "A11BEF67"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "EED3B99B"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "EB6AF3CE"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199913"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "6EC0B34B"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "F9ECB753"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

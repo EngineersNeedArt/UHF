@@ -1,0 +1,287 @@
+{
+  "day_count" : 7,
+  "resources" : {
+    "SOKO23" : {
+      "series_id" : "SOKO",
+      "order" : 23,
+      "title" : "Dr. Eingali, Master of Evil",
+      "duration" : 1509,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 23.m4v",
+      "description" : "U7, member of Japan Branch of Unicorn, is the one who controls the gigantic GIANT ROBO with the wrist-watch controller microphone. One day, he receives from his father a parcel as a birthday gift. It is a kit for constructing a man-size robot."
+    },
+    "MSVN1960" : {
+      "path" : "..\/Westerns\/Magnificent Seven, The (1960).m4v",
+      "title" : "The Magnificent Seven",
+      "description" : "",
+      "year" : 1960,
+      "duration" : 7686
+    },
+    "HOLM01" : {
+      "series_id" : "HOLM",
+      "order" : 1,
+      "title" : "A Scandal in Bohemia",
+      "duration" : 3257,
+      "year" : 1984,
+      "path" : "..\/Sherlock Holmes\/Sherlock Holmes - 01 A Scandal in Bohemia.m4v",
+      "description" : "Sherlock Holmes finds himself evenly matched when he is employed by the King of Bohemia to retrieve an indiscreet photograph from the American actress and singer, Irene Adler."
+    },
+    "UFOT23" : {
+      "path" : "..\/U.F.O.\/UFO - 23 The Sound Of Silence.m4v",
+      "title" : "The Sound of Silence",
+      "series_id" : "UFOT",
+      "order" : 23,
+      "year" : 1971,
+      "duration" : 2974
+    },
+    "LISP30" : {
+      "series_id" : "LISP",
+      "order" : 30,
+      "title" : "Blast Off Into Space",
+      "duration" : 3081,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 30 - Blast Off In Space.m4v",
+      "description" : "A space miner is blasting the planet apart and the Robinsons have to leave even though Smith wants to stay and become rich."
+    },
+    "LITB111" : {
+      "series_id" : "LITB",
+      "order" : 111,
+      "title" : "The Spot Removers",
+      "duration" : 1558,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 111 The Spot Removers.m4v",
+      "description" : "Wally is sure that carefully hanging his jacket in his closet will keep it clean for an upcoming dance, forgetting that he shares the closet with a younger brother whose middle name is trouble!"
+    },
+    "SPRA46" : {
+      "series_id" : "SPRA",
+      "order" : 46,
+      "title" : "Motorcycle Apaches",
+      "duration" : 1413,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 46 Motorcycle Apaches.mp4",
+      "description" : "A astronomical base in the Southwest is being terrorized by a band of apaches on motorcycles, and calls Speed for help."
+    },
+    "ZATO09" : {
+      "series_id" : "ZATO",
+      "order" : 9,
+      "title" : "Adventures of Zatoichi",
+      "duration" : 5174,
+      "year" : 1964,
+      "path" : "..\/Samurai\/Zatoichi 09 - Adventures of Zatoichi (1964).m4v",
+      "description" : ""
+    },
+    "SPLB1945" : {
+      "path" : "..\/1940's Classics\/Spellbound (1945).mp4",
+      "title" : "Spellbound",
+      "description" : "",
+      "year" : 1945,
+      "duration" : 7090
+    },
+    "LITB112" : {
+      "series_id" : "LITB",
+      "order" : 112,
+      "title" : "Beaver the Model",
+      "duration" : 1539,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 112 Beaver the Model.m4v",
+      "description" : "The Beaver disobeys Ward by returning an application sent to him by a modeling agency and finds himself in trouble when the agency demands a fee."
+    },
+    "CSMS13" : {
+      "series_id" : "CSMS",
+      "order" : 13,
+      "title" : "Who Speaks for Earth?",
+      "duration" : 3739,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 13 Who Speaks for Earth?.m4v",
+      "description" : "Carl Sagan considers the significance of science and discuss the importance of human survival in the nuclear age."
+    },
+    "LISP28" : {
+      "series_id" : "LISP",
+      "order" : 28,
+      "title" : "A Change of Space",
+      "duration" : 3089,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 28 - A Change Of Space.m4v",
+      "description" : "A strange interdimensional ship turns Will into a genius and Dr. Smith into an old man."
+    },
+    "T39S1935" : {
+      "path" : "..\/1930's Classics\/39 Steps, The (1935).mp4",
+      "title" : "The 39 Steps",
+      "description" : "A Canadian civilian in London becomes caught up in preventing an organisation of spies called \"The 39 Steps\" from stealing British military secrets. Alfred Hitchcock directs.",
+      "year" : 1935,
+      "duration" : 5180
+    },
+    "LITB113" : {
+      "series_id" : "LITB",
+      "order" : 113,
+      "title" : "Wally, the Businessman",
+      "duration" : 1533,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 113 Wally, the Businessman.m4v",
+      "description" : "When Ward gives Wally permission to get a job, Wally discovers that there is more to making money than just selling ice cream bars and that allies come from unlikely places."
+    },
+    "MNBS3" : {
+      "path" : "..\/Moonbase 3 (TV series)\/Moonbase 3 - 03 Achilles Heel.mp4",
+      "title" : "Achilles Heel",
+      "series_id" : "MNBS",
+      "order" : 3,
+      "description" : "",
+      "duration" : 3119
+    },
+    "LITB114" : {
+      "series_id" : "LITB",
+      "order" : 114,
+      "title" : "Beaver and Ivanhoe",
+      "duration" : 1559,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 114 Beaver and Ivanhoe.m4v",
+      "description" : "When Beaver's teacher Miss Landers assigns the class a book to read Ward suggests Ivanhoe, one of his favorite boyhood books. Impressed by the tale of knighthood, Beaver forms his own knight club and sets out to defend his neighborhood."
+    },
+    "SPRA45" : {
+      "series_id" : "SPRA",
+      "order" : 45,
+      "title" : "The Great Car Wrestling Match",
+      "duration" : 1414,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 45 The Great Car Wrestling Match.mp4",
+      "description" : "Speed discovers that a former racing driver Gadge Zoomer has taken to car wrestling (demolition derbies) to support his family, and attempts to get him to leave this destructive sport."
+    },
+    "LISP31" : {
+      "series_id" : "LISP",
+      "order" : 31,
+      "title" : "Wild Adventure",
+      "duration" : 3084,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 31 - Wild Adventure.m4v",
+      "description" : "Smith finds the course back to earth, but a space female lures Smith out of the ship. Saving him would again leave the crew of the Jupiter 2 lost in space."
+    },
+    "LITB115" : {
+      "series_id" : "LITB",
+      "order" : 115,
+      "title" : "Wally's Play",
+      "duration" : 1534,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 115 Wally's Play.m4v",
+      "description" : "Wally considers it an honor to be inducted into a popular school club but has second thoughts when he finds out what his part will be in the club's annual play."
+    },
+    "609372EA" : {
+      "series_id" : "GODZ",
+      "order" : 12,
+      "title" : "Godzilla vs. Gigan",
+      "duration" : 5363,
+      "year" : 1972,
+      "path" : "..\/Kaiju (Giant Monsters)\/Godzilla vs. Gigan (Godzilla #12, 1972, dubbed).mp4",
+      "description" : "Dubbed."
+    },
+    "LISP29" : {
+      "series_id" : "LISP",
+      "order" : 29,
+      "title" : "Follow the Leader",
+      "duration" : 3149,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 29 - Follow The Leader.m4v",
+      "description" : "An evil spirit possesses John Robinson and plans to fly the Jupiter 2 back to his home world, even at the expense of Will's life."
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO09"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "T39S1935"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB111"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA45"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP28"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "HOLM01"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SPLB1945"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB112"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP29"
+      },
+      {
+        "start_time" : "17:55",
+        "resource_id" : "CSMS13"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB113"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO23"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP30"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "MSVN1960"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB114"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA46"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP31"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT23"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB115"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "MNBS3"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "609372EA"
+      }
+    ]
+  ],
+  "version" : "UHF Schedule - v1"
+}

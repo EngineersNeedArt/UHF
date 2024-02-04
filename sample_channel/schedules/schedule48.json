@@ -1,0 +1,105 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "ZATO20" : {
+      "path" : "..\/Samurai\/Zatoichi 20 - Zatoichi Meets Yojimbo (1970).m4v",
+      "title" : "Zatoichi Meets Yojimbo",
+      "series_id" : "ZATO",
+      "order" : 20,
+      "year" : 1970,
+      "duration" : 6965
+    },
+    "199919" : {
+      "series_id" : "1999",
+      "order" : 19,
+      "title" : "Ring Around the Moon",
+      "duration" : 3117,
+      "year" : 1976,
+      "path" : "..\/Space 1999\/Space 1999 - 19 Ring Around the Moon.m4v",
+      "description" : ""
+    },
+    "7C5F28DB" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 222 Beaver's Prep School.m4v",
+      "duration" : 1539,
+      "title" : "Leave it to Beaver - 222 Beaver's Prep School"
+    },
+    "516E52CF" : {
+      "series_id" : "UFOT",
+      "order" : 19,
+      "title" : "Ordeal",
+      "duration" : 2970,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 19 Ordeal.m4v",
+      "description" : ""
+    },
+    "ED587EBB" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 225 The Book Report.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 225 The Book Report"
+    },
+    "E0B9A193" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 224 Eddie's Sweater.m4v",
+      "duration" : 1510,
+      "title" : "Leave it to Beaver - 224 Eddie's Sweater"
+    },
+    "20087697" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 223 Wally and the Fraternity.m4v",
+      "duration" : 1538,
+      "title" : "Leave it to Beaver - 223 Wally and the Fraternity"
+    },
+    "341521D6" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 221 Uncle Billy's Visit.m4v",
+      "duration" : 1527,
+      "title" : "Leave it to Beaver - 221 Uncle Billy's Visit"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO20"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "341521D6"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7C5F28DB"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "20087697"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "E0B9A193"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199919"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "ED587EBB"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "516E52CF"
+      }
+    ],
+    [
+
+    ]
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "199905" : {
+      "series_id" : "1999",
+      "order" : 5,
+      "title" : "Death's Other Dominion",
+      "duration" : 3131,
+      "year" : 1975,
+      "path" : "..\/Space 1999\/Space 1999 - 05 Death's Other Dominion.mp4",
+      "description" : ""
+    },
+    "ZATO13" : {
+      "series_id" : "ZATO",
+      "order" : 13,
+      "title" : "Zatoichi's Vengeance",
+      "duration" : 4970,
+      "year" : 1966,
+      "path" : "..\/Samurai\/Zatoichi 13 - Zatoichi's Vengeance (1966).m4v",
+      "description" : ""
+    },
+    "GMRA1968" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Gamera vs. Viras (Destroy All Planets, 1968, dubbed).m4v",
+      "title" : "Gamera vs. Viras",
+      "description" : "\"Destroy All Planets\" Dubbed.",
+      "year" : 1968,
+      "duration" : 5430
+    },
+    "OAHW1939" : {
+      "path" : "..\/1930's Classics\/Only Angels Have Wings (1939).mp4",
+      "title" : "Only Angels Have Wings",
+      "description" : "",
+      "duration" : 7264
+    },
+    "OOTP1947" : {
+      "path" : "..\/1940's Classics\/Out of the Past (1947).mp4",
+      "title" : "Out of the Past",
+      "description" : "",
+      "year" : 1947,
+      "duration" : 5806
+    },
+    "CC9AE8F5" : {
+      "path" : "..\/U.F.O.\/UFO - 05 A Question Of Priorities.m4v",
+      "title" : "A Question of Priorities",
+      "series_id" : "UFOT",
+      "order" : 5,
+      "year" : 1970,
+      "duration" : 2989
+    },
+    "9CC71BB6" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 152 Beaver's Frogs.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 152 Beaver's Frogs"
+    },
+    "7CFAD077" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 151 Junior Fire Chief.m4v",
+      "duration" : 1548,
+      "title" : "Leave it to Beaver - 151 Junior Fire Chief"
+    },
+    "F1170BD8" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 154 Kite Day.m4v",
+      "duration" : 1553,
+      "title" : "Leave it to Beaver - 154 Kite Day"
+    },
+    "8BFB1C4B" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 155 Beaver's Doll Buggy.m4v",
+      "duration" : 1554,
+      "title" : "Leave it to Beaver - 155 Beaver's Doll Buggy"
+    },
+    "BE8A9FC6" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 153 Beaver Goes in Business.m4v",
+      "duration" : 1557,
+      "title" : "Leave it to Beaver - 153 Beaver Goes in Business"
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO13"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "OAHW1939"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "7CFAD077"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "OOTP1947"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "9CC71BB6"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "BE8A9FC6"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "F1170BD8"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "199905"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "8BFB1C4B"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "CC9AE8F5"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GMRA1968"
+      }
+    ]
+  ]
+}

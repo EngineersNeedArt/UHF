@@ -1,0 +1,251 @@
+{
+  "day_count" : 7,
+  "resources" : {
+    "0842CBFD" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 130 Beaver's Accordian.m4v",
+      "duration" : 1552,
+      "title" : "Leave it to Beaver - 130 Beaver's Accordian"
+    },
+    "LISP46" : {
+      "series_id" : "LISP",
+      "order" : 46,
+      "title" : "The Questing Beast",
+      "duration" : 3081,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 46 - The Questing Beast.m4v",
+      "description" : "A space knight is following the questing beast who Penny becomes friends with."
+    },
+    "TOJW1976" : {
+      "path" : "..\/Westerns\/Outlaw, Josey Wales, The (1976).m4v",
+      "title" : "The Outlaw, Josey Wales",
+      "description" : "",
+      "year" : 1976,
+      "duration" : 8154
+    },
+    "FA92259C" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 129 Beaver and Kenneth.m4v",
+      "duration" : 1540,
+      "title" : "Leave it to Beaver - 129 Beaver and Kenneth"
+    },
+    "SPRA52" : {
+      "series_id" : "SPRA",
+      "order" : 52,
+      "title" : "Race Around the World (part 2)",
+      "duration" : 1395,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 52 Race Around the World (part 2).mp4",
+      "description" : "Hindered by unscrupulous rivals, obstacles, and his own self, can Speed win the most important race of his career?"
+    },
+    "LISP43" : {
+      "series_id" : "LISP",
+      "order" : 43,
+      "title" : "The Dream Monster",
+      "duration" : 3055,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 43 - The Dream Monster.m4v",
+      "description" : "Doctor Smith trades the Robinsons' emotions - in exchange for a trip home."
+    },
+    "WOTG1966" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/War of the Gargantuas (1966, dubbed).mp4",
+      "title" : "War of the Gargantuas",
+      "description" : "Dubbed.",
+      "year" : 1966,
+      "duration" : 5533
+    },
+    "LISP45" : {
+      "series_id" : "LISP",
+      "order" : 45,
+      "title" : "The Girl from the Green Dimension",
+      "duration" : 3084,
+      "year" : 1967,
+      "path" : "..\/Lost in Space\/Lost In Space 45 - The Girl From The Green Dimension.m4v",
+      "description" : "The same woman who lured Smith into space returns still in love with Smith. He agrees to return to her dimension and Will gets turned green."
+    },
+    "SAMN1937" : {
+      "path" : "..\/1930's Classics\/Song at Midnight (Ye Ban Ge Sheng, 1937).mp4",
+      "title" : "Song at Midnight",
+      "description" : "\"Ye ban ge sheng\" is China's first horror film, loosely based on \"The Phantom of the Opera\". A disfigured musical genius roams a traditional Chinese opera house, punishing those who offend him.",
+      "year" : 1937,
+      "duration" : 7087
+    },
+    "70531915" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 127 Wally's Glamour Girl.m4v",
+      "duration" : 1555,
+      "title" : "Leave it to Beaver - 127 Wally's Glamour Girl"
+    },
+    "06357EC1" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 128 Chuckie's New Shoes.m4v",
+      "duration" : 1532,
+      "title" : "Leave it to Beaver - 128 Chuckie's New Shoes"
+    },
+    "SPRA51" : {
+      "series_id" : "SPRA",
+      "order" : 51,
+      "title" : "Race Around the World (part 1)",
+      "duration" : 1415,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 51 Race Around the World (part 1).mp4",
+      "description" : "Speed takes part in the most important race of his career, the Around the World Grand Prix."
+    },
+    "SOKO26" : {
+      "series_id" : "SOKO",
+      "order" : 26,
+      "title" : "The Last of Emperor Guillotine",
+      "duration" : 1508,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 26.m4v",
+      "description" : "Johnny is shot by a very careless assassin, and Emperor Guillotine pulls out all the stops, throwing his three remaining monsters at Giant Robot. "
+    },
+    "2CBDB1FA" : {
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 126 Beaver's I.Q.m4v",
+      "duration" : 1557,
+      "title" : "Leave it to Beaver - 126 Beaver's I.Q"
+    },
+    "UFOT26" : {
+      "series_id" : "UFOT",
+      "order" : 26,
+      "title" : "The Long Sleep",
+      "duration" : 2972,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 26 The Long Sleep.m4v",
+      "description" : ""
+    },
+    "HOLM04" : {
+      "series_id" : "HOLM",
+      "order" : 4,
+      "title" : "The Solitary Cyclist",
+      "duration" : 3274,
+      "year" : 1984,
+      "path" : "..\/Sherlock Holmes\/Sherlock Holmes - 04 The Solitary Cyclist.m4v",
+      "description" : "A strange man on a bicycle follows a young music teacher as she bicycles on a lonely road to and from the city."
+    },
+    "BREN1945" : {
+      "path" : "..\/1940's Classics\/Brief Encounter (1945).mp4",
+      "title" : "Brief Encounter",
+      "description" : "",
+      "year" : 1945,
+      "duration" : 5208
+    },
+    "SVNS1954" : {
+      "path" : "..\/Samurai\/Seven Samurai (1954).m4v",
+      "title" : "Seven Samurai",
+      "description" : "",
+      "year" : 1954,
+      "duration" : 12399
+    },
+    "LISP44" : {
+      "series_id" : "LISP",
+      "order" : 44,
+      "title" : "The Golden Man",
+      "duration" : 3087,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 44 - The Golden Man.m4v",
+      "description" : "Penny befriends a toad-looking alien, whose race is fighting against the much more pleasant-looking golden aliens. One of them isn't what they seem?"
+    },
+    "MNBS6" : {
+      "path" : "..\/Moonbase 3 (TV series)\/Moonbase 3 - 06 View of a Dead Planet.mp4",
+      "title" : "View of a Dead Planet",
+      "series_id" : "MNBS",
+      "order" : 6,
+      "description" : "",
+      "duration" : 3132
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "SVNS1954"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "SAMN1937"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "2CBDB1FA"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA51"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP43"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "HOLM04"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "BREN1945"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "70531915"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP44"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "06357EC1"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO26"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP45"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "TOJW1976"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "FA92259C"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA52"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP46"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT26"
+      }
+    ],
+    [
+      {
+        "start_time" : "16:00",
+        "resource_id" : "0842CBFD"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "MNBS6"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "WOTG1966"
+      }
+    ]
+  ],
+  "version" : "UHF Schedule - v1"
+}

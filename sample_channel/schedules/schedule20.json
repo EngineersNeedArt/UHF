@@ -1,0 +1,309 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "SPRA33" : {
+      "series_id" : "SPRA",
+      "order" : 33,
+      "title" : "Gang of Assassins (part 2)",
+      "duration" : 1431,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 33 Gang Of Assassins (part 2).mp4",
+      "description" : "Speed learns to his disgust that Racer X has joined the assassins. But is it for real?"
+    },
+    "LITB083" : {
+      "series_id" : "LITB",
+      "order" : 83,
+      "title" : "Baby Picture",
+      "duration" : 1559,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 083 Baby Picture.m4v",
+      "description" : "Beaver needs a baby picture for a class project. June comes up with one where he doesn't have any clothes on and mails it to Miss Landers without showing it to him first."
+    },
+    "ULTR34" : {
+      "series_id" : "ULTR",
+      "order" : 34,
+      "title" : "A Gift from the Sky",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 34.mp4",
+      "description" : "A monster falls from the sky and presents a peculiar problem for the Science Patrol. It's too heavy for the Patrol to deal with."
+    },
+    "RERI1948" : {
+      "path" : "..\/Westerns\/Red River (1948).mp4",
+      "title" : "Red River",
+      "year" : 1948,
+      "duration" : 7969
+    },
+    "LITB084" : {
+      "series_id" : "LITB",
+      "order" : 84,
+      "title" : "Beaver Takes a Walk",
+      "duration" : 1497,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 084 Beaver Takes a Walk.m4v",
+      "description" : "Impressed by Ward's tales of walking 10 miles each way to school as a boy, Beaver takes his dad's old pedometer to school and bets his friend Whitey that he can walk twenty miles in a day, just like his dad."
+    },
+    "ULTR16J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 16 Science Patrol Into Space.mp4",
+      "title" : "Science Patrol Into Space",
+      "series_id" : "ULTR",
+      "order" : 16,
+      "duration" : 1520
+    },
+    "42ST1933" : {
+      "path" : "..\/1930's Classics\/42nd Street (1933).mp4",
+      "title" : "42nd Street",
+      "description" : "Pre-code musical revolves around the rehearsals of a Broadway show at the height of the Great Depression, and its cast and crew. Features an ensemble cast including Ginger Rogers.",
+      "year" : 1933,
+      "duration" : 5358
+    },
+    "IAWL1946" : {
+      "path" : "..\/AFI 100\/It's A Wonderful Life (1946).m4v",
+      "title" : "It's a Wonderful Life",
+      "description" : "",
+      "year" : 1946,
+      "duration" : 7833
+    },
+    "DRHI17" : {
+      "series_id" : "DRHI",
+      "order" : 17,
+      "title" : "Sports Heroes",
+      "duration" : 1282,
+      "year" : 2014,
+      "path" : "..\/Drunk History\/Drunk History - 17 Sports Heroes.m4v",
+      "description" : "Jim Thorpe is named the greatest athlete of the 20th century, Babe Didrikson breaks down gender barriers in sports, and Jim Abbott achieves prominence as a pitcher despite having only one hand. Featuring Jason Momoa, Zach Gilford and Emily Deschanel."
+    },
+    "CSMS07" : {
+      "series_id" : "CSMS",
+      "order" : 7,
+      "title" : "The Backbone of Night",
+      "duration" : 3526,
+      "year" : 1980,
+      "path" : "..\/Cosmos\/Cosmos - 07 The Backbone of Night.m4v",
+      "description" : "Carl Sagan looks at the work of ancient Greek scientists and astronomers including Thales, Anaximander, Democritus, and Pythagoras."
+    },
+    "LITB085" : {
+      "series_id" : "LITB",
+      "order" : 85,
+      "title" : "Borrowed Boat",
+      "duration" : 1564,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 085 Borrowed Boat.m4v",
+      "description" : "Beaver and his friend Larry Mondello end up at the Mayfield police station after they are tricked by two older boys into using a stolen rowboat while picnicking at Friends lake."
+    },
+    "POIR05" : {
+      "series_id" : "POIR",
+      "order" : 5,
+      "title" : "The Third Floor Flat",
+      "duration" : 3048,
+      "year" : 1089,
+      "path" : "..\/Poirot\/Poirot - 05 The Third Floor Flat.mp4",
+      "description" : "Poirot investigates a murder that hits close to home after the new occupant of a flat two floors below his is found shot."
+    },
+    "LISP01" : {
+      "series_id" : "LISP",
+      "order" : 1,
+      "title" : "The Reluctant Stowaway",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 01 The Reluctant Stowaway.m4v",
+      "description" : "The Jupiter 2 is to launch, but a saboteur wants to destroy it. Unfortunately he is part of the Jupiter 2 crew now Lost In Space."
+    },
+    "ZATO06" : {
+      "series_id" : "ZATO",
+      "order" : 6,
+      "title" : "Zatoichi and the Chest of Gold",
+      "duration" : 4948,
+      "year" : 1964,
+      "path" : "..\/Samurai\/Zatoichi 06 - Zatoichi and the Chest of Gold (1964).m4v",
+      "description" : ""
+    },
+    "ULTR33" : {
+      "series_id" : "ULTR",
+      "order" : 33,
+      "title" : "The Forbidden Words",
+      "duration" : 1518,
+      "year" : 1967,
+      "path" : "..\/Ultraman\/Ultraman 33.mp4",
+      "description" : "An alien comes to Earth seeking to take control of it. But the only way he can get it is if he has permission from a boy. When the boy refuses, the alien decides to attack."
+    },
+    "STAN17" : {
+      "series_id" : "STAN",
+      "order" : 17,
+      "title" : "The Pirates of Orion",
+      "duration" : 1412,
+      "year" : 1974,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 17 The Pirates of Orion.m4v",
+      "description" : "Spock contracts a fatal disease, and the medicine required for his cure is stolen by Orion pirates."
+    },
+    "SPRA34" : {
+      "series_id" : "SPRA",
+      "order" : 34,
+      "title" : "The Race For Life",
+      "duration" : 1422,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 34 The Race For Life.mp4",
+      "description" : "The young mayor of the South American village of Tonado is dying of poison. Speed volunteers to drive to Dominic and back to get the antidote, but someone is out to stop him."
+    },
+    "BSG118" : {
+      "series_id" : "BSG1",
+      "order" : 18,
+      "title" : "Baltar's Escape",
+      "duration" : 2924,
+      "year" : 1979,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 19 - Baltar's Escape.m4v",
+      "description" : "While Commander Adama deals with a newly assertive Council of Twelve's modification of his command, Baltar plots his escape."
+    },
+    "LITB081" : {
+      "series_id" : "LITB",
+      "order" : 81,
+      "title" : "School Bus",
+      "duration" : 1560,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 081 School Bus.m4v",
+      "description" : "Beaver gets suspended from riding the school bus for acting up."
+    },
+    "FIWS1943" : {
+      "path" : "..\/1940's Classics\/Fires Were Started (1943).mp4",
+      "title" : "Fires Were Started",
+      "description" : "",
+      "year" : 1943,
+      "duration" : 4433
+    },
+    "LITB082" : {
+      "series_id" : "LITB",
+      "order" : 82,
+      "title" : "Beaver's Prize",
+      "duration" : 1543,
+      "year" : 1959,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 082 Beaver's Prize.m4v",
+      "description" : "Beaver goes to the movies with Larry and wins a prize even though he has been told to stay home for the day."
+    },
+    "SOKO17" : {
+      "series_id" : "SOKO",
+      "order" : 17,
+      "title" : "Destroy the Dam",
+      "duration" : 1461,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 17.m4v",
+      "description" : "The Gargoyle Vine is back, and this time it's sucked up all the water in a lake. Will it grow to an incredible size and defeat the combined military might of the Earth? For Dr. Botanus' sake, let's hope so."
+    },
+    "UFOT17" : {
+      "series_id" : "UFOT",
+      "order" : 17,
+      "title" : "The Dalotek Affair",
+      "duration" : 2972,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 17 The Dalotek Affair.m4v",
+      "description" : ""
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR16J"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ZATO06"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "42ST1933"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB081"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA33"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "POIR05"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "FIWS1943"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB082"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR33"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CSMS07"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "IAWL1946"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB083"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO17"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "RERI1948"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB084"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA34"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP01"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT17"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB085"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR34"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG118"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI17"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN17"
+      }
+    ]
+  ]
+}

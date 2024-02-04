@@ -1,0 +1,871 @@
+{
+  "version" : "UHF Schedule - v1",
+  "resources" : {
+    "NIGA01" : {
+      "series_id" : "NIGA",
+      "order" : 1,
+      "title" : "The Dead Man, The Housekeeper",
+      "duration" : 3048,
+      "year" : 1970,
+      "path" : "..\/Night Gallery\/Night Gallery - 01 The Dead Man, The Housekeeper.m4v",
+      "description" : ""
+    },
+    "DUCK1933" : {
+      "path" : "..\/AFI 100\/Duck Soup (1933).mp4",
+      "title" : "Duck Soup",
+      "description" : "Rufus T. Firefly is named the dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of his wealthy backer Mrs. Teasdale, contending with two inept spies who can't seem to keep straight which side they're on. A Marx Brothers classic.",
+      "year" : 1933,
+      "duration" : 4126
+    },
+    "DRAC1931" : {
+      "path" : "..\/Classic Horror\/Dracula (1931).mp4",
+      "title" : "Dracula",
+      "series_id" : "",
+      "description" : "Transylvanian vampire Count Dracula bends a naive real estate agent to his will, then takes up residence at a London estate where he sleeps in his coffin by day and searches for potential victims by night.",
+      "year" : 1931,
+      "duration" : 4461
+    },
+    "YOJI1961" : {
+      "path" : "..\/Samurai\/Yojimbo (1961).m4v",
+      "title" : "Yojimbo",
+      "description" : "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+      "year" : 1961,
+      "duration" : 6652
+    },
+    "FWLT03" : {
+      "series_id" : "FWLT",
+      "order" : 3,
+      "title" : "The Wedding Party",
+      "duration" : 2001,
+      "year" : 1975,
+      "path" : "..\/Fawlty Towers\/Fawlty Towers - 03 The Wedding Party.mp4",
+      "description" : "Basil Fawlty's puritanical streak comes out when a young couple he suspects of not being married tries to book a double room."
+    },
+    "RT66006" : {
+      "series_id" : "RT66",
+      "order" : 6,
+      "title" : "Ten Drops of Water",
+      "duration" : 3079,
+      "year" : 1960,
+      "path" : "..\/Route 66\/Route 66 - 006 Ten Drops of Water.m4v",
+      "description" : "Tod and Buz,working as ranch hands in a drought stricken area of Utah,befriend a desperate family.The family's farm does not have sufficient water to maintain the livestock.The family comes to realize that solving the problem in the short run may not be the only option."
+    },
+    "DWHO0772" : {
+      "path" : "..\/Doctor Who\/Dr. Who 077 - The Sontaran Experiment 2.m4v",
+      "title" : "The Sontaran Experiment (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor learns that Styre has been experimenting on the Galsec crewmembers to pave the way for a Sontaran invasion of Earth and decides the only way to halt his plans is to challenge him to a duel.",
+      "year" : 1975,
+      "duration" : 1506
+    },
+    "RT66005" : {
+      "series_id" : "RT66",
+      "order" : 5,
+      "title" : "The Strengthening Angels",
+      "duration" : 3087,
+      "year" : 1960,
+      "path" : "..\/Route 66\/Route 66 - 005 The Strengthening Angels.m4v",
+      "description" : "Tod and Buz, driving through California \"West by North\" in a rainstorm nearly run over a young woman. After giving her a lift to the next town they find she is on the run from a murder charge. Despite the protests of the Sheriff, the townspeople and the woman herself, Buz feels there is more to the story than obvious guilt."
+    },
+    "SPRA05" : {
+      "series_id" : "SPRA",
+      "order" : 5,
+      "title" : "The Secret Engine - Part 1",
+      "duration" : 1481,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 05 The Secret Engine (part 1).mp4",
+      "description" : "Spee tries to help an old man find his stolen car. It turns out the car has a map to a treasure, which a criminal mastermind is prepared to get at any cost."
+    },
+    "DWHO0781" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 1.mp4",
+      "title" : "Genesis of the Daleks (part 1)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and his companions are sent to the planet Skaro by the Time Lords to prevent the creation of the Daleks.",
+      "year" : 1975,
+      "duration" : 1471
+    },
+    "DRHI03" : {
+      "series_id" : "DRHI",
+      "order" : 3,
+      "title" : "Atlanta",
+      "duration" : 1281,
+      "year" : 2013,
+      "path" : "..\/Drunk History\/Drunk History - 03 Atlanta.m4v",
+      "description" : "John Pemberton invents Coca-Cola from wine and cocaine, the FBI tries to take down Martin Luther King Jr., and Stetson Kennedy infiltrates the Ku Klux Klan. Guest starring Bill Hader, Simon Helberg, Kevin Nealon and more."
+    },
+    "DWHO0782" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 2.mp4",
+      "title" : "Genesis of the Daleks (part 2)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and Harry are taken to the Kaled bunker where Davros is preparing to demonstrate the Daleks, while Sarah is captured by the Thals and taken to their city as a slave worker.",
+      "year" : 1975,
+      "duration" : 1494
+    },
+    "LRSS03" : {
+      "series_id" : "LRSS",
+      "order" : 3,
+      "title" : "The Spider Episode",
+      "duration" : 1648,
+      "year" : 1992,
+      "path" : "..\/Larry Sanders Show, The\/Larry Sanders Show, The - 03 The Spider Episode.m4v",
+      "description" : "Larry's fear of spiders poses a problem for the show."
+    },
+    "DWHO0783" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 3.mp4",
+      "title" : "Genesis of the Daleks (part 3)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor and Harry head to the Kaled city to alert the authorities to Davros' plans while Sarah and Sevrin are forced to work on the completion of the Thals' rocket.",
+      "year" : 1975,
+      "duration" : 1360
+    },
+    "SIVA03" : {
+      "series_id" : "SIVA",
+      "order" : 3,
+      "title" : "Articles of Incorporation",
+      "duration" : 1720,
+      "year" : 2014,
+      "path" : "..\/Silicon Valley\/Silicon Valley (Season 1) 3.m4v",
+      "description" : "The guys find themselves in trouble with their company name when they find out it's already taken. So whilst Richard tries to find a solution, Erlich searches for a new name in another dimension of his consciousness."
+    },
+    "LAMN1961" : {
+      "path" : "..\/1960's Classics\/Ladies Man, The (1961).m4v",
+      "title" : "The Ladies Man",
+      "description" : "A clueless, recently-single graduate unwittingly takes a job as a servant in a mansion inhabited by dozens of young women. Jerry Lewis stars.",
+      "year" : 1961,
+      "duration" : 5743
+    },
+    "DWHO0784" : {
+      "path" : "..\/Doctor Who\/Dr. Who 078 - Genesis Of The Daleks 4.mp4",
+      "title" : "Genesis of the Daleks (part 4)",
+      "series_id" : "DWHO",
+      "description" : "The Doctor fails to prevent the Thals from destroying the Kaled city but they don't have long to enjoy their victory before the Daleks attack.",
+      "year" : 1975,
+      "duration" : 1421
+    },
+    "ZATV03" : {
+      "series_id" : "ZATV",
+      "order" : 3,
+      "title" : "A Memorial Day and the Bell of Life",
+      "duration" : 2836,
+      "year" : 1974,
+      "path" : "..\/Zatoichi TV Series\/Tales Of Zatoichi 03.m4v",
+      "description" : "Due to an event in his past, Zatoichi won't draw his sword on a certain day every year. That day has arrived. His enemies, however, have no such restriction. Now he must try to survive the day."
+    },
+    "LISP12" : {
+      "series_id" : "LISP",
+      "order" : 12,
+      "title" : "The Raft",
+      "duration" : 3093,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 12 The Raft.m4v",
+      "description" : "Will's message-in-a-bottle experiments deplete the supply of fuel for the Jupiter 2. John and Don work on an alternate fuel source, but they cannot stabilize the output. Deciding to build a smaller, 2-man craft, they pull the reactor chamber out and use Will's experiments to construct a space raft."
+    },
+    "LISP14" : {
+      "series_id" : "LISP",
+      "order" : 14,
+      "title" : "Attack of the Monster Plants",
+      "duration" : 3090,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 14 Attack of the Monster Plants.m4v",
+      "description" : "Banished from camp for his latest endangering behavior, Dr. Smith discovers alien plants that can duplicate things (including people), which he uses to his advantage."
+    },
+    "RBBT06" : {
+      "series_id" : "RBBT",
+      "order" : 6,
+      "title" : "Banshee",
+      "duration" : 1702,
+      "year" : 1986,
+      "path" : "..\/Ray Bradbury Theater\/Ray Bradbury Theater - 06 Banshee.m4v",
+      "description" : "An eccentric flamboyant critic, who's staying at a lodge in the Irish woods, makes a bet with a mild-mannered skeptical writer, that the legend about the sad banshee haunting the forest searching for her lover is real."
+    },
+    "MSTK0103" : {
+      "series_id" : "MSTK",
+      "order" : 25,
+      "title" : "Mad Monster",
+      "duration" : 5740,
+      "year" : 1989,
+      "path" : "..\/MST3K\/MST3K 103 - Mad Monster.m4v",
+      "description" : "Things get hairy on the Satellite of Love thanks to the lupine antics of The Mad Monster (1942) and the second chapter of Radar Men from the Moon (1952)."
+    },
+    "ICLD03" : {
+      "series_id" : "ICLD",
+      "order" : 3,
+      "title" : "Waiting in the Wings",
+      "duration" : 3010,
+      "year" : 1976,
+      "path" : "..\/I, Claudius\/I, Claudius - 03.m4v",
+      "description" : "Whilst Tiberius in exile derives some comfort from hearing of the mysterious death of Gaius, Antonia confesses to Julia her disappointment in Claudius."
+    },
+    "GODZ02" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Godzilla Raids Again (Godzilla #2, 1955, dubbed).mp4",
+      "title" : "Godzilla Raids Again",
+      "description" : "Fishing scout-pilots are startled to discover a new monster named Anguirus alongside a second Godzilla. The monsters make their way towards Osaka as Japan can only brace for tragedy and relive the horror of Godzilla once more. (Gojira no gyakushû , dubbed in English)",
+      "year" : 1955,
+      "duration" : 4689
+    },
+    "SOKO03" : {
+      "series_id" : "SOKO",
+      "order" : 3,
+      "title" : "The Gargoyle Vine: A Space Plant",
+      "duration" : 1464,
+      "year" : 1967,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 03.m4v",
+      "description" : "Under Emperor Guillotine's orders, Dr. Over, a leading member of BF Syndicate, comes to the earth with a fossil of a devilish space plant called Satan Rose."
+    },
+    "ACGS03" : {
+      "path" : "..\/All Creatures Great and Small\/All Creatures Great and Small - 03 Andante.m4v",
+      "title" : "Andante",
+      "series_id" : "ACGS",
+      "order" : 3,
+      "description" : "",
+      "duration" : 3131
+    },
+    "DNMN03" : {
+      "series_id" : "DNMN",
+      "order" : 3,
+      "title" : "Colony Three",
+      "duration" : 3048,
+      "year" : 1965,
+      "path" : "..\/Danger Man\/Danger Man 03.m4v",
+      "description" : "Drake takes the place of a defector and goes behind the iron curtain to find out what is happening when foreign agents reach England."
+    },
+    "LITB011" : {
+      "series_id" : "LITB",
+      "order" : 11,
+      "title" : "Beaver's Short Pants",
+      "duration" : 1565,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 011 Beaver's Short Pants.mp4",
+      "description" : "Beaver suffers the consequences when June's beloved Aunt Martha comes to stay at the Cleavers and sends him to school dressed in her idea of what a young boy should wear to school...an old-fashioned suit with short pants and cap."
+    },
+    "2318090D" : {
+      "path" : "..\/AFI 100\/Night at the Opera, A (1935).mkv",
+      "duration" : 5471,
+      "title" : "Night at the Opera, A (1935)"
+    },
+    "GAS1949" : {
+      "path" : "..\/1940's Classics\/Gaslight (1940).m4v",
+      "title" : "Gaslight",
+      "description" : "Twenty years after the murder of Alice Barlow, her house is finally occupied again. However, the husband from the couple who have moved in has a secret which he will do anything to keep hidden.",
+      "year" : 1940,
+      "duration" : 5035
+    },
+    "CODE1984" : {
+      "path" : "..\/Drive-In Night\/Conan the Destroyer (1984).m4v",
+      "title" : "Conan the Destroyer",
+      "description" : "Conan leads a ragtag group of adventurers on a quest for a princess.",
+      "year" : 1984,
+      "duration" : 6069
+    },
+    "LITB012" : {
+      "series_id" : "LITB",
+      "order" : 12,
+      "title" : "The Perfume Salesman",
+      "duration" : 1567,
+      "year" : 1957,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 012 The Perfume Salesman.mp4",
+      "description" : "Wally and Beaver send for a supply of \"Flower of the Orient\" perfume to sell door-to-door, planning make enough money to buy a movie projector. But selling the perfume turns out to be harder than they think, especially when everyone agrees that it smells like an old catcher's mitt!"
+    },
+    "WNCH1950" : {
+      "path" : "..\/Westerns\/Winchester '73 (1950).m4v",
+      "title" : "Winchester '73",
+      "series_id" : "",
+      "description" : "A cowboy's obsession with a stolen rifle leads to a bullet-ridden odyssey through the American West.",
+      "year" : 1950,
+      "duration" : 5545
+    },
+    "BSG103" : {
+      "series_id" : "BSG1",
+      "order" : 3,
+      "title" : "The Lost Warrior",
+      "duration" : 2922,
+      "year" : 1978,
+      "path" : "..\/Battlestar Galactica TOS\/Battlestar Galactica 04 - The Lost Warrior.m4v",
+      "description" : "Apollo crashes on the Wild West like planet Equellus after being pursued by four Cylon fighters. Taken in by a widow named Vella and her son Puppis, Apollo takes on crime boss La Certa and Red-Eye, a Cylon centurion turned formidable gunfighter who killed Vella's husband Martin."
+    },
+    "LITB015" : {
+      "series_id" : "LITB",
+      "order" : 15,
+      "title" : "Party Invitation",
+      "duration" : 1567,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 015 Party Invitation.mp4",
+      "description" : "Beaver finds himself where no self-respecting second grade boy would ever want to be: the only boy invited to little Linda Dennison's otherwise all-girl party."
+    },
+    "CHMP03" : {
+      "series_id" : "CHMP",
+      "order" : 3,
+      "title" : "Reply Box No. 666",
+      "duration" : 2922,
+      "year" : 1968,
+      "path" : "..\/Champions, The\/The Champions 03 - Reply Box No 666.mp4",
+      "description" : "A young explosives expert called Semenkin is found murdered in his Jamaican hotel room whilst posing as a French businessman."
+    },
+    "ULTR06" : {
+      "series_id" : "ULTR",
+      "order" : 6,
+      "title" : "The Coast Guard Command",
+      "duration" : 1518,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 06.mp4",
+      "description" : "The Science Patrol has to deal with the smuggler Diamond Kick and a cacao-eating monster from Brazil."
+    },
+    "WWOC1951" : {
+      "path" : "..\/Classic Sci-Fi\/When World's Collide (1951).m4v",
+      "title" : "When World's Collide",
+      "description" : "As a new star and planet hurtle toward a doomed Earth, a small group of survivalists frantically work to complete the rocket which will take them to their new home.",
+      "year" : 1951,
+      "duration" : 4938
+    },
+    "ULTR02J" : {
+      "path" : "..\/Ultraman (Japanese, Engligh Subtitled)\/Ultraman - 02 Shoot the Invaders!.mp4",
+      "title" : "Shoot the Invaders!",
+      "series_id" : "ULTR",
+      "order" : 2,
+      "description" : "",
+      "duration" : 1517
+    },
+    "LITB014" : {
+      "series_id" : "LITB",
+      "order" : 14,
+      "title" : "Part-Time Genius",
+      "duration" : 1566,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 014 Part Time Genius.mp4",
+      "description" : "After having to listen to colleague \"Corny\" Cornelius brag about his children's academic excellence, Ward is thrilled to return the favor when principal Mrs. Rayburn calls to say that Beaver's score on an intelligence test is the highest in the school; but one of Beaver's classmates has a secret and Ward may have to eat his words."
+    },
+    "LITB013" : {
+      "series_id" : "LITB",
+      "order" : 13,
+      "title" : "Voodoo Magic",
+      "duration" : 1566,
+      "year" : 1958,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 013 Voodoo Magic.mp4",
+      "description" : "Eddie Haskell thinks it's funny when Wally and Beaver are grounded after he tricks them into going to the movie \"Voodoo Curse\" even though they promised June that they wouldn't ... until Beaver gets even by using a little \"voodoo magic\" on Eddie!"
+    },
+    "CSCR03" : {
+      "series_id" : "CSCR",
+      "order" : 3,
+      "title" : "Big Ben Strikes Again",
+      "duration" : 1559,
+      "year" : 1967,
+      "path" : "..\/Captain Scarlet\/Captain Scarlet 03 - Big Ben Strikes Again.m4v",
+      "description" : "The Mysterons threaten to blow up London with a bomb they have stolen. Spectrum race against time to stop this latest and greatest threat to mankind."
+    },
+    "HARV1950" : {
+      "path" : "..\/1950's Classics\/Harvey (1950).m4v",
+      "title" : "Harvey",
+      "description" : "Due to his insistence that he has an invisible six foot-tall rabbit for a best friend, a whimsical middle-aged man is thought by his family to be insane - but he may be wiser than anyone knows.",
+      "year" : 1950,
+      "duration" : 6258
+    },
+    "OFUK03" : {
+      "series_id" : "OFUK",
+      "order" : 3,
+      "title" : "The Quiz",
+      "duration" : 1775,
+      "year" : 2001,
+      "path" : "..\/Office, The (U.K.)\/Office, The (U.K.) 03.mp4",
+      "description" : "It is Tim's 30th birthday - he receives a card from Dawn and an unusual inflatable gift from Lee. More importantly, however, it's Quiz Night and there are reputations to be made or lost."
+    },
+    "AHCP010" : {
+      "series_id" : "AHCP",
+      "order" : 10,
+      "title" : "The Case of Mr. Pelham",
+      "duration" : 1529,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 010 - The Case of Mr. Pelham.m4v",
+      "description" : "A series of troubling incidents lead Mr. Pelham to believe that he has a double who is deliberately impersonating him."
+    },
+    "PRSN03" : {
+      "path" : "..\/Prisoner, The\/Prisoner, The 03 - A, B, and C.m4v",
+      "title" : "A. B. and C.",
+      "series_id" : "PRSN",
+      "description" : "Number Two believes that Number Six resigned because he was going to sell out. Using dream manipulation, Number Two tries to determine which one of three possible candidates Number Six was dealing with.",
+      "year" : 1967,
+      "duration" : 3033
+    },
+    "AHCP011" : {
+      "series_id" : "AHCP",
+      "order" : 11,
+      "title" : "Guilty Witness",
+      "duration" : 1561,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 011 - Guilty Witness.m4v",
+      "description" : "When Mr. and Mrs. Crane hear the Verbers having a violent argument in the apartment just above them, and then Mr. Verber disappears the next day, they can't help suspecting the worst."
+    },
+    "JOQU03" : {
+      "series_id" : "JOQU",
+      "order" : 3,
+      "title" : "The Curse of Anubis",
+      "duration" : 1523,
+      "year" : 1964,
+      "path" : "..\/Jonny Quest\/Jonny Quest 03.m4v",
+      "description" : "A plot to frame Dr. Quest for the theft of a national Egyptian treasure awakens an ancient mummy to dog the steps of the true culprits."
+    },
+    "AHCP012" : {
+      "series_id" : "AHCP",
+      "order" : 12,
+      "title" : "Santa Claus and the 10th Avenue Kid",
+      "duration" : 1550,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 012 - Santa Claus And The 10th Avenue Kid.m4v",
+      "description" : "While working as a department store Santa Claus, a paroled convict tries to help a troubled boy."
+    },
+    "HONW03" : {
+      "series_id" : "HONW",
+      "order" : 3,
+      "title" : "The Abominable Snowman",
+      "duration" : 1492,
+      "year" : 1965,
+      "path" : "..\/Honey West\/Honey West 03 - The Abominable Snowman.mp4",
+      "description" : "When a dying client gives Honey a snowglobe, the private detective doesn't grasp the importance of the object until other interested parties attempt to steal it."
+    },
+    "AHCP013" : {
+      "series_id" : "AHCP",
+      "order" : 13,
+      "title" : "The Cheney Vase",
+      "duration" : 1527,
+      "year" : 1955,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 013 - The Cheney Vase.m4v",
+      "description" : "When Lyle Endicott is fired from his job at an art museum, he comes up with a plan to take advantage of a trusting invalid whom he befriended at the museum."
+    },
+    "SPRA06" : {
+      "series_id" : "SPRA",
+      "order" : 6,
+      "title" : "The Secret Engine - Part 2",
+      "duration" : 1480,
+      "year" : 1967,
+      "path" : "..\/Speed Racer\/Speed Racer - 06 The Secret Engine (part 2).mp4",
+      "description" : "Speed leads Blaggard's men to the treasure but manages to alert his family and Trixie. The stage is set for a great battle."
+    },
+    "AHCP014" : {
+      "series_id" : "AHCP",
+      "order" : 14,
+      "title" : "A Bullet for Baldwin",
+      "duration" : 1530,
+      "year" : 1956,
+      "path" : "..\/Alfred Hitchcock Presents\/Alfred Hitchcock Presents 014 - A Bullet For Baldwin.m4v",
+      "description" : "When an office worker is fired from his job, he shoots his boss to death, but when he returns to the office his boss is alive, and has no recollection of the incident."
+    },
+    "FETM02" : {
+      "series_id" : "FETM",
+      "order" : 2,
+      "title" : "Apollo 1",
+      "duration" : 3602,
+      "year" : 1998,
+      "path" : "..\/From the Earth to the Moon\/From the Earth to the Moon - 2 Apollo 1.m4v",
+      "description" : "NASA prepares for the Apollo 1 mission, then investigates the cause of the mission's tragic cabin fire."
+    },
+    "TWZN007" : {
+      "series_id" : "TWZN",
+      "order" : 7,
+      "title" : "The Lonely",
+      "duration" : 1575,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 007 The Lonely.mp4.m4v",
+      "description" : "A convict, living alone on an asteroid, receives from the police a realistic woman-robot."
+    },
+    "TWZN008" : {
+      "series_id" : "TWZN",
+      "order" : 8,
+      "title" : "Time Enough At Last",
+      "duration" : 1503,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 008 Time Enough at Last.mp4",
+      "description" : "A henpecked book lover finds himself blissfully alone with his books after a nuclear war."
+    },
+    "TWZN009" : {
+      "series_id" : "TWZN",
+      "order" : 9,
+      "title" : "Perchance to Dream",
+      "duration" : 1558,
+      "year" : 1959,
+      "path" : "..\/Twilight Zone\/Twilight Zone - 009 Perchance to Dream.m4v",
+      "description" : "A fatigued man fights to stay awake as he explains to a psychiatrist that if he falls asleep it will trigger a nightmare, which will cause his heart to fail."
+    },
+    "LISP11" : {
+      "series_id" : "LISP",
+      "order" : 11,
+      "title" : "Wish Upon A Star",
+      "duration" : 3095,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 11 Wish Upon a Star.m4v",
+      "description" : "Will and Dr. Smith come upon an alien machine that grants wishes, which tests the values of the Robinson group."
+    },
+    "CON103" : {
+      "series_id" : "CON1",
+      "order" : 3,
+      "title" : "Distant Voices",
+      "duration" : 3017,
+      "year" : 1978,
+      "path" : "..\/Connections 1\/Connections 03 Distant Voices.mp4",
+      "description" : "Follow the connections from the battle of Hastings in 1066, through the use of gunpowder, the invention of cannon, water pumps, barometers, the telephone, and radio telescopes."
+    },
+    "LISP13" : {
+      "series_id" : "LISP",
+      "order" : 13,
+      "title" : "One of Our Dogs is Missing",
+      "duration" : 3088,
+      "year" : 1965,
+      "path" : "..\/Lost in Space\/Lost in Space - 13 One of Our Dogs Is Missing.m4v",
+      "description" : "With the men off on a mission, the Robinson women must deal with an alien intruder."
+    },
+    "CADF003" : {
+      "series_id" : "CADF",
+      "order" : 3,
+      "title" : "The Leper of St. Giles",
+      "duration" : 4521,
+      "year" : 1994,
+      "path" : "..\/Cadfael\/Cadfael - The Leper Of St. Giles.m4v",
+      "description" : "When a cruel middle-aged baron and a beautiful wealthy orphan are to be wed at the abbey, it comes as no surprise when the sadistic nobleman is found strangled to death."
+    },
+    "TPOD03" : {
+      "series_id" : "TPOD",
+      "order" : 3,
+      "title" : "The English Channel: July, 2089 AD",
+      "duration" : 1483,
+      "year" : 1984,
+      "path" : "..\/Tripods, The (TV Series)\/Tripods, The - 03.mp4",
+      "description" : "Will and Henry eventually make the crossing to France only to be arrested on their arrival. In jail they meet a new friend who promises to help them escape, and join them on their trip to The White Mountains."
+    },
+    "CONB1982" : {
+      "path" : "..\/Drive-In Night\/Conan the Barbarian (1982).m4v",
+      "title" : "Conan the Barbarian",
+      "description" : "A young boy, Conan, becomes a slave after his parents are killed and tribe destroyed by a savage warlord and sorcerer, Thulsa Doom. When he grows up he becomes a fearless, invincible fighter. Set free, he plots revenge against Thulsa Doom.",
+      "year" : 1982,
+      "duration" : 7749
+    },
+    "STAN03" : {
+      "series_id" : "STAN",
+      "order" : 3,
+      "title" : "One of Our Planets is Missing",
+      "duration" : 1451,
+      "year" : 1973,
+      "path" : "..\/Star Trek Animated Series\/Star Trek Animated Series - 03 One of Our Planets Is Missing.m4v",
+      "description" : "The crew of the Enterprise must stop a living planet-consuming cloud before it attacks an inhabited world."
+    },
+    "PUFO03" : {
+      "series_id" : "PUFO",
+      "order" : 3,
+      "title" : "The Fremont Incident",
+      "duration" : 2918,
+      "year" : 1978,
+      "path" : "..\/Project U.F.O.\/Project U.F.O. - S1E3 - The Fremont Incident.mp4",
+      "description" : "I'm New York state, Major Gatlin and S\/Sgt. Fritz Investigate a series of UFO sightings, including a sighting of alien beings and as well as claims to have fragments of alien spacecraft.."
+    },
+    "ULTR05" : {
+      "series_id" : "ULTR",
+      "order" : 5,
+      "title" : "The Secret of the Miroganda",
+      "duration" : 1518,
+      "year" : 1966,
+      "path" : "..\/Ultraman\/Ultraman 05.mp4",
+      "description" : "A scientist finds a rare plant that is determined to destroy humanity."
+    },
+    "PATV02" : {
+      "series_id" : "PATV",
+      "order" : 2,
+      "title" : "The Gladiators",
+      "duration" : 2987,
+      "year" : 1974,
+      "path" : "..\/Planet Of The Apes (Television)\/Planet Of The Apes TV 02.mp4",
+      "description" : "Burke and Virdon are faced with having to fight to the death when they are captured, and the Ape Prefect amuses himself by staging gladiator-style fights between the humans in his charge."
+    },
+    "CODC1919" : {
+      "path" : "..\/Birth of Cinema\/Cabinet of Dr. Caligari, The (1919).m4v",
+      "title" : "The Cabinet of Dr. Caligari",
+      "description" : "Considered the quintessential work of German Expressionist cinema, it tells the story of an insane hypnotist who uses a somnambulist to commit murders. Silent.",
+      "year" : 1919,
+      "duration" : 4303
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "ULTR02J"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "TPOD03"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "PATV02"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "YOJI1961"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "FETM02"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66005"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "PRSN03"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0772"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "CODC1919"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP010"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB011"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA05"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP11"
+      },
+      {
+        "start_time" : "17:25",
+        "resource_id" : "FWLT03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CADF003"
+      },
+      {
+        "start_time" : "21:00",
+        "resource_id" : "TWZN007"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:00",
+        "resource_id" : "DNMN03"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0781"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "GAS1949"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP011"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB012"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR05"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP12"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "LRSS03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "CON103"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "DUCK1933"
+      },
+      {
+        "start_time" : "20:10",
+        "resource_id" : "2318090D"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "TWZN008"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:00",
+        "resource_id" : "HONW03"
+      },
+      {
+        "start_time" : "11:30",
+        "resource_id" : "RBBT06"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0782"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "HARV1950"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP012"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB013"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO03"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP13"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "OFUK03"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "WNCH1950"
+      }
+    ],
+    [
+      {
+        "start_time" : "10:00",
+        "resource_id" : "RT66006"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "CHMP03"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0783"
+      },
+      {
+        "start_time" : "13:00",
+        "resource_id" : "LAMN1961"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP013"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB014"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA06"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP14"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "SIVA03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ACGS03"
+      },
+      {
+        "start_time" : "21:00",
+        "resource_id" : "TWZN009"
+      }
+    ],
+    [
+      {
+        "start_time" : "11:00",
+        "resource_id" : "PUFO03"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "DWHO0784"
+      },
+      {
+        "start_time" : "15:00",
+        "resource_id" : "AHCP014"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB015"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "ULTR06"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "BSG103"
+      },
+      {
+        "start_time" : "17:30",
+        "resource_id" : "DRHI03"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "ICLD03"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "WWOC1951"
+      },
+      {
+        "start_time" : "20:30",
+        "resource_id" : "DRAC1931"
+      },
+      {
+        "start_time" : "22:00",
+        "resource_id" : "NIGA01"
+      }
+    ],
+    [
+      {
+        "start_time" : "09:00",
+        "resource_id" : "JOQU03"
+      },
+      {
+        "start_time" : "09:30",
+        "resource_id" : "CSCR03"
+      },
+      {
+        "start_time" : "10:00",
+        "resource_id" : "STAN03"
+      },
+      {
+        "start_time" : "11:00",
+        "resource_id" : "ZATV03"
+      },
+      {
+        "start_time" : "12:00",
+        "resource_id" : "GODZ02"
+      },
+      {
+        "start_time" : "14:00",
+        "resource_id" : "MSTK0103"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "CONB1982"
+      },
+      {
+        "start_time" : "21:10",
+        "resource_id" : "CODE1984"
+      }
+    ]
+  ]
+}

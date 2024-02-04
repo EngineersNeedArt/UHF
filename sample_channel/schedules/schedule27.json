@@ -1,0 +1,270 @@
+{
+  "day_count" : 7,
+  "resources" : {
+    "LITB117" : {
+      "series_id" : "LITB",
+      "order" : 117,
+      "title" : "Beaver's Team",
+      "duration" : 1538,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 117 Beaver's Team.m4v",
+      "description" : "When Wally and Eddie coach Beaver's summer football team and give them a secret play to use against the opposing team, Beaver finds out that the best way to keep a secret is to not tell it...to anyone!"
+    },
+    "LISP35" : {
+      "series_id" : "LISP",
+      "order" : 35,
+      "title" : "The Prisoners of Space",
+      "duration" : 3063,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 35 - The Prisoners Of Space.m4v",
+      "description" : "The Robinsons are tried for space crimes and the evidence shows that Smith is really responsible for the mishaps."
+    },
+    "LITB118" : {
+      "series_id" : "LITB",
+      "order" : 118,
+      "title" : "Beaver Won't Eat",
+      "duration" : 1516,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 118 Beaver Won't Eat.m4v",
+      "description" : "When Beaver refuses to eat his Brussels sprouts, Ward and June try to find a compromise in their differing opinions on discipline, with surprising results."
+    },
+    "LITB119" : {
+      "series_id" : "LITB",
+      "order" : 119,
+      "title" : "Beaver's House Guest",
+      "duration" : 1505,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 119 Beaver's House Guest.m4v",
+      "description" : "Ward and June are concerned when they discover that Beaver's visiting friend Chopper has divorced parents but soon see that Chopper's own experience will serve as Beaver's best lesson on this life changing event."
+    },
+    "MNBS4" : {
+      "path" : "..\/Moonbase 3 (TV series)\/Moonbase 3 - 04 Outsiders.mp4",
+      "title" : "Outsiders",
+      "series_id" : "MNBS",
+      "order" : 4,
+      "duration" : 3136
+    },
+    "MNIN1973" : {
+      "path" : "..\/Westerns\/My Name is Nobody (1973).mp4",
+      "title" : "My Name is Nobody",
+      "description" : "",
+      "year" : 1973,
+      "duration" : 6947
+    },
+    "SPRA48" : {
+      "series_id" : "SPRA",
+      "order" : 48,
+      "title" : "Junk Car Grand Prix",
+      "duration" : 1417,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 48 Junk Car Grand Prix.mp4",
+      "description" : "The Junkyard Grand Prix is hosted by a rich baron in honour of his missing daughter. But in fact she appears in the race as an unknowing competitor to Speed."
+    },
+    "ROKA1963" : {
+      "path" : "..\/Samurai\/Revenge of a Kabuki Actor (1963).m4v",
+      "title" : "Revenge of a Kabuki Actor",
+      "description" : "",
+      "year" : 1963,
+      "duration" : 6796
+    },
+    "LISP34" : {
+      "series_id" : "LISP",
+      "order" : 34,
+      "title" : "Space Circus",
+      "duration" : 3080,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 34 - Space Circus.m4v",
+      "description" : "A space circus comes to town and the owner wants Will to run away with it."
+    },
+    "SOKO24" : {
+      "series_id" : "SOKO",
+      "order" : 24,
+      "title" : "Hydrazona, a Terrifying Bacteria",
+      "duration" : 1507,
+      "year" : 1968,
+      "path" : "..\/Johnny Sokko\/Johnny Sokko 24.m4v",
+      "description" : "Hydrazone Bacteria; a liquid monster with acidic body and an ability to move over water wreaks havoc, dissolving anything it wants, even metal and people. Will Johnny and Giant Robot overcome this terrific Bacteria and massive Ice ally."
+    },
+    "LITB120" : {
+      "series_id" : "LITB",
+      "order" : 120,
+      "title" : "Beaver Becomes a Hero",
+      "duration" : 1551,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 120 Beaver Becomes a Hero.m4v",
+      "description" : "Beaver's slightly exaggerated story about rescuing an abandoned canoe while fishing with Wally takes on a life of its own while passing through the school grapevine and Beaver finds that not being completely truthful can have disastrous results."
+    },
+    "LISP36" : {
+      "series_id" : "LISP",
+      "order" : 36,
+      "title" : "The Android Machine",
+      "duration" : 3077,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 36 - The Android Machine.m4v",
+      "description" : "Doctor Smith creates an android that they teach to be more human. A humanoid shows up looking for payment for the android."
+    },
+    "UFOT24" : {
+      "series_id" : "UFOT",
+      "order" : 24,
+      "title" : "Reflections in the Water",
+      "duration" : 2972,
+      "year" : 1971,
+      "path" : "..\/U.F.O.\/UFO - 24 Reflections In The Water.m4v",
+      "description" : ""
+    },
+    "HOLM02" : {
+      "series_id" : "HOLM",
+      "order" : 2,
+      "title" : "The Dancing Men",
+      "duration" : 3273,
+      "year" : 1984,
+      "path" : "..\/Sherlock Holmes\/Sherlock Holmes - 02 The Dancing Men.m4v",
+      "description" : "A gentleman is baffled when the childish drawings of little dancing men terrify his American wife. Sherlock Holmes soon discovers why."
+    },
+    "ROME1945" : {
+      "path" : "..\/1940's Classics\/Rome, Open City (Roma Città Aperta, 1945).m4v",
+      "title" : "Rome, Open City",
+      "description" : "Roma Città Aperta",
+      "year" : 1945,
+      "duration" : 6186
+    },
+    "SPRA47" : {
+      "series_id" : "SPRA",
+      "order" : 47,
+      "title" : "Car with a Brain",
+      "duration" : 1407,
+      "year" : 1968,
+      "path" : "..\/Speed Racer\/Speed Racer - 47 Car with a Brain.mp4",
+      "description" : "A mad scientist brings to life a monster car that wreaks mayhem and destruction across the country. Can Speed stop it?"
+    },
+    "RODN1956" : {
+      "path" : "..\/Kaiju (Giant Monsters)\/Rodan (1956, dubbed).m4v",
+      "title" : "Rodan",
+      "description" : "Dubbed.",
+      "year" : 1956,
+      "duration" : 4339
+    },
+    "LITB116" : {
+      "series_id" : "LITB",
+      "order" : 116,
+      "title" : "The Last Day of School",
+      "duration" : 1498,
+      "year" : 1960,
+      "path" : "..\/Leave it to Beaver\/Leave it to Beaver - 116 The Last Day of School.m4v",
+      "description" : "Over breakfast on the last day of school before summer vacation, Beaver and Wally sneak a peek at the gift June bought for Beaver to give to his teacher. The embarrassed boys find a lacy slip and, not knowing that the department store made a mistake and that his gift was supposed to be handkerchiefs, Beaver must decide whether to give Miss Landers the slip or nothing at all."
+    },
+    "LISP33" : {
+      "series_id" : "LISP",
+      "order" : 33,
+      "title" : "Forbidden World",
+      "duration" : 3077,
+      "year" : 1966,
+      "path" : "..\/Lost in Space\/Lost In Space 33 - Forbidden World.m4v",
+      "description" : "The Robinsons encounter a hermit who plans to attack the Jupiter 2 with his army."
+    },
+    "MDGT1936" : {
+      "path" : "..\/1930's Classics\/Mr. Deeds Goes to Town (1936).mp4",
+      "title" : "Mr. Deeds Goes to Town",
+      "description" : "A unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him. Stars Gary Cooper.",
+      "year" : 1936,
+      "duration" : 6936
+    }
+  },
+  "days" : [
+    [
+      {
+        "start_time" : "14:00",
+        "resource_id" : "ROKA1963"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "MDGT1936"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB116"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA47"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP33"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "HOLM02"
+      }
+    ],
+    [
+      {
+        "start_time" : "13:00",
+        "resource_id" : "ROME1945"
+      },
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB117"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP34"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB118"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SOKO24"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP35"
+      },
+      {
+        "start_time" : "19:00",
+        "resource_id" : "MNIN1973"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB119"
+      },
+      {
+        "start_time" : "16:00",
+        "resource_id" : "SPRA48"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "LISP36"
+      },
+      {
+        "start_time" : "18:00",
+        "resource_id" : "UFOT24"
+      }
+    ],
+    [
+      {
+        "start_time" : "15:30",
+        "resource_id" : "LITB120"
+      },
+      {
+        "start_time" : "16:30",
+        "resource_id" : "MNBS4"
+      }
+    ],
+    [
+      {
+        "start_time" : "12:00",
+        "resource_id" : "RODN1956"
+      }
+    ]
+  ],
+  "version" : "UHF Schedule - v1"
+}
