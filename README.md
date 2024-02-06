@@ -33,3 +33,11 @@ For displaying static images **UHF** uses `feh`. Here is the Terminal command to
 ## Basics
 
 The primary file is `uhf.py`. Near the top of the file is a hard-coded path (`CHANNEL_FILE_PATH`) for where the schedule file and/or playlist files live. You should set this path to point to your own "channel" directory.
+
+The `main()` function in `uhf.py` opens and parses the file pointed at in `CHANNEL_FILE_PATH`. If the version property of the file is `UHF Channel - v1` then it runs in "schedule mode" — meaning it will expect a day to day, hour to hour schedule of video content to play. It will look at the current date and time of the machine it is running on and then scan the schedule looking for content that should be playing at that moment. It will attempt then to open the video content and start playback at the point in the video where it should be (according to the schedule).
+
+If instead the version property is `UHF List - v1` then the app runs in "playlist mode" — the video content is played randomly, endlessly.
+
+Even in *schedule mode* the app does take advantage of play-lists to fill dead air-time between scheduled programs. Say you have a movie scheduled to play at noon and another two hours later. If the first movie is 20 minutes short of two hours in length, there will be 20 minutes of "dead air" before the next show starts. The **UHF** schedule can indicate playlists of content to play at random during these dead air breaks. For that reason it is good to have a lot of short content in playlists to act as filler.
+
+Additionally, if for some reason a file in the schedule cannot be found, opened or played, **UHF** will attempt to substitute filler content for the duration of the originally scheduled content.
