@@ -22,13 +22,7 @@ If, like television, you schedule programs to start on the hour/half-hour you wi
 
 ## Installation
 
-When I began development of **UHF** I was on a device running the Buster version of Raspbian. I had early success using OMXPlayer to playback video on the Pi and so developed **UHF** with OMXPlayer as the video framework. A nice Python wrapper `omxplayer-wrapper` (available from PyPy, listed in `requirements.txt`) is a module you will also need.
-
-Note: OMXPlayer itself is already installed on Buster but has been deprecated since. I intend to experiment with VLC (the recommended replacement for OMXPlayer) but as the code stands today, you will probably want to stick with Buster.
-
-For displaying static images **UHF** uses `feh`. Here is the Terminal command to install `feh`:
-
-`sudo apt-get install feh`
+Trying to modernize **UHF**, I am trying to move over to MPV for playback in place of the deprecated OMXPlayer. A nice Python wrapper `python-mpv` (available from PyPy, listed in `requirements.txt`) is a module you will also need.
 
 ## Basics
 
