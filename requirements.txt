@@ -1,6 +1,5 @@
 dateutil
 pillow
 schedule
-omxplayer-wrapper
-python-vlc
+python-mpv
 
